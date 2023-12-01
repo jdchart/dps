@@ -44,6 +44,18 @@ DPS uses Vosk for speech recognition. It is in the roadmap to streamline this pr
 
 DPS uses the FluCoMa CLI for audio analysis. It is in the roadmap to streamline this process, but for the moment, you will need to download the CLI tools [here](https://github.com/flucoma/flucoma-cli/releases/tag/1.0.6) and place them in your system `bin`. It is advised to create a virtual environment for you project and place them in that bin.
 
+### nodejs
+
+You will have to have nodejs installed on your system. We recommend using [nvm](https://github.com/nvm-sh/nvm), or you can download [nodejs](https://nodejs.org/en) from here and install it.
+
+### Install node modules.
+
+The validation interface is a [svelte]() web app that runs on a local browser. For this to work, you will need to install the nodejs modules. To do this, run the [update_validation_interface.sh](/shell/update_validation_interface.sh) that is found in the `shell` folder from the repo directory. For this to work, you will first need to run the following command from the repo directory (this gives the shell script permission to be run, you only need to do it once):
+
+```shell
+chmod a+x shell/update_validation_interface.sh
+```
+
 ## Roadmap
 
 ### Priority
@@ -62,5 +74,5 @@ DPS uses the FluCoMa CLI for audio analysis. It is in the roadmap to streamline 
 ### If possible
 
 - [ ] Optimize _preprocess_audio() in AudioSource().
-- [ ] Add Vosk model and Flucoma CLI download to setup.
+- [ ] Add Vosk model, Flucoma CLI and svelte app modules download to setup.
 - [ ] Add tests
