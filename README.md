@@ -1,2 +1,56 @@
 # dps
-Un package python pour l'analyse DPS (dit-par-seconde)
+
+A python package for DPS analysis (dit-par-seconde).
+
+1. [Overview](#overview)
+2. [Setup](#setup)
+3. [Roadmap](#roadmap)
+
+## Overview
+
+Based on the work of Théo Heugebaert, and developped by Jacob Hart and Théo Heugebaert, DPS offers an environment for dealing with analysis of the number of words spoken in an audio file, deriving various metrics from this raw data, and comparing analyses of different sources. It emerged from the analysis of theatre, but can be applied to any field investigating the analysis of spoken word.
+
+### Audio analysis:
+
+```python
+from dps import AudioSource
+
+src = AudioSource('path/to/audio_file.wav')
+words, silences = src.speech_recognition()
+```
+
+This will return two pandas dataframes, one for each word in the audio file (with start, end, duration, word and confidence), another for all of the silences in the audio file (with start, end and duration). This relises on the [vosk](https://pypi.org/project/vosk/) speech recognition package. See [setup](#setup) for how to use different models.
+
+## Setup
+
+DPS runs as a normal python package, and will eventually be published on the pip. For the moment, you can clone this repo as a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) and run `pip install src/` from root to start working. It is recommended to use virtual environments. You will also need to set up a few other things:
+
+### FFMPEG
+
+DPS uses FFMPEG to resample audio to match Vosk's models input size.
+
+To install ffmpeg:
+
+```shell
+brew install ffmpeg
+```
+
+### Vosk models
+
+DPS uses Vosk for speech recognition. It is in the roadmap to streamline this process, but for the moment, you will need to download the models [here](https://alphacephei.com/vosk/models) and place them in a `models` foler at the root of your project folder.
+
+### FluCoMa CLI
+
+DPS uses the FluCoMa CLI for audio analysis. It is in the roadmap to streamline this process, but for the moment, you will need to download the CLI tools [here](https://github.com/flucoma/flucoma-cli/releases/tag/1.0.6) and place them in your system `bin`. It is advised to create a virtual environment for you project and place them in that bin.
+
+## Roadmap
+
+### Priority
+
+- [ ] Add normalization and boost gain to audio source input (also possibly remove noise).
+- [ ] Create a validation interface.
+
+### If possible
+
+- [ ] Optimize _preprocess_audio() in AudioSource().
+- [ ] Add Vosk model and Flucoma CLI download to setup.
