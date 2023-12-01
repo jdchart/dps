@@ -7,13 +7,8 @@ import dps
 import utils
 import os
 
-# Set a place to output:
-out_dir = os.path.join(os.getcwd(), "output")
-if os.path.isdir(out_dir) == False:
-    os.makedirs(os.path.join(out_dir, "words-out"))
-
-# Get some audio files:    
-file_list = utils.collect_files("test-corpora/en", ["wav"])
+# Set an output destination and get an audio file:
+dest, file_list = utils.get_dest_and_file_list("test-corpora/en")
 
 # Create an instance of the DSP AudioSource class with one of the files:
 audio_source = dps.AudioSource(file_list[0])

@@ -3,6 +3,7 @@ import uuid
 import json
 import vosk
 import wave
+import pickle
 from pydub import AudioSegment
 import pandas as pd
 from .utils import *
@@ -21,6 +22,12 @@ class AudioSource:
         self._source_duration = get_audiofile_length(path)
 
         self.slices = SliceList()
+
+    def write(self, path : str) -> None:
+        """Write the audio source to disk. The file name must use the extension ".pickle"."""
+
+        with open(path, 'wb') as f:
+            pickle.dump(self, f)
 
     def split_word(self, index : int, dest_folder : str) -> str:
         """Pass the index of a slice and output as audio."""

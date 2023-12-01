@@ -9,3 +9,12 @@ def collect_files(path, accepted = []):
             if ext in accepted or len(accepted) == 0:
                 final_list.append(os.path.join(root, file))
     return final_list
+
+def get_dest_and_file_list(file_folder):
+    out_dir = os.path.join(os.getcwd(), "output")
+    if os.path.isdir(out_dir) == False:
+        os.makedirs(out_dir)
+ 
+    file_list = collect_files(file_folder, ["wav"])
+
+    return out_dir, file_list

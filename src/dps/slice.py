@@ -1,4 +1,5 @@
 import numpy as np
+import pickle
 
 class Slice:
     def __init__(self, start, end, **kwargs) -> None:
@@ -26,6 +27,12 @@ class SliceList:
             ret = ret + "\n"
         ret = ret + f"Number of slices: {str(len(self.array))}"
         return ret
+    
+    def write(self, path : str) -> None:
+        """Write the slice array to disk. The file name must use the extension ".pickle"."""
+
+        with open(path, 'wb') as f:
+            pickle.dump(self, f)
 
     def append_slice(self, slice : Slice) -> None:
         """Add a new slice to the slice array."""
@@ -50,7 +57,7 @@ class SliceList:
         You can also query by props by giving the attribute "props" and the kwarg key = "word" for example.
         Finally, you can provide and operator with the op kwarg (by default op = "==").
         """
-        
+
         op = kwargs.get("op", "==")
         if op == "==":
             if attribute != "props":
