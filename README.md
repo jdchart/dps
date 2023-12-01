@@ -49,8 +49,6 @@ DPS uses the FluCoMa CLI for audio analysis. It is in the roadmap to streamline 
 ### Priority
 
 - [ ] Add normalization and boost gain to audio source input (also possibly remove noise).
-- [ ] Make segmentation an attribut of AudioSource class.
-- [ ] Make a segment a class (can have a number of attributes).
 - [ ] Reading and writing AudioSource (csv for segmentations and anlyses, pickle for object)
 - [ ] Create a validation interface.
 - [ ] Merge AudioSources (add one to the end of another)
@@ -59,6 +57,7 @@ DPS uses the FluCoMa CLI for audio analysis. It is in the roadmap to streamline 
 - [ ] Metrics
 - [ ] Visualisations
 - [ ] AudioSource comparisons
+- [ ] Implement possible word list (`KaldiRecognizer(model, 16000, "zero oh one two three four five six seven eight nine")`)
 
 ### If possible
 

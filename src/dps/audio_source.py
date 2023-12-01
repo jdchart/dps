@@ -11,7 +11,9 @@ from .slice import Slice, SliceList
 vosk.SetLogLevel(-1) # Supress vosk console output.
 
 class AudioSource:
-    def __init__(self, path, **kwargs) -> None:
+    def __init__(self, path : str, **kwargs) -> None:
+        """Main audio source class."""
+
         self.source = path
         self.model_paths = kwargs.get("model_paths", os.path.join(os.getcwd(), "models"))
         
@@ -56,7 +58,9 @@ class AudioSource:
 
         self._speech_recognition_parse(res)
 
-    def _speech_recognition_parse(self, sr_results):
+    def _speech_recognition_parse(self, sr_results) -> None:
+        """Update the slices SliceList with the reuslts of a vosk speech recognition analysis."""
+
         self.slices.clear()
         
         if sr_results["result"][0]['start'] == 0:
@@ -91,7 +95,9 @@ class AudioSource:
                         type = 'silence'
                     ))
 
-    def _get_sr_model(self, model_name):
+    def _get_sr_model(self, model_name : str) -> str:
+        """Return the path to a vosk model."""
+
         if model_name == "en_small":
             return os.path.join(self.model_paths, "vosk-model-small-en-us-0.15")
         elif model_name == "fr_small":
@@ -99,6 +105,7 @@ class AudioSource:
 
     def _preprocess_audio(self) -> str:
         """Convert the source to a mono wav file and 16000 sampling rate."""
+
         temp_path = create_temp_folder()
         new_path = os.path.join(temp_path, f"{str(uuid.uuid4())}_{self._file_name}_mono.wav")
         convert_to_mono(self.source, new_path)

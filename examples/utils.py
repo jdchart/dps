@@ -9,4 +9,3 @@ def collect_files(path, accepted = []):
             if ext in accepted or len(accepted) == 0:
                 final_list.append(os.path.join(root, file))
     return final_list
-
