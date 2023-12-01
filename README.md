@@ -25,9 +25,9 @@ This will return two pandas dataframes, one for each word in the audio file (wit
 
 DPS runs as a normal python package, and will eventually be published on the pip. For the moment, you can clone this repo as a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) and run `pip install src/` from root to start working. It is recommended to use virtual environments. You will also need to set up a few other things:
 
-### FFMPEG
+### ffmpeg
 
-DPS uses FFMPEG to resample audio to match Vosk's models input size.
+DPS uses ffmpeg to resample audio to match Vosk's models input size.
 
 To install ffmpeg:
 
