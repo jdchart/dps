@@ -22,15 +22,26 @@ class AudioSource:
 
         self.slices = SliceList()
 
-    # def split_word(self, data_frame, index, out_folder) -> str:
-    #     """Pass the index of a word in the speech recognition result and save as an audio file."""
-    #     df_row = data_frame.iloc[index]
-    #     start_ms = df_row['start'] * 1000
-    #     end_ms = df_row['end'] * 1000
-    #     word_name = df_row['word']
-    #     audio_load = AudioSegment.from_wav(self.source)
-    #     audio_load = audio_load[start_ms:end_ms]
-    #     audio_load.export(os.path.join(out_folder, f"{index}_{word_name}_{str(start_ms)}_{str(end_ms)}.wav"), format="wav")
+    def split_word(self, index : int, dest_folder : str) -> str:
+        """Pass the index of a slice and output as audio."""
+
+        slice = self.slices[index]
+
+        start_ms = slice.start * 1000
+        end_ms = slice.end * 1000
+
+        file_name = f"{str(index)}_{str(start_ms)}_{str(end_ms)}"
+        if slice.type != None:
+            file_name = file_name + f"_{slice.type}"
+            if slice.type == "word":
+                word = slice.props["word"]
+                file_name = file_name + f"_{word}"
+        final_dest = os.path.join(dest_folder, f"{file_name}.wav")
+
+        audio_load = AudioSegment.from_wav(self.source)
+        audio_load = audio_load[start_ms:end_ms]
+        audio_load.export(final_dest, format="wav")
+        return final_dest
 
     def speech_recognition(self, **kwargs) -> dict:
         """

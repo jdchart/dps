@@ -63,3 +63,4 @@ DPS uses the FluCoMa CLI for audio analysis. It is in the roadmap to streamline 
 
 - [ ] Optimize _preprocess_audio() in AudioSource().
 - [ ] Add Vosk model and Flucoma CLI download to setup.
+- [ ] Add tests
