@@ -1,3 +1,3 @@
 from .dps import *
-from .audio_analysis import AudioSource
+from .audio_source import AudioSource
 from .classifier import Classifier

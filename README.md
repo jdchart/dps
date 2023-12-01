@@ -10,16 +10,17 @@ A python package for DPS analysis (dit-par-seconde).
 
 Based on the work of Théo Heugebaert, and developped by Jacob Hart and Théo Heugebaert, DPS offers an environment for dealing with analysis of the number of words spoken in an audio file, deriving various metrics from this raw data, and comparing analyses of different sources. It emerged from the analysis of theatre, but can be applied to any field investigating the analysis of spoken word.
 
-### Audio analysis:
+### Speech recognition:
+
+In DPS, we use [vosk](https://pypi.org/project/vosk/) for speech recognition. See [setup](#setup) for how to use different models. The `AudioSource()` class has method called `speech_recognition()` that will perform the speech recognition analysis. This will update the `AudioSource()` object's `slices` attribute, which is an instance of the DPS `SliceList()` class.
 
 ```python
 from dps import AudioSource
 
 src = AudioSource('path/to/audio_file.wav')
-words, silences = src.speech_recognition()
+src.speech_recognition()
+print(src.slices)
 ```
-
-This will return two pandas dataframes, one for each word in the audio file (with start, end, duration, word and confidence), another for all of the silences in the audio file (with start, end and duration). This relises on the [vosk](https://pypi.org/project/vosk/) speech recognition package. See [setup](#setup) for how to use different models.
 
 ## Setup
 
@@ -52,6 +53,7 @@ DPS uses the FluCoMa CLI for audio analysis. It is in the roadmap to streamline 
 - [ ] Make a segment a class (can have a number of attributes).
 - [ ] Reading and writing AudioSource (csv for segmentations and anlyses, pickle for object)
 - [ ] Create a validation interface.
+- [ ] Merge AudioSources (add one to the end of another)
 - [ ] Post processing
 - [ ] Intepretation
 - [ ] Metrics

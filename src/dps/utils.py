@@ -4,6 +4,7 @@ import os
 import shutil
 import librosa
 import soundfile
+import audiofile
 
 def create_temp_folder() -> str:
     """Create a temporary folder at os.path.join(os.getcwd(), "dps_temp") and return absolute path."""
@@ -17,6 +18,9 @@ def cleanup() -> None:
     path = os.path.join(os.getcwd(), "dps_temp")
     if os.path.isdir(path):
         shutil.rmtree(path)
+
+def get_audiofile_length(path):
+    return audiofile.duration(path)
 
 def convert_to_mono(source_path : str, out_path : str) -> None:
     """Convert a multichannel audio file to mono."""
