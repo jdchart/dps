@@ -1,0 +1,5 @@
+/* General elements */
+body, div, h1, h2, h3, ul, input{
+	font-family: 'Arial', sans-serif;
+	box-sizing: border-box;
+}

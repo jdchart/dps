@@ -70,9 +70,11 @@ chmod a+x shell/update_validation_interface.sh
 - [ ] Visualisations
 - [ ] AudioSource comparisons
 - [ ] Implement possible word list (`KaldiRecognizer(model, 16000, "zero oh one two three four five six seven eight nine")`)
+- [ ] Cache files that are copied to the validation interface.
 
 ### If possible
 
 - [ ] Optimize _preprocess_audio() in AudioSource().
 - [ ] Add Vosk model, Flucoma CLI and svelte app modules download to setup.
 - [ ] Add tests
+- [ ] Video playback for validator

@@ -7,3 +7,5 @@ venv/
 output/
 .DS_Store
 dps_temp/
+validation-interface/src/lib/data/open_files/
+validation-interface/static/audio/
