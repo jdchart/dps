@@ -22,6 +22,16 @@ src.speech_recognition()
 print(src.slices)
 ```
 
+### Stats
+
+You can derive a number of statistics from a DPS `SliceList()`. Following from the previous example:
+
+```python
+src.slices.get_total_type() # Get the total of a type of slice (by default "word")
+src.slices.get_total_duration() # Get the total duration of a type of slice
+src.slices.get_dps() # Get the ratio of total number of slices / total duration.
+```
+
 ## Setup
 
 DPS runs as a normal python package, and will eventually be published on the pip. For the moment, you can clone this repo as a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) and run `pip install src/` from root to start working. It is recommended to use virtual environments. You will also need to set up a few other things:
