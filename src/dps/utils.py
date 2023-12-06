@@ -5,6 +5,19 @@ import shutil
 import librosa
 import soundfile
 import audiofile
+import json
+import subprocess
+import webbrowser
+
+def open_validator() -> None:
+    """
+    Run a local server running the validation interface.
+    
+    Will pause execution of python until the user kills the server.
+    """
+    os.chdir("validation-interface")
+    webbrowser.open('http://localhost:5173/', new = 0, autoraise = True)
+    subprocess.run(["npm", "run", "dev"])
 
 def create_temp_folder() -> str:
     """Create a temporary folder at os.path.join(os.getcwd(), "dps_temp") and return absolute path."""
@@ -36,3 +49,22 @@ def resample(source_path : str, out_path : str, sample_rate = 16000) -> None:
     y_resampled = librosa.resample(y, orig_sr = sr_original, target_sr = sample_rate)
     soundfile.write(out_path, y_resampled, 16000, 'PCM_16')
     return out_path
+
+def write_json(path : str, content : dict, indent : int = 4) -> None:
+    """
+    Donner un chemin de destination et du contenu et enregistrer au format json.
+    
+    Si le dossier n'existe pas, cette fonction créera le dossier de manière récursive.
+    """
+    if os.path.splitext(path)[1] == ".json":
+        check_dir_exists(path)
+
+        with open(path, 'w', encoding='utf-8') as f:
+            json.dump(content, f, ensure_ascii = False, indent = indent)
+    else:
+        print("Erreur ! Il faut donner un fichier avec une extension \"json\" !")
+
+def check_dir_exists(filepath):
+    """Check if folder exists, if not, create it."""
+    if os.path.isdir(os.path.dirname(filepath)) == False:
+        os.makedirs(os.path.dirname(filepath))

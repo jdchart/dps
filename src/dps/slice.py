@@ -11,6 +11,16 @@ class Slice:
         self.type = kwargs.get("type", None)
         self.props = kwargs.get("props", {})
 
+    def to_dict(self) -> dict:
+        """Return the contents of the slice as a dictionary."""
+        return {
+            "start" : self.start,
+            "end" : self.end,
+            "duration" : self.duration,
+            "type" : self.type,
+            "props" : self.props
+        }
+
 class SliceList:
     def __init__(self) -> None:
         """Main slice list object class."""
@@ -33,6 +43,45 @@ class SliceList:
 
         with open(path, 'wb') as f:
             pickle.dump(self, f)
+
+    def to_dict(self) -> dict:
+        """Return the contents of the slice list as a dictionary."""
+
+        ret = {"slices" : []}
+        for item in self.array:
+            ret["slices"].append(item.to_dict())
+        return ret
+    
+    def get_total_type(self, slice_type : str = "word") -> int:
+        """Return the total number of a given type of slice in the slice list."""
+        tot = 0
+        for slice in self.array:
+            if slice.type == slice_type:
+                tot = tot + 1
+        return tot
+    
+    def get_total_duration(self, slice_type : str = "word") -> float:
+        """Return the total time of all of a given slice in the slice list."""
+        tot = 0
+        for slice in self.array:
+            if slice.type == slice_type:
+                tot = tot + slice.duration
+        return tot
+    
+    def get_duration_ratio(self, slice_type_1 : str, slice_type_2 : str) -> float:
+        """Return the ratio of duration of slices of given types."""
+        tot_1 = 0
+        tot_2 = 0
+        for slice in self.array:
+            if slice.type == slice_type_1:
+                tot_1 = tot_1 + slice.duration
+            elif slice.type == slice_type_2:
+                tot_2 = tot_2 + slice.duration
+        return tot_1/tot_2
+    
+    def get_dps(self, slice_type : str = "word") -> float:
+        """Return the quantity of given slice type / duration of given slice type."""
+        return self.get_total_type(slice_type) / self.get_total_duration(slice_type)
 
     def append_slice(self, slice : Slice) -> None:
         """Add a new slice to the slice array."""

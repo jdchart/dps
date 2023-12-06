@@ -4,6 +4,9 @@ import json
 import vosk
 import wave
 import pickle
+import shutil
+import uuid
+from datetime import datetime
 from pydub import AudioSegment
 import pandas as pd
 from .utils import *
@@ -28,6 +31,28 @@ class AudioSource:
 
         with open(path, 'wb') as f:
             pickle.dump(self, f)
+
+    def open_in_validator(self) -> None:
+        """Open the audio source and it's various slice lists in the validation interface."""
+
+        # Create validator files:
+        this_uuid = str(uuid.uuid4())
+        folder_path = os.path.join(os.getcwd(), "validation-interface", "static", "sessions", this_uuid)
+        os.makedirs(folder_path)
+
+        shutil.copyfile(self.source, os.path.join(folder_path, "audio.wav"))
+        write_json(os.path.join(folder_path, "slice_data.json"), self.slices.to_dict())
+
+        # Create open data file for validator:
+        open_data = {"uuid" : this_uuid}
+        open_data_file_name = f"{this_uuid}.json"
+        write_json(os.path.join(os.getcwd(), "validation-interface", "src", "lib", "data", "open_files", open_data_file_name), open_data)
+
+        # Run server:
+        open_validator()
+
+        # This will execute after quitting server:
+        print("hello world")
 
     def split_word(self, index : int, dest_folder : str) -> str:
         """Pass the index of a slice and output as audio."""
