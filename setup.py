@@ -8,7 +8,8 @@ A python package for DPS analysis (dit-par-seconde).
 
 required = [
     "requests", 
-    "numpy"
+    "numpy",
+    "moviepy"
 ]
 
 setup(
