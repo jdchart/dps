@@ -2,6 +2,7 @@ from .utils import read_json
 import numpy as np
 from moviepy.editor import VideoFileClip, AudioFileClip
 import math
+import matplotlib.pyplot as plt
 
 class SpeechAnalysis:
     def __init__(self, path, **kwargs) -> None:
@@ -11,6 +12,7 @@ class SpeechAnalysis:
         self.window_size = kwargs.get("window_size", 10)
         self.raw_analysis = None
         self.media_length = kwargs.get("media_length", None)
+        self.num_words = None
         
         self._load_analysis()
         self._get_media_length()
@@ -21,6 +23,7 @@ class SpeechAnalysis:
         """Read json and update raw_analysis and media."""
         data = read_json(self.analysis_path)
         self.raw_analysis = data["result"]
+        self.num_words = len(data["result"])
         if "media" in data:
             if self.media == None:
                 self.media = data["media"]
@@ -46,7 +49,7 @@ class SpeechAnalysis:
         - class each frame 0 (silence) 1 (spoken)
         - each frame either silence (0) or an incremental int for each new word
         """
-        
+
         num_frames = math.floor(self.media_length / self.window_size)
         curve = np.zeros((num_frames, num_frames), dtype = int)
         for i, word in enumerate(self.raw_analysis):
@@ -55,3 +58,24 @@ class SpeechAnalysis:
             curve[start_frame:end_frame, 0] = 1
             curve[start_frame:end_frame, 1] = i + 1
         return curve
+    
+    def display_raw_curve(self):
+        fig, ax = plt.subplots(figsize=(10, 6))
+
+        bar_width = self.window_size
+        bar_positions = np.arange(self.window_size)
+
+        # Plot each class
+        colors = ['blue', 'green']  # Colors for each class
+        for i in range(self.num_words):
+            ax.bar(bar_positions, self.raw_curve[:, i], width=bar_width, align='edge', color=colors[i], label=f'Class {i+1}')
+
+        # Set the x-axis labels
+        ax.set_xlabel('Frame')
+        ax.set_ylabel('Class')
+        # ax.set_title('Frame Class Distribution')
+        ax.legend()
+        plt.xticks(np.arange(0, self.window_size, step=50), rotation=90)  # Adjust as needed
+
+        plt.tight_layout()
+        plt.show()
