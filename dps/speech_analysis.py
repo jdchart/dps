@@ -57,6 +57,7 @@ class SpeechAnalysis:
             end_frame = int(word["end"] / self.window_size)
             curve[start_frame:end_frame, 0] = 1
             curve[start_frame:end_frame, 1] = i + 1
+            print(f"{start_frame} - {end_frame} : 1 and {i + 1}...")
         return curve
     
     def display_raw_curve(self):
