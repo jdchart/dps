@@ -1,11 +1,2 @@
-examples/__pycache__/
-models/
-src/build/
-src/dps.egg-info
-test-corpora/
 venv/
-output/
 .DS_Store
-dps_temp/
-validation-interface/src/lib/data/open_files/
-validation-interface/static/audio/
