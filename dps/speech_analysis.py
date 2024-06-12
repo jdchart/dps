@@ -59,23 +59,14 @@ class SpeechAnalysis:
             curve[start_frame:end_frame, 1] = i + 1
         return curve
     
-    def display_raw_curve(self):
-        fig, ax = plt.subplots(figsize=(10, 6))
+    def display_raw_curve(self, dim = 0):
+        plt.figure(figsize=(10, 6))
+        frame_numbers = np.arange(len(self.raw_curve[dim]))
+        plt.plot(frame_numbers, self.raw_curve[dim], drawstyle='steps-post')
 
-        bar_width = self.window_size
-        bar_positions = np.arange(self.window_size)
-
-        # Plot each class
-        colors = ['blue', 'green']  # Colors for each class
-        for i in range(self.num_words):
-            ax.bar(bar_positions, self.raw_curve[:, i], width=bar_width, align='edge', color=colors[i], label=f'Class {i+1}')
-
-        # Set the x-axis labels
-        ax.set_xlabel('Frame')
-        ax.set_ylabel('Class')
-        # ax.set_title('Frame Class Distribution')
-        ax.legend()
-        plt.xticks(np.arange(0, self.window_size, step=50), rotation=90)  # Adjust as needed
-
-        plt.tight_layout()
-        plt.show()
+        plt.xlabel('Frame')
+        plt.ylabel('Value')
+        if dim == 0:
+            plt.title('Silence or spoken')
+        else:
+            plt.title('Silence or word')
