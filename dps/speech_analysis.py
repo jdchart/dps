@@ -51,14 +51,14 @@ class SpeechAnalysis:
         """
 
         num_frames = math.floor(self.media_length / self.window_size)
-        curve = np.zeros((num_frames, num_frames), dtype = int)
+        curve_1 = np.zeros((num_frames), dtype = int)
+        curve_2 = np.zeros((num_frames), dtype = int)
         for i, word in enumerate(self.raw_analysis):
             start_frame = math.floor(word["start"] * 1000 / self.window_size)
             end_frame = math.floor(word["end"] * 1000 / self.window_size)
-            curve[start_frame:end_frame, 0] = 1
-            curve[start_frame:end_frame, 1] = i + 1
-            print(f"{start_frame}-{end_frame} : 1 and {i + 1}")
-        return curve
+            curve_1[start_frame:end_frame] = 1
+            curve_2[start_frame:end_frame] = i + 1
+        return np.array((curve_1, curve_2))
     
     def display_raw_curve(self, dim = 0):
         plt.figure(figsize=(10, 6))
@@ -71,3 +71,4 @@ class SpeechAnalysis:
             plt.title('Silence or spoken')
         else:
             plt.title('Silence or word')
+        plt.show()

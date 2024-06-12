@@ -1,2 +1,6 @@
 venv/
 .DS_Store
+dps.egg-info
+build
+dps/__pycache__
+test.py
