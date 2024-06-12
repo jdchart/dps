@@ -53,8 +53,8 @@ class SpeechAnalysis:
         num_frames = math.floor(self.media_length / self.window_size)
         curve = np.zeros((num_frames, num_frames), dtype = int)
         for i, word in enumerate(self.raw_analysis):
-            start_frame = int(word["start"] * 1000 / self.window_size)
-            end_frame = int(word["end"] * 1000 / self.window_size)
+            start_frame = math.floor(word["start"] * 1000 / self.window_size)
+            end_frame = math.floor(word["end"] * 1000 / self.window_size)
             curve[start_frame:end_frame, 0] = 1
             curve[start_frame:end_frame, 1] = i + 1
             print(f"{start_frame}-{end_frame} : 1 and {i + 1}")
