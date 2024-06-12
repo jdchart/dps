@@ -22,7 +22,7 @@ src.speech_recognition()
 print(src.slices)
 ```
 
-### Stats
+### Statistics:
 
 You can derive a number of statistics from a DPS `SliceList()`. Following from the previous example:
 

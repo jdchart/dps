@@ -10,7 +10,7 @@ from datetime import datetime
 from pydub import AudioSegment
 import pandas as pd
 from .utils import *
-from .slice import Slice, SliceList
+from .slice import Slice, SliceList, WindowList, Window
 
 vosk.SetLogLevel(-1) # Supress vosk console output.
 
@@ -25,12 +25,29 @@ class AudioSource:
         self._source_duration = get_audiofile_length(path)
 
         self.slices = SliceList()
+        self.windows = []
+
+    def pre_process_audio(self) -> None:
+
+        step1 = normalize_audio(self.source, os.path.join(os.getcwd(), "STEP1.wav"))
+        step2 = reduce_noise_audio(step1, os.path.join(os.getcwd(), "STEP2.wav"))
+        
+
+        
+        
 
     def write(self, path : str) -> None:
         """Write the audio source to disk. The file name must use the extension ".pickle"."""
 
         with open(path, 'wb') as f:
             pickle.dump(self, f)
+
+    def add_window_list(self, name : str = "Unnamed") -> WindowList:
+        """Add an empty WindowList to the windows list."""
+        
+        to_add = WindowList()
+        self.windows.append(to_add)
+        return to_add
 
     def open_in_validator(self) -> None:
         """Open the audio source and it's various slice lists in the validation interface."""

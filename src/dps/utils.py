@@ -8,6 +8,39 @@ import audiofile
 import json
 import subprocess
 import webbrowser
+import pyloudnorm as pyln
+from scipy.io import wavfile
+import noisereduce as nr
+
+def normalize_audio(path_in : str, path_out : str) -> str:
+    """
+    Boost the gain and normalize an audio file.
+    
+    https://medium.com/@poudelnipriyanka/audio-normalization-9dbcedfefcc0
+    """
+    data, rate = soundfile.read(path_in) # load audio
+    
+    # peak normalize audio to -1 dB
+    peak_normalized_audio = pyln.normalize.peak(data, -1.0)
+    
+    # measure the loudness first 
+    meter = pyln.Meter(rate) # create BS.1770 meter
+    loudness = meter.integrated_loudness(data)
+
+    # loudness normalize audio to -12 dB LUFS
+    loudness_normalized_audio = pyln.normalize.loudness(data, loudness, -12.0)
+
+    soundfile.write(path_out, loudness_normalized_audio, rate)
+    return path_out
+
+def reduce_noise_audio(path_in : str, path_out : str) -> str:
+    # load data
+    rate, data = wavfile.read(path_in)
+    # perform noise reduction
+    reduced_noise = nr.reduce_noise(y=data, sr=rate)
+    wavfile.write(path_out, rate, reduced_noise)
+    return path_out
+
 
 def open_validator() -> None:
     """

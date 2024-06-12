@@ -138,3 +138,19 @@ class SliceList:
                 return np.array([item for item in self.array if getattr(item, attribute) != value])
             else:
                 return np.array([item for item in self.array if getattr(item, attribute)[kwargs.get("key")] != value])
+            
+class Window(Slice):
+    def __init__(self, start, end, **kwargs) -> None:
+        super().__init__(start, end, **kwargs)
+
+class WindowList(SliceList):
+    def __init__(self, name : str = "Unnamed") -> None:
+        super().__init__()
+        self.name = name
+
+    def add_window(self, start : float, end : float) -> Window:
+        """Add a new window to the window list."""
+        to_add = Window(start, end)
+        to_add.type = "window"
+        self.append_slice(to_add)
+        return to_add
