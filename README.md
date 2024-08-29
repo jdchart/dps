@@ -12,4 +12,7 @@ Based on the work of Théo Heugebaert, and developped by Jacob Hart and Théo He
 import dps
 
 dps.SpeechAnalysis("vosk/speech/analysis.json")
+
+# See the raw data:
+speech_recognition.display_raw_curve(0)
 ```

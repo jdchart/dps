@@ -6,18 +6,95 @@ import matplotlib.pyplot as plt
 
 class SpeechAnalysis:
     def __init__(self, path, **kwargs) -> None:
-        
+        """
+        Class to perform operations on a speech analysis file.
+
+        kwargs
+        - fps : framesper second in the raw curve.
+        - window_size : length in ms of a frame in the raw curve.
+        """
+
         self.analysis_path = path
-        self.media = kwargs.get("media", None)
-        self.window_size = kwargs.get("window_size", 10)
+        self.window_size = kwargs.get("window_size", 15.625)
+        self.fps = kwargs.get("fps", 64)
+
+        if "fps" in kwargs:
+            self.fps = kwargs.get("fps")
+            self.window_size = 1000 / self.fps
+        elif "window_size" in kwargs:
+            self.window_size = kwargs.get("window_size")
+            self.fps = math.floor(1000 / self.window_size)
+        
         self.raw_analysis = None
-        self.media_length = kwargs.get("media_length", None)
+        self.media = kwargs.get("media", None)
+        self.media_length_ms = kwargs.get("media_length", None)
+        self.media_length_frames = None
         self.num_words = None
         
         self._load_analysis()
         self._get_media_length()
         
         self.raw_curve = self._get_raw_curve()
+
+    def get_dps(self, **kwargs):
+        """Return the dps: "dits par seconde", number of words spoken / second."""
+
+        if "region" in kwargs:
+            start_ms = kwargs.get("region")["start_ms"]
+            end_ms = kwargs.get("region")["end_ms"]
+        else:
+            start_ms = 0
+            end_ms = self.media_length_ms
+
+        dur_ms = end_ms - start_ms
+
+        num_words = self._count_words_region_ms(start_ms, end_ms)
+
+        return num_words / (dur_ms / 1000)
+    
+    def get_dps_feature_curve(self, window_size = 128, hop_size = 32):
+        """
+        kawrgs
+        - window_size (frames): default: 128. Number of frames in an analysis window. Should be at least the fps.
+        - hop_size (frames) : default: 32. analysis window hop. window_size should be divisible by hop_size.
+        """
+        result = np.zeros(len(self.raw_curve[1]))
+        counts = np.zeros(len(self.raw_curve[1]))
+
+        for start in range(0, len(self.raw_curve[1]) - window_size + 1, hop_size):
+            end = start + window_size
+            # window = self.raw_curve[1][start:end]
+            dur_ms = ((end - start) / self.fps) * 1000
+            window_result = self._count_words_region_frames(start, end) / (dur_ms / 1000)
+
+            result[start:end] += window_result
+            counts[start:end] += 1
+        
+        result = result / counts
+        return result
+
+    def _count_words_region_ms(self, start_ms, end_ms):
+        start_frames = self._ms_to_frames(start_ms)
+        end_frames = self._ms_to_frames(end_ms)
+
+        return self._count_words_region_frames(start_frames, end_frames)
+        
+    def _count_words_region_frames(self, start_frame, end_frame):
+        i = start_frame
+        num_words = 0
+        current_word = 0
+
+        while i < end_frame:
+            this_frame = self.raw_curve[1][i]
+            if this_frame != current_word:
+                if this_frame != 0:
+                    num_words = num_words + 1
+                current_word = this_frame
+            i = i + 1
+        return num_words
+   
+    def _ms_to_frames(self, time_ms):
+        return math.floor((time_ms / 1000) * self.fps)
 
     def _load_analysis(self):
         """Read json and update raw_analysis and media."""
@@ -38,7 +115,8 @@ class SpeechAnalysis:
             else:
                 raise ValueError("Unsupported file format")
             
-            self.media_length = clip.duration * 1000
+            self.media_length_ms = clip.duration * 1000
+            self.media_length_frames = (self.media_length_ms / 1000) * self.fps
             clip.close()
         except Exception as e:
             print(f"Error: {e}")
@@ -50,7 +128,8 @@ class SpeechAnalysis:
         - each frame either silence (0) or an incremental int for each new word
         """
 
-        num_frames = math.floor(self.media_length / self.window_size)
+        num_frames = math.floor(self.media_length_frames)
+        
         curve_1 = np.zeros((num_frames), dtype = int)
         curve_2 = np.zeros((num_frames), dtype = int)
         for i, word in enumerate(self.raw_analysis):
@@ -70,5 +149,5 @@ class SpeechAnalysis:
         if dim == 0:
             plt.title('Silence or spoken')
         else:
-            plt.title('Silence or word')
+            plt.title('Silence or word index')
         plt.show()
