@@ -33,6 +33,8 @@ class SpeechAnalysis:
         
         self._load_analysis()
         self._get_media_length()
+
+        self.media_length_frames =  int(self.media_length_ms * (30 / 1000))
         
         self.raw_curve = self._get_raw_curve()
 
@@ -104,22 +106,24 @@ class SpeechAnalysis:
         if "media" in data:
             if self.media == None:
                 self.media = data["media"]
+        self.media_length_ms = data["media_length"] * 1000
 
     def _get_media_length(self):
         """Return media length in ms."""
-        try:
-            if self.media.endswith(('.mp4', '.mkv', '.avi', '.mov')):
-                clip = VideoFileClip(self.media)
-            elif self.media.endswith(('.mp3', '.wav', '.aac', '.flac')):
-                clip = AudioFileClip(self.media)
-            else:
-                raise ValueError("Unsupported file format")
+        # try:
+        #     if self.media.endswith(('.mp4', '.mkv', '.avi', '.mov')):
+        #         clip = VideoFileClip(self.media)
+        #     elif self.media.endswith(('.mp3', '.wav', '.aac', '.flac')):
+        #         clip = AudioFileClip(self.media)
+        #     else:
+        #         raise ValueError("Unsupported file format")
             
-            self.media_length_ms = clip.duration * 1000
-            self.media_length_frames = (self.media_length_ms / 1000) * self.fps
-            clip.close()
-        except Exception as e:
-            print(f"Error: {e}")
+        #     self.media_length_ms = clip.duration * 1000
+        #     self.media_length_frames = (self.media_length_ms / 1000) * self.fps
+        #     clip.close()
+        # except Exception as e:
+        #     print(f"Error: {e}")
+        pass
 
     def _get_raw_curve(self):
         """
