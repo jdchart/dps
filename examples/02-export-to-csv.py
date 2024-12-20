@@ -1,7 +1,8 @@
 import dps
 import numpy as np
 
-analysis_file = "/Users/jacob/Documents/Repos/arvest-data-in-context/ml-notebooks/output/fr_male_2_SPEECH_RECOGNITION.json"
+#analysis_file = "/Users/jacob/Documents/Repos/arvest-data-in-context/ml-notebooks/output/fr_male_2_SPEECH_RECOGNITION.json"
+analysis_file = "/Users/jacob/Documents/Repos/arvest-data-in-context/ml-notebooks/RENAMED_JSON/0.json"
 
 speech_recognition = dps.SpeechAnalysis(analysis_file, fps = 60)
 
