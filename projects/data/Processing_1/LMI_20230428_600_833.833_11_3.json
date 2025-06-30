@@ -1,0 +1,504 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 39.15,
+      "start": 39.06,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 39.36,
+      "start": 39.15,
+      "word": "avez"
+    },
+    {
+      "conf": 0.731671,
+      "end": 40.29,
+      "start": 40.02,
+      "word": "trouv\u00e9"
+    },
+    {
+      "conf": 1.0,
+      "end": 42.18,
+      "start": 42.0,
+      "word": "le"
+    },
+    {
+      "conf": 0.527009,
+      "end": 42.72,
+      "start": 42.18,
+      "word": "kangourou"
+    },
+    {
+      "conf": 0.89222,
+      "end": 43.441329,
+      "start": 43.223302,
+      "word": "vous"
+    },
+    {
+      "conf": 0.692653,
+      "end": 43.71,
+      "start": 43.441329,
+      "word": "aider"
+    },
+    {
+      "conf": 0.651099,
+      "end": 43.77,
+      "start": 43.71,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 0.622059,
+      "end": 46.98,
+      "start": 46.585485,
+      "word": "souvenir"
+    },
+    {
+      "conf": 0.491557,
+      "end": 47.1,
+      "start": 46.98,
+      "word": "de"
+    },
+    {
+      "conf": 0.699711,
+      "end": 47.37,
+      "start": 47.1,
+      "word": "l'euro"
+    },
+    {
+      "conf": 0.577536,
+      "end": 47.4,
+      "start": 47.37,
+      "word": "a"
+    },
+    {
+      "conf": 0.577536,
+      "end": 47.7,
+      "start": 47.4,
+      "word": "\u00e9t\u00e9"
+    },
+    {
+      "conf": 0.385622,
+      "end": 48.03,
+      "start": 47.7,
+      "word": "publi\u00e9"
+    },
+    {
+      "conf": 0.915295,
+      "end": 48.75,
+      "start": 48.57,
+      "word": "dans"
+    },
+    {
+      "conf": 0.99395,
+      "end": 50.1,
+      "start": 49.86,
+      "word": "le"
+    },
+    {
+      "conf": 0.825573,
+      "end": 50.524636,
+      "start": 50.287811,
+      "word": "monde"
+    },
+    {
+      "conf": 0.87407,
+      "end": 50.60647,
+      "start": 50.524636,
+      "word": "le"
+    },
+    {
+      "conf": 0.572552,
+      "end": 50.82,
+      "start": 50.61,
+      "word": "plus"
+    },
+    {
+      "conf": 0.969548,
+      "end": 54.032227,
+      "start": 53.46,
+      "word": "directeur"
+    },
+    {
+      "conf": 1.0,
+      "end": 54.144243,
+      "start": 54.032227,
+      "word": "de"
+    },
+    {
+      "conf": 0.602825,
+      "end": 54.48,
+      "start": 54.18,
+      "word": "retrouver"
+    },
+    {
+      "conf": 0.890365,
+      "end": 54.835042,
+      "start": 54.625177,
+      "word": "votre"
+    },
+    {
+      "conf": 0.994152,
+      "end": 55.35,
+      "start": 54.93,
+      "word": "nourriture"
+    },
+    {
+      "conf": 0.964188,
+      "end": 55.828348,
+      "start": 55.71,
+      "word": "dans"
+    },
+    {
+      "conf": 0.943398,
+      "end": 55.977059,
+      "start": 55.828348,
+      "word": "votre"
+    },
+    {
+      "conf": 0.384656,
+      "end": 56.4,
+      "start": 55.977059,
+      "word": "potage"
+    },
+    {
+      "conf": 0.783938,
+      "end": 56.760051,
+      "start": 56.67,
+      "word": "il"
+    },
+    {
+      "conf": 0.86435,
+      "end": 56.849996,
+      "start": 56.760051,
+      "word": "n'y"
+    },
+    {
+      "conf": 0.867269,
+      "end": 57.06,
+      "start": 56.85,
+      "word": "aura"
+    },
+    {
+      "conf": 0.421517,
+      "end": 57.24,
+      "start": 57.09,
+      "word": "pas"
+    },
+    {
+      "conf": 0.968894,
+      "end": 58.08,
+      "start": 57.984269,
+      "word": "de"
+    },
+    {
+      "conf": 0.866859,
+      "end": 58.17,
+      "start": 58.08,
+      "word": "la"
+    },
+    {
+      "conf": 0.866859,
+      "end": 58.5,
+      "start": 58.17,
+      "word": "plage"
+    },
+    {
+      "conf": 0.522807,
+      "end": 59.22,
+      "start": 58.89,
+      "word": "durant"
+    },
+    {
+      "conf": 0.559755,
+      "end": 59.58,
+      "start": 59.46,
+      "word": "des"
+    },
+    {
+      "conf": 0.982862,
+      "end": 60.6,
+      "start": 60.33,
+      "word": "clients"
+    },
+    {
+      "conf": 1.0,
+      "end": 62.13,
+      "start": 61.92,
+      "word": "qui"
+    },
+    {
+      "conf": 1.0,
+      "end": 62.22,
+      "start": 62.13,
+      "word": "ont"
+    },
+    {
+      "conf": 0.713288,
+      "end": 64.860007,
+      "start": 64.585298,
+      "word": "trop"
+    },
+    {
+      "conf": 0.99269,
+      "end": 64.95,
+      "start": 64.865098,
+      "word": "un"
+    },
+    {
+      "conf": 0.787421,
+      "end": 65.61,
+      "start": 64.95,
+      "word": "accessoire"
+    },
+    {
+      "conf": 0.906088,
+      "end": 68.52,
+      "start": 68.31,
+      "word": "sur"
+    },
+    {
+      "conf": 0.912612,
+      "end": 70.95,
+      "start": 70.62,
+      "word": "votre"
+    },
+    {
+      "conf": 0.891555,
+      "end": 71.396008,
+      "start": 70.95,
+      "word": "tapis"
+    },
+    {
+      "conf": 0.886092,
+      "end": 71.911553,
+      "start": 71.79,
+      "word": "des"
+    },
+    {
+      "conf": 0.803899,
+      "end": 72.151011,
+      "start": 71.911553,
+      "word": "probl\u00e8mes"
+    },
+    {
+      "conf": 0.61458,
+      "end": 73.89,
+      "start": 73.56,
+      "word": "quelque"
+    },
+    {
+      "conf": 0.46037,
+      "end": 76.68,
+      "start": 76.29,
+      "word": "soit"
+    },
+    {
+      "conf": 0.459536,
+      "end": 80.04,
+      "start": 79.92,
+      "word": "le"
+    },
+    {
+      "conf": 0.625112,
+      "end": 80.309993,
+      "start": 80.047939,
+      "word": "bon"
+    },
+    {
+      "conf": 0.625112,
+      "end": 81.269993,
+      "start": 80.399993,
+      "word": "endroit"
+    },
+    {
+      "conf": 1.0,
+      "end": 84.21,
+      "start": 84.0,
+      "word": "du"
+    },
+    {
+      "conf": 0.886478,
+      "end": 84.42,
+      "start": 84.21,
+      "word": "bon"
+    },
+    {
+      "conf": 0.971235,
+      "end": 84.75,
+      "start": 84.422615,
+      "word": "fromage"
+    },
+    {
+      "conf": 0.99543,
+      "end": 89.430286,
+      "start": 89.19,
+      "word": "du"
+    },
+    {
+      "conf": 0.978845,
+      "end": 89.76,
+      "start": 89.430286,
+      "word": "riz"
+    },
+    {
+      "conf": 0.980332,
+      "end": 90.12,
+      "start": 89.88,
+      "word": "avec"
+    },
+    {
+      "conf": 0.86456,
+      "end": 90.24,
+      "start": 90.12,
+      "word": "des"
+    },
+    {
+      "conf": 0.330667,
+      "end": 90.66,
+      "start": 90.42,
+      "word": "normes"
+    },
+    {
+      "conf": 0.99517,
+      "end": 91.323098,
+      "start": 91.229517,
+      "word": "des"
+    },
+    {
+      "conf": 0.439682,
+      "end": 91.86,
+      "start": 91.47,
+      "word": "d\u00e9marches"
+    },
+    {
+      "conf": 1.0,
+      "end": 93.39,
+      "start": 93.27,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 93.6,
+      "start": 93.39,
+      "word": "des"
+    },
+    {
+      "conf": 0.538824,
+      "end": 93.75,
+      "start": 93.6,
+      "word": "outils"
+    },
+    {
+      "conf": 1.0,
+      "end": 96.36,
+      "start": 96.18,
+      "word": "pour"
+    },
+    {
+      "conf": 1.0,
+      "end": 96.719744,
+      "start": 96.36,
+      "word": "coller"
+    },
+    {
+      "conf": 0.939046,
+      "end": 165.33,
+      "start": 165.21,
+      "word": "que"
+    },
+    {
+      "conf": 0.984749,
+      "end": 167.64,
+      "start": 167.16,
+      "word": "faites-vous"
+    },
+    {
+      "conf": 0.843969,
+      "end": 167.846338,
+      "start": 167.64,
+      "word": "de"
+    },
+    {
+      "conf": 0.792472,
+      "end": 168.06,
+      "start": 167.85,
+      "word": "ce"
+    },
+    {
+      "conf": 1.0,
+      "end": 171.844556,
+      "start": 171.54,
+      "word": "voil\u00e0"
+    },
+    {
+      "conf": 0.718121,
+      "end": 172.2,
+      "start": 171.844556,
+      "word": "maintenant"
+    },
+    {
+      "conf": 1.0,
+      "end": 177.39,
+      "start": 177.33,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 177.63,
+      "start": 177.39,
+      "word": "voyez"
+    },
+    {
+      "conf": 0.717581,
+      "end": 178.05,
+      "start": 177.87,
+      "word": "pas"
+    },
+    {
+      "conf": 0.937171,
+      "end": 178.65,
+      "start": 178.41,
+      "word": "qu'il"
+    },
+    {
+      "conf": 0.790264,
+      "end": 179.01,
+      "start": 178.65,
+      "word": "tira"
+    },
+    {
+      "conf": 0.937171,
+      "end": 179.229331,
+      "start": 179.133853,
+      "word": "de"
+    },
+    {
+      "conf": 0.890661,
+      "end": 180.81,
+      "start": 180.6,
+      "word": "ce"
+    },
+    {
+      "conf": 0.786736,
+      "end": 181.23,
+      "start": 180.812725,
+      "word": "c\u00f4t\u00e9"
+    },
+    {
+      "conf": 0.591497,
+      "end": 181.38,
+      "start": 181.23,
+      "word": "la"
+    },
+    {
+      "conf": 0.554402,
+      "end": 183.18,
+      "start": 182.79,
+      "word": "question"
+    }
+  ],
+  "text": "vous avez trouv\u00e9 le kangourou vous aider \u00e0 souvenir de l'euro a \u00e9t\u00e9 publi\u00e9 dans le monde le plus directeur de retrouver votre nourriture dans votre potage il n'y aura pas de la plage durant des clients qui ont trop un accessoire sur votre tapis des probl\u00e8mes quelque soit le bon endroit du bon fromage du riz avec des normes des d\u00e9marches et des outils pour coller que faites-vous de ce voil\u00e0 maintenant vous voyez pas qu'il tira de ce c\u00f4t\u00e9 la question",
+  "media": "E:\\LMI\\20230428_f2\\LMI_20230428_f2_11.MP4"
+}

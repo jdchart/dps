@@ -1,0 +1,18 @@
+{
+  "result": [
+    {
+      "conf": 0.418998,
+      "end": 50.04,
+      "start": 49.8,
+      "word": "j'aime"
+    },
+    {
+      "conf": 0.691136,
+      "end": 50.28,
+      "start": 50.04,
+      "word": "\u00e7a"
+    }
+  ],
+  "text": "j'aime \u00e7a",
+  "media": "E:\\LMI\\archives\\MALADE_1.mp4"
+}

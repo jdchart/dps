@@ -1,0 +1,24 @@
+{
+  "result": [
+    {
+      "conf": 0.411236,
+      "end": 77.784456,
+      "start": 77.73,
+      "word": "ne"
+    },
+    {
+      "conf": 0.613579,
+      "end": 78.095273,
+      "start": 77.784456,
+      "word": "pas"
+    },
+    {
+      "conf": 0.323185,
+      "end": 78.96,
+      "start": 78.54,
+      "word": "pas"
+    }
+  ],
+  "text": "ne pas pas",
+  "media": "E:\\LMI\\archives\\MALADE_2.mp4"
+}

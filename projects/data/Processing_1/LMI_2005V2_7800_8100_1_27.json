@@ -1,0 +1,60 @@
+{
+  "result": [
+    {
+      "conf": 0.426162,
+      "end": 83.400725,
+      "start": 83.303789,
+      "word": "eh"
+    },
+    {
+      "conf": 0.694133,
+      "end": 105.044795,
+      "start": 101.85,
+      "word": "bien"
+    },
+    {
+      "conf": 0.61578,
+      "end": 108.485728,
+      "start": 105.044795,
+      "word": "\u00e7a"
+    },
+    {
+      "conf": 0.604368,
+      "end": 183.15,
+      "start": 183.03,
+      "word": "y"
+    },
+    {
+      "conf": 0.604368,
+      "end": 183.212095,
+      "start": 183.15,
+      "word": "est"
+    },
+    {
+      "conf": 0.92536,
+      "end": 183.39,
+      "start": 183.212168,
+      "word": "tu"
+    },
+    {
+      "conf": 0.923686,
+      "end": 258.54,
+      "start": 258.21,
+      "word": "es"
+    },
+    {
+      "conf": 0.907192,
+      "end": 258.99,
+      "start": 258.69,
+      "word": "tr\u00e8s"
+    },
+    {
+      "conf": 0.65517,
+      "end": 259.32,
+      "start": 258.99,
+      "word": "dou\u00e9e"
+    }
+  ],
+  "text": "eh bien \u00e7a y est tu es tr\u00e8s dou\u00e9e",
+  "media": "E:\\LMI\\archives\\MALADE_2.mp4"
+}

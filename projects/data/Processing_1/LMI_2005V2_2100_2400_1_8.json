@@ -1,0 +1,1044 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 27.09,
+      "start": 26.64,
+      "word": "monsieur"
+    },
+    {
+      "conf": 1.0,
+      "end": 27.24,
+      "start": 27.15,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 28.44,
+      "start": 27.87,
+      "word": "constable"
+    },
+    {
+      "conf": 1.0,
+      "end": 28.92,
+      "start": 28.83,
+      "word": "est"
+    },
+    {
+      "conf": 1.0,
+      "end": 29.374783,
+      "start": 28.92,
+      "word": "forte"
+    },
+    {
+      "conf": 0.378929,
+      "end": 29.625593,
+      "start": 29.374783,
+      "word": "avec"
+    },
+    {
+      "conf": 0.350131,
+      "end": 29.939998,
+      "start": 29.669998,
+      "word": "hommes"
+    },
+    {
+      "conf": 1.0,
+      "end": 30.51,
+      "start": 30.27,
+      "word": "mais"
+    },
+    {
+      "conf": 1.0,
+      "end": 30.9,
+      "start": 30.57,
+      "word": "comment"
+    },
+    {
+      "conf": 1.0,
+      "end": 31.23,
+      "start": 30.9,
+      "word": "puis-je"
+    },
+    {
+      "conf": 1.0,
+      "end": 31.5,
+      "start": 31.23,
+      "word": "faire"
+    },
+    {
+      "conf": 1.0,
+      "end": 31.77,
+      "start": 31.5,
+      "word": "s'il"
+    },
+    {
+      "conf": 1.0,
+      "end": 31.95,
+      "start": 31.77,
+      "word": "vous"
+    },
+    {
+      "conf": 0.824655,
+      "end": 32.19,
+      "start": 31.95,
+      "word": "pla\u00eet"
+    },
+    {
+      "conf": 0.732588,
+      "end": 33.78,
+      "start": 33.501932,
+      "word": "donner"
+    },
+    {
+      "conf": 1.0,
+      "end": 34.05,
+      "start": 33.81,
+      "word": "mon"
+    },
+    {
+      "conf": 1.0,
+      "end": 34.26,
+      "start": 34.05,
+      "word": "p\u00e8re"
+    },
+    {
+      "conf": 1.0,
+      "end": 34.77,
+      "start": 34.38,
+      "word": "ayant"
+    },
+    {
+      "conf": 1.0,
+      "end": 35.4,
+      "start": 35.01,
+      "word": "quitt\u00e9"
+    },
+    {
+      "conf": 0.909075,
+      "end": 35.64,
+      "start": 35.4,
+      "word": "mes"
+    },
+    {
+      "conf": 0.884659,
+      "end": 36.12,
+      "start": 35.64,
+      "word": "enfants"
+    },
+    {
+      "conf": 0.538439,
+      "end": 36.75,
+      "start": 36.42,
+      "word": "comment"
+    },
+    {
+      "conf": 1.0,
+      "end": 38.85,
+      "start": 38.73,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 39.12,
+      "start": 38.85,
+      "word": "pouvez"
+    },
+    {
+      "conf": 1.0,
+      "end": 39.631447,
+      "start": 39.12,
+      "word": "choisir"
+    },
+    {
+      "conf": 0.559602,
+      "end": 39.990004,
+      "start": 39.780004,
+      "word": "ce"
+    },
+    {
+      "conf": 0.775779,
+      "end": 41.04,
+      "start": 40.783282,
+      "word": "type"
+    },
+    {
+      "conf": 0.89826,
+      "end": 41.16,
+      "start": 41.04,
+      "word": "de"
+    },
+    {
+      "conf": 0.698997,
+      "end": 41.76,
+      "start": 41.34,
+      "word": "repas"
+    },
+    {
+      "conf": 0.960525,
+      "end": 42.447235,
+      "start": 42.03,
+      "word": "auquel"
+    },
+    {
+      "conf": 0.56686,
+      "end": 42.989996,
+      "start": 42.809996,
+      "word": "les"
+    },
+    {
+      "conf": 0.795257,
+      "end": 43.5,
+      "start": 43.2,
+      "word": "bonnes"
+    },
+    {
+      "conf": 0.862301,
+      "end": 44.31,
+      "start": 43.89,
+      "word": "paroles"
+    },
+    {
+      "conf": 0.609211,
+      "end": 45.03,
+      "start": 44.4,
+      "word": "testament"
+    },
+    {
+      "conf": 0.999874,
+      "end": 47.07,
+      "start": 46.98,
+      "word": "et"
+    },
+    {
+      "conf": 0.999874,
+      "end": 47.28,
+      "start": 47.07,
+      "word": "ses"
+    },
+    {
+      "conf": 1.0,
+      "end": 47.52,
+      "start": 47.28,
+      "word": "amis"
+    },
+    {
+      "conf": 0.971571,
+      "end": 47.67,
+      "start": 47.52,
+      "word": "vous"
+    },
+    {
+      "conf": 0.99957,
+      "end": 50.13,
+      "start": 49.86,
+      "word": "pouvez"
+    },
+    {
+      "conf": 1.0,
+      "end": 50.82,
+      "start": 50.22,
+      "word": "encore"
+    },
+    {
+      "conf": 0.612223,
+      "end": 51.36,
+      "start": 51.0,
+      "word": "ajouter"
+    },
+    {
+      "conf": 0.915016,
+      "end": 51.51,
+      "start": 51.369152,
+      "word": "un"
+    },
+    {
+      "conf": 0.915016,
+      "end": 51.72,
+      "start": 51.51,
+      "word": "grand"
+    },
+    {
+      "conf": 0.915016,
+      "end": 52.14,
+      "start": 51.72,
+      "word": "nombre"
+    },
+    {
+      "conf": 0.915016,
+      "end": 52.8,
+      "start": 52.14,
+      "word": "d'obligations"
+    },
+    {
+      "conf": 0.627189,
+      "end": 54.329996,
+      "start": 54.179996,
+      "word": "de"
+    },
+    {
+      "conf": 0.893849,
+      "end": 54.66,
+      "start": 54.33,
+      "word": "divers"
+    },
+    {
+      "conf": 0.893849,
+      "end": 55.29,
+      "start": 54.66,
+      "word": "cr\u00e9anciers"
+    },
+    {
+      "conf": 0.997533,
+      "end": 56.04,
+      "start": 55.854196,
+      "word": "pour"
+    },
+    {
+      "conf": 0.637174,
+      "end": 56.280004,
+      "start": 56.040004,
+      "word": "leur"
+    },
+    {
+      "conf": 0.543611,
+      "end": 56.909861,
+      "start": 56.459996,
+      "word": "amazon"
+    },
+    {
+      "conf": 0.903696,
+      "end": 57.18,
+      "start": 56.909861,
+      "word": "pas"
+    },
+    {
+      "conf": 0.666721,
+      "end": 57.808561,
+      "start": 57.557769,
+      "word": "entre"
+    },
+    {
+      "conf": 0.717768,
+      "end": 57.929996,
+      "start": 57.808561,
+      "word": "les"
+    },
+    {
+      "conf": 0.717768,
+      "end": 58.079996,
+      "start": 57.929996,
+      "word": "mains"
+    },
+    {
+      "conf": 1.0,
+      "end": 58.2,
+      "start": 58.088467,
+      "word": "de"
+    },
+    {
+      "conf": 0.669072,
+      "end": 58.890004,
+      "start": 58.2,
+      "word": "localiser"
+    },
+    {
+      "conf": 0.954083,
+      "end": 59.28,
+      "start": 59.071311,
+      "word": "le"
+    },
+    {
+      "conf": 0.364885,
+      "end": 59.73,
+      "start": 59.28,
+      "word": "africa"
+    },
+    {
+      "conf": 0.923142,
+      "end": 61.98,
+      "start": 61.86,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 62.25,
+      "start": 61.98,
+      "word": "\u00e9t\u00e9"
+    },
+    {
+      "conf": 1.0,
+      "end": 62.43,
+      "start": 62.25,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 69.33,
+      "start": 69.0,
+      "word": "m\u00eame"
+    },
+    {
+      "conf": 1.0,
+      "end": 70.17,
+      "start": 70.05,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 70.86,
+      "start": 70.17,
+      "word": "l'abandon"
+    },
+    {
+      "conf": 1.0,
+      "end": 71.28,
+      "start": 71.04,
+      "word": "des"
+    },
+    {
+      "conf": 1.0,
+      "end": 71.67,
+      "start": 71.28,
+      "word": "vieilles"
+    },
+    {
+      "conf": 1.0,
+      "end": 72.209941,
+      "start": 71.94,
+      "word": "pourrait"
+    },
+    {
+      "conf": 0.996521,
+      "end": 72.42,
+      "start": 72.21,
+      "word": "avoir"
+    },
+    {
+      "conf": 0.992154,
+      "end": 72.6,
+      "start": 72.48,
+      "word": "des"
+    },
+    {
+      "conf": 0.982906,
+      "end": 72.87,
+      "start": 72.6,
+      "word": "gars"
+    },
+    {
+      "conf": 0.982906,
+      "end": 75.3,
+      "start": 75.18,
+      "word": "qui"
+    },
+    {
+      "conf": 0.999988,
+      "end": 75.42,
+      "start": 75.300513,
+      "word": "ne"
+    },
+    {
+      "conf": 0.656873,
+      "end": 75.838491,
+      "start": 75.42,
+      "word": "pouvons"
+    },
+    {
+      "conf": 0.56734,
+      "end": 76.59,
+      "start": 76.02,
+      "word": "commenter"
+    },
+    {
+      "conf": 0.874584,
+      "end": 77.28,
+      "start": 76.89,
+      "word": "cela"
+    },
+    {
+      "conf": 0.682623,
+      "end": 78.491799,
+      "start": 78.3,
+      "word": "est"
+    },
+    {
+      "conf": 0.78527,
+      "end": 78.779575,
+      "start": 78.491799,
+      "word": "bien"
+    },
+    {
+      "conf": 0.577094,
+      "end": 80.85,
+      "start": 80.34,
+      "word": "m\u00e9rit\u00e9"
+    },
+    {
+      "conf": 0.472544,
+      "end": 81.21,
+      "start": 81.03,
+      "word": "mon"
+    },
+    {
+      "conf": 0.393866,
+      "end": 81.51,
+      "start": 81.21,
+      "word": "ami"
+    },
+    {
+      "conf": 0.986949,
+      "end": 83.55,
+      "start": 83.31,
+      "word": "je"
+    },
+    {
+      "conf": 0.986949,
+      "end": 83.82,
+      "start": 83.55,
+      "word": "suis"
+    },
+    {
+      "conf": 1.0,
+      "end": 84.090059,
+      "start": 83.82,
+      "word": "assez"
+    },
+    {
+      "conf": 0.627321,
+      "end": 84.75,
+      "start": 84.090059,
+      "word": "malheureuse"
+    },
+    {
+      "conf": 0.828399,
+      "end": 85.44,
+      "start": 85.23,
+      "word": "et"
+    },
+    {
+      "conf": 0.689478,
+      "end": 85.92,
+      "start": 85.53,
+      "word": "n'ach\u00e8te"
+    },
+    {
+      "conf": 0.997233,
+      "end": 86.18502,
+      "start": 85.92,
+      "word": "pas"
+    },
+    {
+      "conf": 0.973122,
+      "end": 87.0,
+      "start": 86.34,
+      "word": "l'avenir"
+    },
+    {
+      "conf": 1.0,
+      "end": 88.08,
+      "start": 87.72,
+      "word": "rien"
+    },
+    {
+      "conf": 1.0,
+      "end": 88.56,
+      "start": 88.44,
+      "word": "n'est"
+    },
+    {
+      "conf": 1.0,
+      "end": 89.37,
+      "start": 89.01,
+      "word": "vraiment"
+    },
+    {
+      "conf": 1.0,
+      "end": 89.76,
+      "start": 89.37,
+      "word": "pas"
+    },
+    {
+      "conf": 1.0,
+      "end": 93.69,
+      "start": 93.42,
+      "word": "ma"
+    },
+    {
+      "conf": 1.0,
+      "end": 93.96,
+      "start": 93.69,
+      "word": "mie"
+    },
+    {
+      "conf": 0.414611,
+      "end": 94.59,
+      "start": 93.96,
+      "word": "consolez-vous"
+    },
+    {
+      "conf": 0.999255,
+      "end": 94.74,
+      "start": 94.59,
+      "word": "je"
+    },
+    {
+      "conf": 0.999255,
+      "end": 94.89,
+      "start": 94.74,
+      "word": "vous"
+    },
+    {
+      "conf": 0.999255,
+      "end": 95.07,
+      "start": 94.89,
+      "word": "en"
+    },
+    {
+      "conf": 0.999255,
+      "end": 95.49,
+      "start": 95.07,
+      "word": "prie"
+    },
+    {
+      "conf": 1.0,
+      "end": 96.059443,
+      "start": 95.64,
+      "word": "cela"
+    },
+    {
+      "conf": 0.577006,
+      "end": 96.63,
+      "start": 96.09,
+      "word": "comprend"
+    },
+    {
+      "conf": 0.658238,
+      "end": 98.1,
+      "start": 97.98,
+      "word": "des"
+    },
+    {
+      "conf": 1.0,
+      "end": 98.46,
+      "start": 98.1,
+      "word": "choses"
+    },
+    {
+      "conf": 0.827669,
+      "end": 98.64,
+      "start": 98.46,
+      "word": "nous"
+    },
+    {
+      "conf": 0.827669,
+      "end": 102.18,
+      "start": 101.94,
+      "word": "n'avons"
+    },
+    {
+      "conf": 1.0,
+      "end": 102.39,
+      "start": 102.18,
+      "word": "pas"
+    },
+    {
+      "conf": 1.0,
+      "end": 105.87,
+      "start": 105.27,
+      "word": "regrett\u00e9"
+    },
+    {
+      "conf": 1.0,
+      "end": 106.17,
+      "start": 105.9,
+      "word": "jean"
+    },
+    {
+      "conf": 1.0,
+      "end": 106.26,
+      "start": 106.17,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 106.740835,
+      "start": 106.26,
+      "word": "t-shirt"
+    },
+    {
+      "conf": 0.746044,
+      "end": 107.103823,
+      "start": 106.77,
+      "word": "mammouth"
+    },
+    {
+      "conf": 0.688043,
+      "end": 107.25,
+      "start": 107.103823,
+      "word": "c'est"
+    },
+    {
+      "conf": 0.797826,
+      "end": 107.34,
+      "start": 107.25,
+      "word": "de"
+    },
+    {
+      "conf": 0.797826,
+      "end": 107.64,
+      "start": 107.34,
+      "word": "n'avoir"
+    },
+    {
+      "conf": 1.0,
+      "end": 107.85,
+      "start": 107.652129,
+      "word": "pas"
+    },
+    {
+      "conf": 0.531447,
+      "end": 108.03,
+      "start": 107.91,
+      "word": "un"
+    },
+    {
+      "conf": 0.662708,
+      "end": 108.42,
+      "start": 108.03,
+      "word": "enfant"
+    },
+    {
+      "conf": 1.0,
+      "end": 108.6,
+      "start": 108.42,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 108.81,
+      "start": 108.6,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 109.5,
+      "start": 109.17,
+      "word": "monsieur"
+    },
+    {
+      "conf": 1.0,
+      "end": 109.56,
+      "start": 109.5,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 110.16,
+      "start": 109.95,
+      "word": "comte"
+    },
+    {
+      "conf": 1.0,
+      "end": 110.55,
+      "start": 110.22,
+      "word": "am\u00e9d\u00e9e"
+    },
+    {
+      "conf": 1.0,
+      "end": 110.91,
+      "start": 110.55,
+      "word": "cl\u00e9ment"
+    },
+    {
+      "conf": 0.366189,
+      "end": 111.18,
+      "start": 110.91,
+      "word": "peur"
+    },
+    {
+      "conf": 0.970095,
+      "end": 112.317429,
+      "start": 111.84,
+      "word": "cela"
+    },
+    {
+      "conf": 0.833768,
+      "end": 112.622249,
+      "start": 112.47,
+      "word": "va"
+    },
+    {
+      "conf": 0.832369,
+      "end": 113.07,
+      "start": 112.622249,
+      "word": "venir"
+    },
+    {
+      "conf": 0.993595,
+      "end": 113.79,
+      "start": 113.31,
+      "word": "encore"
+    },
+    {
+      "conf": 0.46969,
+      "end": 115.016975,
+      "start": 114.75,
+      "word": "fait"
+    },
+    {
+      "conf": 0.291444,
+      "end": 115.65,
+      "start": 115.2,
+      "word": "extr\u00eamement"
+    },
+    {
+      "conf": 0.291444,
+      "end": 115.8,
+      "start": 115.65,
+      "word": "mal"
+    },
+    {
+      "conf": 1.0,
+      "end": 116.31,
+      "start": 116.22,
+      "word": "la"
+    },
+    {
+      "conf": 1.0,
+      "end": 116.61,
+      "start": 116.31,
+      "word": "fa\u00e7on"
+    },
+    {
+      "conf": 1.0,
+      "end": 116.73,
+      "start": 116.61,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 117.09,
+      "start": 116.73,
+      "word": "mesurer"
+    },
+    {
+      "conf": 1.0,
+      "end": 118.05,
+      "start": 117.78,
+      "word": "ma"
+    },
+    {
+      "conf": 1.0,
+      "end": 118.41,
+      "start": 118.05,
+      "word": "famille"
+    },
+    {
+      "conf": 0.871909,
+      "end": 119.07,
+      "start": 118.92,
+      "word": "j'ai"
+    },
+    {
+      "conf": 0.818893,
+      "end": 119.46,
+      "start": 119.07,
+      "word": "retrouv\u00e9"
+    },
+    {
+      "conf": 1.0,
+      "end": 120.18,
+      "start": 120.0,
+      "word": "ma"
+    },
+    {
+      "conf": 1.0,
+      "end": 120.75,
+      "start": 120.36,
+      "word": "famille"
+    },
+    {
+      "conf": 0.556436,
+      "end": 121.44,
+      "start": 120.75,
+      "word": "profondeur"
+    },
+    {
+      "conf": 0.919986,
+      "end": 121.65,
+      "start": 121.454458,
+      "word": "que"
+    },
+    {
+      "conf": 0.919986,
+      "end": 121.919399,
+      "start": 121.65,
+      "word": "j'ai"
+    },
+    {
+      "conf": 1.0,
+      "end": 122.07,
+      "start": 121.95,
+      "word": "dans"
+    },
+    {
+      "conf": 0.682367,
+      "end": 122.160007,
+      "start": 122.070007,
+      "word": "le"
+    },
+    {
+      "conf": 0.459473,
+      "end": 122.512932,
+      "start": 122.160007,
+      "word": "lambris"
+    },
+    {
+      "conf": 1.0,
+      "end": 122.97,
+      "start": 122.512932,
+      "word": "tournage"
+    },
+    {
+      "conf": 0.974591,
+      "end": 123.96,
+      "start": 123.81,
+      "word": "de"
+    },
+    {
+      "conf": 0.952491,
+      "end": 124.26,
+      "start": 123.96,
+      "word": "milliers"
+    },
+    {
+      "conf": 0.361844,
+      "end": 125.49,
+      "start": 125.13,
+      "word": "maisons"
+    },
+    {
+      "conf": 0.888628,
+      "end": 126.27,
+      "start": 125.85,
+      "word": "bien"
+    },
+    {
+      "conf": 0.517812,
+      "end": 127.083516,
+      "start": 126.648442,
+      "word": "plus"
+    },
+    {
+      "conf": 0.764278,
+      "end": 127.32,
+      "start": 127.099937,
+      "word": "que"
+    },
+    {
+      "conf": 0.74214,
+      "end": 127.83,
+      "start": 127.332935,
+      "word": "l'amour"
+    },
+    {
+      "conf": 1.0,
+      "end": 128.37,
+      "start": 128.22,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 128.7,
+      "start": 128.37,
+      "word": "l'on"
+    },
+    {
+      "conf": 1.0,
+      "end": 129.33,
+      "start": 128.91,
+      "word": "repart"
+    },
+    {
+      "conf": 1.0,
+      "end": 129.720688,
+      "start": 129.33,
+      "word": "monsieur"
+    },
+    {
+      "conf": 0.495492,
+      "end": 129.99,
+      "start": 129.720688,
+      "word": "j'ai"
+    },
+    {
+      "conf": 0.495492,
+      "end": 133.65,
+      "start": 133.23,
+      "word": "un"
+    },
+    {
+      "conf": 0.495492,
+      "end": 136.38,
+      "start": 136.11,
+      "word": "ami"
+    },
+    {
+      "conf": 0.57294,
+      "end": 139.38397,
+      "start": 138.880854,
+      "word": "a"
+    },
+    {
+      "conf": 0.799778,
+      "end": 151.83,
+      "start": 151.53,
+      "word": "voulu"
+    },
+    {
+      "conf": 0.753642,
+      "end": 152.91,
+      "start": 152.58,
+      "word": "poser"
+    },
+    {
+      "conf": 0.977161,
+      "end": 153.93,
+      "start": 153.6,
+      "word": "avant"
+    },
+    {
+      "conf": 0.979417,
+      "end": 156.051489,
+      "start": 155.931079,
+      "word": "de"
+    },
+    {
+      "conf": 0.513554,
+      "end": 156.690015,
+      "start": 156.060015,
+      "word": "communiquer"
+    },
+    {
+      "conf": 0.82573,
+      "end": 157.2,
+      "start": 157.08,
+      "word": "un"
+    },
+    {
+      "conf": 0.553706,
+      "end": 157.410015,
+      "start": 157.200015,
+      "word": "mot"
+    },
+    {
+      "conf": 0.899578,
+      "end": 158.34,
+      "start": 157.71,
+      "word": "compliqu\u00e9"
+    }
+  ],
+  "text": "monsieur le constable est forte avec hommes mais comment puis-je faire s'il vous pla\u00eet donner mon p\u00e8re ayant quitt\u00e9 mes enfants comment vous pouvez choisir ce type de repas auquel les bonnes paroles testament et ses amis vous pouvez encore ajouter un grand nombre d'obligations de divers cr\u00e9anciers pour leur amazon pas entre les mains de localiser le africa a \u00e9t\u00e9 de m\u00eame de l'abandon des vieilles pourrait avoir des gars qui ne pouvons commenter cela est bien m\u00e9rit\u00e9 mon ami je suis assez malheureuse et n'ach\u00e8te pas l'avenir rien n'est vraiment pas ma mie consolez-vous je vous en prie cela comprend des choses nous n'avons pas regrett\u00e9 jean et t-shirt mammouth c'est de n'avoir pas un enfant de vous monsieur le comte am\u00e9d\u00e9e cl\u00e9ment peur cela va venir encore fait extr\u00eamement mal la fa\u00e7on de mesurer ma famille j'ai retrouv\u00e9 ma famille profondeur que j'ai dans le lambris tournage de milliers maisons bien plus que l'amour et l'on repart monsieur j'ai un ami a voulu poser avant de communiquer un mot compliqu\u00e9",
+  "media": "E:\\LMI\\archives\\MALADE_2.mp4"
+}

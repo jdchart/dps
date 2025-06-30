@@ -1,0 +1,90 @@
+{
+  "text": "je vous assure que ce n'est pas seulement le loisir de changer ma maladie",
+  "media": "E:\\LMI\\20230427_f1\\LMI_20230427_f1_09.MP4",
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 2.13,
+      "start": 1.89,
+      "word": "je"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.4,
+      "start": 2.25,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.85,
+      "start": 2.4,
+      "word": "assure"
+    },
+    {
+      "conf": 1.0,
+      "end": 60.45,
+      "start": 60.06,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 62.76,
+      "start": 62.61,
+      "word": "ce"
+    },
+    {
+      "conf": 1.0,
+      "end": 62.91,
+      "start": 62.76,
+      "word": "n'est"
+    },
+    {
+      "conf": 1.0,
+      "end": 63.24,
+      "start": 62.91,
+      "word": "pas"
+    },
+    {
+      "conf": 1.0,
+      "end": 64.2,
+      "start": 63.27,
+      "word": "seulement"
+    },
+    {
+      "conf": 1.0,
+      "end": 64.74,
+      "start": 64.59,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 65.67,
+      "start": 64.74,
+      "word": "loisir"
+    },
+    {
+      "conf": 1.0,
+      "end": 66.15,
+      "start": 65.97,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 66.99,
+      "start": 66.15,
+      "word": "changer"
+    },
+    {
+      "conf": 1.0,
+      "end": 68.07,
+      "start": 67.62,
+      "word": "ma"
+    },
+    {
+      "conf": 1.0,
+      "end": 68.52,
+      "start": 68.16,
+      "word": "maladie"
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 10.05,
+      "start": 9.66,
+      "word": "que"
+    },
+    {
+      "conf": 0.744221,
+      "end": 11.28,
+      "start": 10.71,
+      "word": "dire"
+    },
+    {
+      "conf": 0.521476,
+      "end": 12.439411,
+      "start": 12.24,
+      "word": "quand"
+    },
+    {
+      "conf": 0.764166,
+      "end": 13.02,
+      "start": 12.439411,
+      "word": "entendez-vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.56,
+      "start": 13.26,
+      "word": "cette"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.34,
+      "start": 13.56,
+      "word": "facult\u00e9"
+    },
+    {
+      "conf": 0.823353,
+      "end": 14.46,
+      "start": 14.37,
+      "word": "de"
+    },
+    {
+      "conf": 0.771715,
+      "end": 14.67,
+      "start": 14.46,
+      "word": "vos"
+    },
+    {
+      "conf": 0.975052,
+      "end": 15.09,
+      "start": 14.67,
+      "word": "amis"
+    },
+    {
+      "conf": 0.472099,
+      "end": 16.5,
+      "start": 16.26,
+      "word": "quelle"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.56,
+      "start": 16.5,
+      "word": "est"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.62,
+      "word": "donc"
+    },
+    {
+      "conf": 0.860521,
+      "end": 18.42,
+      "start": 17.88,
+      "word": "pr\u00e9f\u00e9rable"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.84,
+      "start": 18.66,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.96,
+      "start": 18.84,
+      "word": "nous"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.688619,
+      "start": 18.96,
+      "word": "divertir"
+    },
+    {
+      "conf": 0.681277,
+      "end": 22.41,
+      "start": 22.29,
+      "word": "les"
+    },
+    {
+      "conf": 0.989025,
+      "end": 23.01,
+      "start": 22.41,
+      "word": "com\u00e9diens"
+    },
+    {
+      "conf": 0.649083,
+      "end": 24.9,
+      "start": 24.54,
+      "word": "vous-m\u00eame"
+    },
+    {
+      "conf": 0.821692,
+      "end": 25.68,
+      "start": 25.23,
+      "word": "solutions"
+    },
+    {
+      "conf": 0.40523,
+      "end": 25.803931,
+      "start": 25.71,
+      "word": "de"
+    },
+    {
+      "conf": 0.394808,
+      "end": 26.31,
+      "start": 25.98,
+      "word": "soit"
+    },
+    {
+      "conf": 1.0,
+      "end": 27.36,
+      "start": 27.06,
+      "word": "avec"
+    },
+    {
+      "conf": 0.994378,
+      "end": 27.51,
+      "start": 27.36,
+      "word": "des"
+    },
+    {
+      "conf": 0.778988,
+      "end": 27.96,
+      "start": 27.51,
+      "word": "danses"
+    },
+    {
+      "conf": 0.949742,
+      "end": 28.74,
+      "start": 27.960355,
+      "word": "p\u00e9dagogie"
+    },
+    {
+      "conf": 0.72598,
+      "end": 31.319385,
+      "start": 31.14,
+      "word": "comme"
+    },
+    {
+      "conf": 0.794975,
+      "end": 31.498011,
+      "start": 31.319385,
+      "word": "nous"
+    },
+    {
+      "conf": 1.0,
+      "end": 32.174216,
+      "start": 31.498011,
+      "word": "ensemble"
+    },
+    {
+      "conf": 0.759845,
+      "end": 33.06,
+      "start": 32.28,
+      "word": "divertissement"
+    },
+    {
+      "conf": 1.0,
+      "end": 34.5,
+      "start": 34.35,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 34.68,
+      "start": 34.5,
+      "word": "mon"
+    },
+    {
+      "conf": 1.0,
+      "end": 35.13,
+      "start": 34.68,
+      "word": "fr\u00e8re"
+    },
+    {
+      "conf": 1.0,
+      "end": 36.24,
+      "start": 35.49,
+      "word": "fasse"
+    },
+    {
+      "conf": 1.0,
+      "end": 37.32,
+      "start": 37.11,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 37.86,
+      "start": 37.32,
+      "word": "premier"
+    },
+    {
+      "conf": 1.0,
+      "end": 38.79,
+      "start": 37.86,
+      "word": "personnage"
+    },
+    {
+      "conf": 1.0,
+      "end": 45.09,
+      "start": 44.79,
+      "word": "trois"
+    },
+    {
+      "conf": 1.0,
+      "end": 45.21,
+      "start": 45.09,
+      "word": "est"
+    },
+    {
+      "conf": 0.731906,
+      "end": 45.33,
+      "start": 45.21,
+      "word": "un"
+    },
+    {
+      "conf": 0.731906,
+      "end": 46.08,
+      "start": 45.33,
+      "word": "constat"
+    },
+    {
+      "conf": 0.362597,
+      "end": 47.636169,
+      "start": 47.4,
+      "word": "sans"
+    },
+    {
+      "conf": 0.522994,
+      "end": 48.51,
+      "start": 47.636169,
+      "word": "s'affronter"
+    },
+    {
+      "conf": 1.0,
+      "end": 49.59,
+      "start": 49.41,
+      "word": "avec"
+    },
+    {
+      "conf": 1.0,
+      "end": 49.77,
+      "start": 49.59,
+      "word": "des"
+    },
+    {
+      "conf": 1.0,
+      "end": 50.19,
+      "start": 49.77,
+      "word": "fonds"
+    },
+    {
+      "conf": 1.0,
+      "end": 51.33,
+      "start": 50.229188,
+      "word": "va"
+    },
+    {
+      "conf": 0.658833,
+      "end": 52.140004,
+      "start": 51.540004,
+      "word": "droit"
+    },
+    {
+      "conf": 0.588438,
+      "end": 52.560004,
+      "start": 52.410004,
+      "word": "dans"
+    },
+    {
+      "conf": 0.588438,
+      "end": 52.620004,
+      "start": 52.560004,
+      "word": "le"
+    },
+    {
+      "conf": 0.658833,
+      "end": 52.890004,
+      "start": 52.620004,
+      "word": "fond"
+    },
+    {
+      "conf": 1.0,
+      "end": 53.88,
+      "start": 52.890004,
+      "word": "\u00e7a"
+    },
+    {
+      "conf": 1.0,
+      "end": 55.98,
+      "start": 55.92,
+      "word": "a"
+    },
+    {
+      "conf": 1.0,
+      "end": 56.16,
+      "start": 55.98,
+      "word": "\u00e9t\u00e9"
+    },
+    {
+      "conf": 0.873774,
+      "end": 56.967133,
+      "start": 56.309996,
+      "word": "facile"
+    },
+    {
+      "conf": 0.882961,
+      "end": 57.21,
+      "start": 57.03,
+      "word": "pour"
+    },
+    {
+      "conf": 0.813248,
+      "end": 57.345487,
+      "start": 57.21,
+      "word": "la"
+    },
+    {
+      "conf": 0.813248,
+      "end": 57.81,
+      "start": 57.554509,
+      "word": "femme"
+    },
+    {
+      "conf": 1.0,
+      "end": 58.32,
+      "start": 57.81,
+      "word": "cela"
+    },
+    {
+      "conf": 0.578003,
+      "end": 58.65,
+      "start": 58.47,
+      "word": "rend"
+    },
+    {
+      "conf": 0.778892,
+      "end": 59.31,
+      "start": 58.917019,
+      "word": "malade"
+    },
+    {
+      "conf": 0.943587,
+      "end": 59.64,
+      "start": 59.49,
+      "word": "tout"
+    },
+    {
+      "conf": 0.943587,
+      "end": 60.27,
+      "start": 59.64,
+      "word": "seul"
+    },
+    {
+      "conf": 0.531535,
+      "end": 61.8,
+      "start": 61.29,
+      "word": "voil\u00e0"
+    },
+    {
+      "conf": 0.709159,
+      "end": 63.569136,
+      "start": 63.049006,
+      "word": "voil\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 67.41,
+      "start": 66.87,
+      "word": "voil\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 68.04,
+      "start": 67.41,
+      "word": "tu"
+    },
+    {
+      "conf": 1.0,
+      "end": 68.43,
+      "start": 68.28,
+      "word": "es"
+    },
+    {
+      "conf": 1.0,
+      "end": 69.57,
+      "start": 68.58,
+      "word": "pitoyable"
+    },
+    {
+      "conf": 0.982856,
+      "end": 76.74,
+      "start": 76.44,
+      "word": "bon"
+    },
+    {
+      "conf": 0.793004,
+      "end": 77.22,
+      "start": 76.74,
+      "word": "dieu"
+    },
+    {
+      "conf": 0.644456,
+      "end": 78.708853,
+      "start": 78.36,
+      "word": "et"
+    },
+    {
+      "conf": 0.553528,
+      "end": 78.96,
+      "start": 78.728049,
+      "word": "quand"
+    },
+    {
+      "conf": 1.0,
+      "end": 79.08,
+      "start": 78.967185,
+      "word": "ils"
+    },
+    {
+      "conf": 1.0,
+      "end": 79.77,
+      "start": 79.08,
+      "word": "seront"
+    },
+    {
+      "conf": 1.0,
+      "end": 80.82,
+      "start": 79.89,
+      "word": "ici"
+    },
+    {
+      "conf": 1.0,
+      "end": 82.14,
+      "start": 81.06,
+      "word": "ouvrez"
+    }
+  ],
+  "text": "que dire quand entendez-vous cette facult\u00e9 de vos amis quelle est donc pr\u00e9f\u00e9rable de nous divertir les com\u00e9diens vous-m\u00eame solutions de soit avec des danses p\u00e9dagogie comme nous ensemble divertissement que mon fr\u00e8re fasse le premier personnage trois est un constat sans s'affronter avec des fonds va droit dans le fond \u00e7a a \u00e9t\u00e9 facile pour la femme cela rend malade tout seul voil\u00e0 voil\u00e0 voil\u00e0 tu es pitoyable bon dieu et quand ils seront ici ouvrez",
+  "media": "E:\\LMI\\20230428_f2\\LMI_20230428_f2_13.MP4"
+}

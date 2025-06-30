@@ -1,0 +1,342 @@
+{
+  "result": [
+    {
+      "conf": 0.999952,
+      "end": 48.63,
+      "start": 48.48,
+      "word": "je"
+    },
+    {
+      "conf": 1.0,
+      "end": 49.44,
+      "start": 49.35,
+      "word": "ne"
+    },
+    {
+      "conf": 0.999952,
+      "end": 49.92,
+      "start": 49.44,
+      "word": "connaissais"
+    },
+    {
+      "conf": 1.0,
+      "end": 50.25,
+      "start": 49.92,
+      "word": "pas"
+    },
+    {
+      "conf": 0.964694,
+      "end": 52.498638,
+      "start": 52.23,
+      "word": "qui"
+    },
+    {
+      "conf": 0.523908,
+      "end": 52.530004,
+      "start": 52.500004,
+      "word": "a"
+    },
+    {
+      "conf": 0.601963,
+      "end": 53.01,
+      "start": 52.55692,
+      "word": "retrouv\u00e9"
+    },
+    {
+      "conf": 0.524549,
+      "end": 54.930004,
+      "start": 54.690004,
+      "word": "la"
+    },
+    {
+      "conf": 0.990124,
+      "end": 56.13,
+      "start": 55.8,
+      "word": "plan\u00e8te"
+    },
+    {
+      "conf": 1.0,
+      "end": 56.82,
+      "start": 56.67,
+      "word": "dans"
+    },
+    {
+      "conf": 1.0,
+      "end": 56.85,
+      "start": 56.82,
+      "word": "un"
+    },
+    {
+      "conf": 1.0,
+      "end": 57.12,
+      "start": 56.85,
+      "word": "\u00e9tat"
+    },
+    {
+      "conf": 1.0,
+      "end": 57.530969,
+      "start": 57.18,
+      "word": "d'attente"
+    },
+    {
+      "conf": 0.703607,
+      "end": 57.9,
+      "start": 57.69,
+      "word": "grand"
+    },
+    {
+      "conf": 0.79053,
+      "end": 58.05,
+      "start": 57.9,
+      "word": "mes"
+    },
+    {
+      "conf": 0.79053,
+      "end": 61.11,
+      "start": 60.6,
+      "word": "co\u00e9quipiers"
+    },
+    {
+      "conf": 1.0,
+      "end": 61.26,
+      "start": 61.14,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 61.41,
+      "start": 61.26,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 61.59,
+      "start": 61.41,
+      "word": "\u00eates"
+    },
+    {
+      "conf": 0.851936,
+      "end": 61.98,
+      "start": 61.59,
+      "word": "malade"
+    },
+    {
+      "conf": 0.885697,
+      "end": 62.61,
+      "start": 62.46,
+      "word": "que"
+    },
+    {
+      "conf": 0.928845,
+      "end": 62.85,
+      "start": 62.611392,
+      "word": "je"
+    },
+    {
+      "conf": 0.928845,
+      "end": 63.63,
+      "start": 63.24,
+      "word": "vois"
+    },
+    {
+      "conf": 0.511222,
+      "end": 65.49,
+      "start": 65.1,
+      "word": "cela"
+    },
+    {
+      "conf": 0.976211,
+      "end": 67.38,
+      "start": 67.022029,
+      "word": "sont"
+    },
+    {
+      "conf": 0.976211,
+      "end": 67.62,
+      "start": 67.38,
+      "word": "tous"
+    },
+    {
+      "conf": 1.0,
+      "end": 67.8,
+      "start": 67.62,
+      "word": "des"
+    },
+    {
+      "conf": 0.734057,
+      "end": 68.28,
+      "start": 67.8,
+      "word": "ignorants"
+    },
+    {
+      "conf": 0.943872,
+      "end": 74.67,
+      "start": 74.07,
+      "word": "stupides"
+    },
+    {
+      "conf": 1.0,
+      "end": 82.98,
+      "start": 82.8,
+      "word": "que"
+    },
+    {
+      "conf": 0.775264,
+      "end": 83.34,
+      "start": 82.98,
+      "word": "sauter"
+    },
+    {
+      "conf": 1.0,
+      "end": 85.56,
+      "start": 85.2,
+      "word": "sur"
+    },
+    {
+      "conf": 1.0,
+      "end": 87.96,
+      "start": 87.54,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 88.68,
+      "start": 88.44,
+      "word": "th\u00e8me"
+    },
+    {
+      "conf": 0.419047,
+      "end": 90.57,
+      "start": 90.45,
+      "word": "le"
+    },
+    {
+      "conf": 0.824262,
+      "end": 90.96,
+      "start": 90.57,
+      "word": "poumon"
+    },
+    {
+      "conf": 0.888277,
+      "end": 95.22,
+      "start": 94.98,
+      "word": "j'ai"
+    },
+    {
+      "conf": 0.887236,
+      "end": 95.34,
+      "start": 95.22,
+      "word": "un"
+    },
+    {
+      "conf": 0.538345,
+      "end": 95.849993,
+      "start": 95.34,
+      "word": "poids"
+    },
+    {
+      "conf": 0.890685,
+      "end": 97.17,
+      "start": 96.99,
+      "word": "deux"
+    },
+    {
+      "conf": 0.979669,
+      "end": 99.99,
+      "start": 99.63,
+      "word": "fois"
+    },
+    {
+      "conf": 1.0,
+      "end": 101.4,
+      "start": 100.94959,
+      "word": "que"
+    },
+    {
+      "conf": 0.788937,
+      "end": 104.159414,
+      "start": 103.98,
+      "word": "je"
+    },
+    {
+      "conf": 0.72659,
+      "end": 104.700007,
+      "start": 104.160007,
+      "word": "sens"
+    },
+    {
+      "conf": 0.725371,
+      "end": 106.852588,
+      "start": 106.560007,
+      "word": "tu"
+    },
+    {
+      "conf": 0.678069,
+      "end": 112.442256,
+      "start": 111.865774,
+      "word": "vois"
+    },
+    {
+      "conf": 1.0,
+      "end": 113.7,
+      "start": 113.52,
+      "word": "tout"
+    },
+    {
+      "conf": 1.0,
+      "end": 113.76,
+      "start": 113.7,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 114.0,
+      "start": 113.76,
+      "word": "monde"
+    },
+    {
+      "conf": 1.0,
+      "end": 115.29,
+      "start": 114.87,
+      "word": "fait"
+    },
+    {
+      "conf": 1.0,
+      "end": 115.8,
+      "start": 115.56,
+      "word": "comme"
+    },
+    {
+      "conf": 1.0,
+      "end": 117.06,
+      "start": 116.82,
+      "word": "si"
+    },
+    {
+      "conf": 0.971636,
+      "end": 117.42,
+      "start": 117.06,
+      "word": "c'\u00e9tait"
+    },
+    {
+      "conf": 0.356446,
+      "end": 139.2,
+      "start": 139.08,
+      "word": "et"
+    },
+    {
+      "conf": 0.356446,
+      "end": 173.28,
+      "start": 173.19,
+      "word": "de"
+    },
+    {
+      "conf": 0.2546,
+      "end": 207.66,
+      "start": 207.12,
+      "word": "qualit\u00e9"
+    }
+  ],
+  "text": "je ne connaissais pas qui a retrouv\u00e9 la plan\u00e8te dans un \u00e9tat d'attente grand mes co\u00e9quipiers que vous \u00eates malade que je vois cela sont tous des ignorants stupides que sauter sur le th\u00e8me le poumon j'ai un poids deux fois que je sens tu vois tout le monde fait comme si c'\u00e9tait et de qualit\u00e9",
+  "media": "E:\\LMI\\20230510_5\\LMI_20230510_5_11.MP4"
+}

@@ -1,0 +1,42 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 114.18,
+      "start": 113.94,
+      "word": "n'est-ce"
+    },
+    {
+      "conf": 1.0,
+      "end": 114.3,
+      "start": 114.18,
+      "word": "pas"
+    },
+    {
+      "conf": 0.911859,
+      "end": 204.174097,
+      "start": 203.924956,
+      "word": "l\u00e0"
+    },
+    {
+      "conf": 0.842488,
+      "end": 276.78,
+      "start": 276.69,
+      "word": "un"
+    },
+    {
+      "conf": 0.799657,
+      "end": 294.42,
+      "start": 293.94,
+      "word": "si\u00e8ge"
+    },
+    {
+      "conf": 0.889305,
+      "end": 296.25,
+      "start": 295.92,
+      "word": "plat"
+    }
+  ],
+  "text": "n'est-ce pas l\u00e0 un si\u00e8ge plat",
+  "media": "E:\\LMI\\archives\\MALADE_2.mp4"
+}

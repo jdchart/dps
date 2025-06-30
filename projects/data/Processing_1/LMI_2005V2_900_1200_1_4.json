@@ -1,0 +1,228 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 143.61,
+      "start": 143.22,
+      "word": "voici"
+    },
+    {
+      "conf": 0.795516,
+      "end": 147.881616,
+      "start": 147.72,
+      "word": "les"
+    },
+    {
+      "conf": 0.512527,
+      "end": 148.379985,
+      "start": 148.019985,
+      "word": "propos"
+    },
+    {
+      "conf": 0.9997,
+      "end": 148.53,
+      "start": 148.403613,
+      "word": "je"
+    },
+    {
+      "conf": 0.9997,
+      "end": 148.83,
+      "start": 148.53,
+      "word": "voulais"
+    },
+    {
+      "conf": 0.9997,
+      "end": 148.98,
+      "start": 148.83,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 149.4,
+      "start": 148.98,
+      "word": "parler"
+    },
+    {
+      "conf": 0.647392,
+      "end": 150.928975,
+      "start": 150.66,
+      "word": "avant"
+    },
+    {
+      "conf": 0.625138,
+      "end": 151.08,
+      "start": 150.93,
+      "word": "tout"
+    },
+    {
+      "conf": 0.957407,
+      "end": 152.693701,
+      "start": 152.25,
+      "word": "donnez-moi"
+    },
+    {
+      "conf": 1.0,
+      "end": 152.88,
+      "start": 152.693701,
+      "word": "mon"
+    },
+    {
+      "conf": 0.871148,
+      "end": 153.33,
+      "start": 152.88,
+      "word": "patron"
+    },
+    {
+      "conf": 0.980948,
+      "end": 153.54,
+      "start": 153.42,
+      "word": "je"
+    },
+    {
+      "conf": 0.980948,
+      "end": 153.63,
+      "start": 153.54,
+      "word": "vais"
+    },
+    {
+      "conf": 0.999082,
+      "end": 154.08,
+      "start": 153.63,
+      "word": "revenir"
+    },
+    {
+      "conf": 1.0,
+      "end": 158.52,
+      "start": 157.95,
+      "word": "monsieur"
+    },
+    {
+      "conf": 0.538912,
+      "end": 163.47,
+      "start": 162.72,
+      "word": "regardez-moi"
+    },
+    {
+      "conf": 0.718789,
+      "end": 164.73,
+      "start": 164.55,
+      "word": "bien"
+    },
+    {
+      "conf": 0.775657,
+      "end": 164.91,
+      "start": 164.732197,
+      "word": "je"
+    },
+    {
+      "conf": 0.775785,
+      "end": 165.84,
+      "start": 165.45,
+      "word": "connais"
+    },
+    {
+      "conf": 0.905105,
+      "end": 178.71,
+      "start": 178.47,
+      "word": "bien"
+    },
+    {
+      "conf": 0.85769,
+      "end": 178.89,
+      "start": 178.71,
+      "word": "son"
+    },
+    {
+      "conf": 0.85769,
+      "end": 179.01,
+      "start": 178.89,
+      "word": "nom"
+    },
+    {
+      "conf": 1.0,
+      "end": 180.409131,
+      "start": 180.12,
+      "word": "puisque"
+    },
+    {
+      "conf": 0.630004,
+      "end": 180.57,
+      "start": 180.42,
+      "word": "tu"
+    },
+    {
+      "conf": 0.624232,
+      "end": 181.2,
+      "start": 181.08,
+      "word": "m'as"
+    },
+    {
+      "conf": 0.951534,
+      "end": 187.23,
+      "start": 186.93,
+      "word": "donn\u00e9"
+    },
+    {
+      "conf": 0.897731,
+      "end": 189.24,
+      "start": 188.97,
+      "word": "l'id\u00e9e"
+    },
+    {
+      "conf": 0.897731,
+      "end": 192.3,
+      "start": 192.18,
+      "word": "de"
+    },
+    {
+      "conf": 0.897731,
+      "end": 198.69,
+      "start": 198.45,
+      "word": "faire"
+    },
+    {
+      "conf": 0.897731,
+      "end": 220.83,
+      "start": 220.59,
+      "word": "quelque"
+    },
+    {
+      "conf": 0.897731,
+      "end": 221.07,
+      "start": 220.83,
+      "word": "chose"
+    },
+    {
+      "conf": 1.0,
+      "end": 223.11,
+      "start": 222.54,
+      "word": "quelques"
+    },
+    {
+      "conf": 1.0,
+      "end": 223.32,
+      "start": 223.11,
+      "word": "id\u00e9es"
+    },
+    {
+      "conf": 1.0,
+      "end": 235.89,
+      "start": 235.29,
+      "word": "d'activit\u00e9s"
+    },
+    {
+      "conf": 0.912861,
+      "end": 238.56,
+      "start": 238.26,
+      "word": "au"
+    },
+    {
+      "conf": 0.425763,
+      "end": 286.71,
+      "start": 286.32,
+      "word": "soleil"
+    }
+  ],
+  "text": "voici les propos je voulais vous parler avant tout donnez-moi mon patron je vais revenir monsieur regardez-moi bien je connais bien son nom puisque tu m'as donn\u00e9 l'id\u00e9e de faire quelque chose quelques id\u00e9es d'activit\u00e9s au soleil",
+  "media": "E:\\LMI\\archives\\MALADE_2.mp4"
+}

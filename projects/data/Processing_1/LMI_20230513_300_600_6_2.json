@@ -1,0 +1,576 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 0.09,
+      "start": 0.0,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.42,
+      "start": 0.09,
+      "word": "voudriez"
+    },
+    {
+      "conf": 1.0,
+      "end": 0.66,
+      "start": 0.42,
+      "word": "bien"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.22,
+      "word": "diff\u00e9rent"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.67,
+      "start": 11.46,
+      "word": "d'un"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.17,
+      "start": 12.54,
+      "word": "individu"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.41,
+      "start": 13.17,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.44,
+      "start": 16.23,
+      "word": "une"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.37,
+      "start": 16.44,
+      "word": "impertinente"
+    },
+    {
+      "conf": 0.881346,
+      "end": 18.51,
+      "start": 17.64,
+      "word": "pr\u00e9somption"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.9,
+      "start": 18.78,
+      "word": "qui"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.08,
+      "start": 18.93,
+      "word": "fait"
+    },
+    {
+      "conf": 0.679977,
+      "end": 19.38,
+      "start": 19.08,
+      "word": "monter"
+    },
+    {
+      "conf": 0.679977,
+      "end": 19.5,
+      "start": 19.38,
+      "word": "les"
+    },
+    {
+      "conf": 0.679977,
+      "end": 19.793498,
+      "start": 19.5,
+      "word": "\u00e9paules"
+    },
+    {
+      "conf": 0.999377,
+      "end": 19.89,
+      "start": 19.793498,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.07,
+      "start": 19.890018,
+      "word": "tout"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.13,
+      "start": 20.07,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.549947,
+      "start": 20.13,
+      "word": "monde"
+    },
+    {
+      "conf": 0.468359,
+      "end": 27.03,
+      "start": 26.88,
+      "word": "qui"
+    },
+    {
+      "conf": 0.457103,
+      "end": 27.27,
+      "start": 27.03,
+      "word": "subit"
+    },
+    {
+      "conf": 0.567204,
+      "end": 27.51,
+      "start": 27.27,
+      "word": "sa"
+    },
+    {
+      "conf": 0.397198,
+      "end": 30.09,
+      "start": 29.4,
+      "word": "conscience"
+    },
+    {
+      "conf": 0.398394,
+      "end": 37.41,
+      "start": 36.87,
+      "word": "choisir"
+    },
+    {
+      "conf": 1.0,
+      "end": 39.21,
+      "start": 38.82,
+      "word": "ce"
+    },
+    {
+      "conf": 0.982361,
+      "end": 40.32,
+      "start": 40.23,
+      "word": "qui"
+    },
+    {
+      "conf": 1.0,
+      "end": 40.47,
+      "start": 40.32,
+      "word": "s'est"
+    },
+    {
+      "conf": 1.0,
+      "end": 40.8,
+      "start": 40.47,
+      "word": "pass\u00e9"
+    },
+    {
+      "conf": 0.720717,
+      "end": 42.09,
+      "start": 41.76,
+      "word": "mais"
+    },
+    {
+      "conf": 0.479939,
+      "end": 42.48,
+      "start": 42.3,
+      "word": "j'ai"
+    },
+    {
+      "conf": 0.679177,
+      "end": 44.430531,
+      "start": 44.28327,
+      "word": "d\u00e9j\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 44.55,
+      "start": 44.430531,
+      "word": "fait"
+    },
+    {
+      "conf": 1.0,
+      "end": 47.4,
+      "start": 47.13,
+      "word": "ses"
+    },
+    {
+      "conf": 1.0,
+      "end": 50.28,
+      "start": 49.83,
+      "word": "adieux"
+    },
+    {
+      "conf": 0.990224,
+      "end": 50.49,
+      "start": 50.37,
+      "word": "au"
+    },
+    {
+      "conf": 1.0,
+      "end": 50.82,
+      "start": 50.49,
+      "word": "petit"
+    },
+    {
+      "conf": 0.924676,
+      "end": 51.06,
+      "start": 50.82,
+      "word": "ami"
+    },
+    {
+      "conf": 0.571817,
+      "end": 51.540004,
+      "start": 51.060004,
+      "word": "mathieu"
+    },
+    {
+      "conf": 0.989711,
+      "end": 61.77,
+      "start": 61.165433,
+      "word": "monsieur"
+    },
+    {
+      "conf": 0.984572,
+      "end": 113.19,
+      "start": 112.98,
+      "word": "j'ai"
+    },
+    {
+      "conf": 0.996183,
+      "end": 113.46,
+      "start": 113.190352,
+      "word": "cru"
+    },
+    {
+      "conf": 0.878249,
+      "end": 114.180007,
+      "start": 113.580007,
+      "word": "divertir"
+    },
+    {
+      "conf": 1.0,
+      "end": 118.92,
+      "start": 118.77,
+      "word": "mais"
+    },
+    {
+      "conf": 1.0,
+      "end": 119.16,
+      "start": 118.92,
+      "word": "ce"
+    },
+    {
+      "conf": 0.672312,
+      "end": 121.86,
+      "start": 121.71,
+      "word": "n'est"
+    },
+    {
+      "conf": 1.0,
+      "end": 122.79,
+      "start": 122.52,
+      "word": "point"
+    },
+    {
+      "conf": 1.0,
+      "end": 230.49,
+      "start": 230.19,
+      "word": "c'est"
+    },
+    {
+      "conf": 1.0,
+      "end": 230.64,
+      "start": 230.49,
+      "word": "une"
+    },
+    {
+      "conf": 1.0,
+      "end": 230.88,
+      "start": 230.64,
+      "word": "grande"
+    },
+    {
+      "conf": 1.0,
+      "end": 231.78,
+      "start": 231.06,
+      "word": "mis\u00e9ricorde"
+    },
+    {
+      "conf": 1.0,
+      "end": 231.96,
+      "start": 231.84,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 232.23,
+      "start": 231.96,
+      "word": "dieu"
+    },
+    {
+      "conf": 1.0,
+      "end": 232.38,
+      "start": 232.23,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 232.5,
+      "start": 232.38,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 232.89,
+      "start": 232.5,
+      "word": "pass\u00e9"
+    },
+    {
+      "conf": 0.379253,
+      "end": 233.331797,
+      "start": 232.89,
+      "word": "parviennent"
+    },
+    {
+      "conf": 1.0,
+      "end": 233.4,
+      "start": 233.331797,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 233.58,
+      "start": 233.4,
+      "word": "se"
+    },
+    {
+      "conf": 1.0,
+      "end": 234.15,
+      "start": 233.58,
+      "word": "d\u00e9truire"
+    },
+    {
+      "conf": 0.609564,
+      "end": 280.53,
+      "start": 280.02,
+      "word": "souviens"
+    },
+    {
+      "conf": 0.972408,
+      "end": 280.68,
+      "start": 280.53583,
+      "word": "de"
+    },
+    {
+      "conf": 0.85879,
+      "end": 280.8,
+      "start": 280.68,
+      "word": "la"
+    },
+    {
+      "conf": 1.0,
+      "end": 281.13,
+      "start": 280.8,
+      "word": "maison"
+    },
+    {
+      "conf": 1.0,
+      "end": 281.19,
+      "start": 281.13,
+      "word": "o\u00f9"
+    },
+    {
+      "conf": 1.0,
+      "end": 281.37,
+      "start": 281.19,
+      "word": "je"
+    },
+    {
+      "conf": 1.0,
+      "end": 281.73,
+      "start": 281.37,
+      "word": "suis"
+    },
+    {
+      "conf": 0.625917,
+      "end": 281.91,
+      "start": 281.73,
+      "word": "n\u00e9"
+    },
+    {
+      "conf": 1.0,
+      "end": 283.29,
+      "start": 283.08,
+      "word": "j'y"
+    },
+    {
+      "conf": 1.0,
+      "end": 283.5,
+      "start": 283.29,
+      "word": "suis"
+    },
+    {
+      "conf": 1.0,
+      "end": 284.04,
+      "start": 283.5,
+      "word": "rest\u00e9e"
+    },
+    {
+      "conf": 1.0,
+      "end": 284.88,
+      "start": 284.61,
+      "word": "toute"
+    },
+    {
+      "conf": 0.679381,
+      "end": 285.27,
+      "start": 284.88,
+      "word": "petite"
+    },
+    {
+      "conf": 1.0,
+      "end": 286.71,
+      "start": 286.53,
+      "word": "les"
+    },
+    {
+      "conf": 1.0,
+      "end": 287.1,
+      "start": 286.71,
+      "word": "quelques"
+    },
+    {
+      "conf": 1.0,
+      "end": 287.37,
+      "start": 287.1,
+      "word": "ann\u00e9es"
+    },
+    {
+      "conf": 0.705146,
+      "end": 287.46,
+      "start": 287.37,
+      "word": "o\u00f9"
+    },
+    {
+      "conf": 1.0,
+      "end": 287.64,
+      "start": 287.468848,
+      "word": "j'ai"
+    },
+    {
+      "conf": 1.0,
+      "end": 288.06,
+      "start": 287.64,
+      "word": "v\u00e9cu"
+    },
+    {
+      "conf": 1.0,
+      "end": 288.51,
+      "start": 288.18,
+      "word": "avec"
+    },
+    {
+      "conf": 1.0,
+      "end": 289.98,
+      "start": 289.62,
+      "word": "mon"
+    },
+    {
+      "conf": 1.0,
+      "end": 290.46,
+      "start": 289.98,
+      "word": "p\u00e8re"
+    },
+    {
+      "conf": 1.0,
+      "end": 292.92,
+      "start": 292.71,
+      "word": "j'ai"
+    },
+    {
+      "conf": 1.0,
+      "end": 293.16,
+      "start": 292.92,
+      "word": "bien"
+    },
+    {
+      "conf": 1.0,
+      "end": 293.22,
+      "start": 293.16,
+      "word": "en"
+    },
+    {
+      "conf": 1.0,
+      "end": 293.61,
+      "start": 293.22,
+      "word": "m\u00e9moire"
+    },
+    {
+      "conf": 0.823003,
+      "end": 293.743477,
+      "start": 293.61,
+      "word": "le"
+    },
+    {
+      "conf": 0.453072,
+      "end": 294.15,
+      "start": 293.91,
+      "word": "nom"
+    },
+    {
+      "conf": 0.890316,
+      "end": 294.40957,
+      "start": 294.290859,
+      "word": "de"
+    },
+    {
+      "conf": 0.848683,
+      "end": 294.57,
+      "start": 294.42,
+      "word": "la"
+    },
+    {
+      "conf": 0.91129,
+      "end": 294.99,
+      "start": 294.628564,
+      "word": "maison"
+    },
+    {
+      "conf": 1.0,
+      "end": 296.19,
+      "start": 295.29,
+      "word": "l'emplacement"
+    },
+    {
+      "conf": 1.0,
+      "end": 296.31,
+      "start": 296.19,
+      "word": "des"
+    },
+    {
+      "conf": 0.795828,
+      "end": 296.91,
+      "start": 296.31,
+      "word": "chambres"
+    },
+    {
+      "conf": 0.903878,
+      "end": 298.746182,
+      "start": 298.498447,
+      "word": "de"
+    },
+    {
+      "conf": 0.192393,
+      "end": 298.92,
+      "start": 298.8,
+      "word": "ans"
+    }
+  ],
+  "text": "vous voudriez bien diff\u00e9rent d'un individu \u00e0 une impertinente pr\u00e9somption qui fait monter les \u00e9paules \u00e0 tout le monde qui subit sa conscience choisir ce qui s'est pass\u00e9 mais j'ai d\u00e9j\u00e0 fait ses adieux au petit ami mathieu monsieur j'ai cru divertir mais ce n'est point c'est une grande mis\u00e9ricorde de dieu que le pass\u00e9 parviennent \u00e0 se d\u00e9truire souviens de la maison o\u00f9 je suis n\u00e9 j'y suis rest\u00e9e toute petite les quelques ann\u00e9es o\u00f9 j'ai v\u00e9cu avec mon p\u00e8re j'ai bien en m\u00e9moire le nom de la maison l'emplacement des chambres de ans",
+  "media": "E:\\LMI\\20230513_8\\LMI_20230513_8_06.MP4"
+}

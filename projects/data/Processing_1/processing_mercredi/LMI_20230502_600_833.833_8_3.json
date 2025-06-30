@@ -1,0 +1,456 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 17.73,
+      "start": 17.61,
+      "word": "oui"
+    },
+    {
+      "conf": 0.797772,
+      "end": 17.85,
+      "start": 17.73,
+      "word": "mais"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.03,
+      "start": 17.85,
+      "word": "c'est"
+    },
+    {
+      "conf": 1.0,
+      "end": 51.685565,
+      "start": 51.45,
+      "word": "bien"
+    },
+    {
+      "conf": 0.764237,
+      "end": 52.17,
+      "start": 51.713214,
+      "word": "moi"
+    },
+    {
+      "conf": 0.809535,
+      "end": 52.56,
+      "start": 52.38,
+      "word": "mon"
+    },
+    {
+      "conf": 1.0,
+      "end": 53.04,
+      "start": 52.56,
+      "word": "prochain"
+    },
+    {
+      "conf": 1.0,
+      "end": 54.24,
+      "start": 53.67,
+      "word": "en"
+    },
+    {
+      "conf": 1.0,
+      "end": 54.57,
+      "start": 54.24,
+      "word": "coupe"
+    },
+    {
+      "conf": 1.0,
+      "end": 55.05,
+      "start": 54.93,
+      "word": "du"
+    },
+    {
+      "conf": 1.0,
+      "end": 63.36,
+      "start": 63.09,
+      "word": "monde"
+    },
+    {
+      "conf": 1.0,
+      "end": 63.48,
+      "start": 63.39,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 78.21,
+      "start": 77.91,
+      "word": "football"
+    },
+    {
+      "conf": 0.88434,
+      "end": 79.074543,
+      "start": 78.950457,
+      "word": "que"
+    },
+    {
+      "conf": 0.996274,
+      "end": 79.282991,
+      "start": 79.147002,
+      "word": "vous"
+    },
+    {
+      "conf": 0.858864,
+      "end": 79.53,
+      "start": 79.29,
+      "word": "avez"
+    },
+    {
+      "conf": 0.768067,
+      "end": 79.68,
+      "start": 79.53,
+      "word": "vu"
+    },
+    {
+      "conf": 0.972119,
+      "end": 79.8,
+      "start": 79.68,
+      "word": "que"
+    },
+    {
+      "conf": 0.974395,
+      "end": 79.955515,
+      "start": 79.800037,
+      "word": "vous"
+    },
+    {
+      "conf": 0.339725,
+      "end": 85.05,
+      "start": 84.87,
+      "word": "pas"
+    },
+    {
+      "conf": 0.989801,
+      "end": 87.45,
+      "start": 87.09,
+      "word": "votre"
+    },
+    {
+      "conf": 0.825731,
+      "end": 87.84,
+      "start": 87.45,
+      "word": "petite"
+    },
+    {
+      "conf": 0.825731,
+      "end": 88.17,
+      "start": 87.84,
+      "word": "voix"
+    },
+    {
+      "conf": 0.911421,
+      "end": 96.06,
+      "start": 95.94,
+      "word": "de"
+    },
+    {
+      "conf": 0.98163,
+      "end": 96.15,
+      "start": 96.06,
+      "word": "le"
+    },
+    {
+      "conf": 0.911421,
+      "end": 96.51,
+      "start": 96.15,
+      "word": "croiser"
+    },
+    {
+      "conf": 0.993861,
+      "end": 107.430088,
+      "start": 107.13,
+      "word": "je"
+    },
+    {
+      "conf": 0.987271,
+      "end": 107.67,
+      "start": 107.430088,
+      "word": "vous"
+    },
+    {
+      "conf": 0.976761,
+      "end": 108.12,
+      "start": 107.67,
+      "word": "assure"
+    },
+    {
+      "conf": 0.874368,
+      "end": 171.040049,
+      "start": 170.919888,
+      "word": "je"
+    },
+    {
+      "conf": 0.837345,
+      "end": 171.27,
+      "start": 171.09,
+      "word": "n'aime"
+    },
+    {
+      "conf": 0.878782,
+      "end": 171.42,
+      "start": 171.27,
+      "word": "pas"
+    },
+    {
+      "conf": 1.0,
+      "end": 172.2,
+      "start": 171.434546,
+      "word": "seulement"
+    },
+    {
+      "conf": 0.734072,
+      "end": 173.096016,
+      "start": 172.98,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 173.91,
+      "start": 173.096016,
+      "word": "loisir"
+    },
+    {
+      "conf": 1.0,
+      "end": 174.21,
+      "start": 174.0,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 174.99,
+      "start": 174.21,
+      "word": "songer"
+    },
+    {
+      "conf": 1.0,
+      "end": 175.38,
+      "start": 175.23,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 175.8,
+      "start": 175.38,
+      "word": "ma"
+    },
+    {
+      "conf": 1.0,
+      "end": 176.64,
+      "start": 175.89,
+      "word": "maladie"
+    },
+    {
+      "conf": 1.0,
+      "end": 177.48,
+      "start": 177.36,
+      "word": "en"
+    },
+    {
+      "conf": 1.0,
+      "end": 178.5,
+      "start": 177.48,
+      "word": "v\u00e9rit\u00e9"
+    },
+    {
+      "conf": 1.0,
+      "end": 178.8,
+      "start": 178.59,
+      "word": "je"
+    },
+    {
+      "conf": 1.0,
+      "end": 178.89,
+      "start": 178.8,
+      "word": "l'ai"
+    },
+    {
+      "conf": 1.0,
+      "end": 179.31,
+      "start": 178.89,
+      "word": "entendu"
+    },
+    {
+      "conf": 1.0,
+      "end": 198.93,
+      "start": 198.6,
+      "word": "dire"
+    },
+    {
+      "conf": 0.988319,
+      "end": 203.82,
+      "start": 203.58,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 205.68,
+      "start": 205.38,
+      "word": "comment"
+    },
+    {
+      "conf": 1.0,
+      "end": 205.8,
+      "start": 205.68,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 206.49,
+      "start": 205.8,
+      "word": "portez-vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 208.2,
+      "start": 207.81,
+      "word": "mon"
+    },
+    {
+      "conf": 1.0,
+      "end": 210.57,
+      "start": 209.97,
+      "word": "format"
+    },
+    {
+      "conf": 1.0,
+      "end": 212.01,
+      "start": 211.56,
+      "word": "comment"
+    },
+    {
+      "conf": 1.0,
+      "end": 212.88,
+      "start": 212.46,
+      "word": "fort"
+    },
+    {
+      "conf": 1.0,
+      "end": 213.21,
+      "start": 212.88,
+      "word": "bonne"
+    },
+    {
+      "conf": 1.0,
+      "end": 215.22,
+      "start": 215.01,
+      "word": "dose"
+    },
+    {
+      "conf": 1.0,
+      "end": 215.31,
+      "start": 215.22,
+      "word": "de"
+    },
+    {
+      "conf": 0.888376,
+      "end": 215.979375,
+      "start": 215.34,
+      "word": "faiblesse"
+    },
+    {
+      "conf": 0.620601,
+      "end": 216.15,
+      "start": 215.979375,
+      "word": "si"
+    },
+    {
+      "conf": 1.0,
+      "end": 216.81,
+      "start": 216.15,
+      "word": "grand"
+    },
+    {
+      "conf": 1.0,
+      "end": 217.02,
+      "start": 216.9,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 217.32,
+      "start": 217.02,
+      "word": "cela"
+    },
+    {
+      "conf": 0.953443,
+      "end": 217.47,
+      "start": 217.32,
+      "word": "mais"
+    },
+    {
+      "conf": 1.0,
+      "end": 217.8,
+      "start": 217.47,
+      "word": "pas"
+    },
+    {
+      "conf": 0.766593,
+      "end": 218.43,
+      "start": 217.86,
+      "word": "incroyable"
+    },
+    {
+      "conf": 1.0,
+      "end": 219.54,
+      "start": 219.12,
+      "word": "voil\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 219.75,
+      "start": 219.54,
+      "word": "qui"
+    },
+    {
+      "conf": 1.0,
+      "end": 219.84,
+      "start": 219.75,
+      "word": "est"
+    },
+    {
+      "conf": 1.0,
+      "end": 220.38,
+      "start": 219.84,
+      "word": "f\u00e2cheux"
+    },
+    {
+      "conf": 0.794551,
+      "end": 221.905781,
+      "start": 221.76,
+      "word": "je"
+    },
+    {
+      "conf": 0.738809,
+      "end": 222.0,
+      "start": 221.91,
+      "word": "n'ai"
+    },
+    {
+      "conf": 1.0,
+      "end": 222.18,
+      "start": 222.0,
+      "word": "pas"
+    },
+    {
+      "conf": 1.0,
+      "end": 222.72,
+      "start": 222.18,
+      "word": "seulement"
+    },
+    {
+      "conf": 0.944701,
+      "end": 223.41,
+      "start": 222.75,
+      "word": "l'inconfort"
+    },
+    {
+      "conf": 0.613024,
+      "end": 225.33,
+      "start": 224.91,
+      "word": "pouvoir"
+    }
+  ],
+  "text": "oui mais c'est bien moi mon prochain en coupe du monde de football que vous avez vu que vous pas votre petite voix de le croiser je vous assure je n'aime pas seulement le loisir de songer \u00e0 ma maladie en v\u00e9rit\u00e9 je l'ai entendu dire que comment vous portez-vous mon format comment fort bonne dose de faiblesse si grand que cela mais pas incroyable voil\u00e0 qui est f\u00e2cheux je n'ai pas seulement l'inconfort pouvoir",
+  "media": "E:\\LMI\\20230502_g\\LMI_20230502_g_08.MP4"
+}

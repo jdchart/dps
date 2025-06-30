@@ -1,0 +1,342 @@
+{
+  "text": "notez que les accords soient bons or voilà qui est bien je suis bien aise que nos forces reviennent peu et que nos visites nous fasse subir au sein d'un seul pont je vous emmène aussi divertissement que j'ai qui dissipera votre chagrin et vous rendre mon mieux disposer une chose que nous avons à dire",
+  "media": "E:\\LMI\\20230505_3\\LMI_20230505_3_09.MP4",
+  "result": [
+    {
+      "conf": 0.817613,
+      "end": 1.17,
+      "start": 0.75,
+      "word": "notez"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.28,
+      "start": 2.16,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.7,
+      "start": 2.61,
+      "word": "les"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.03,
+      "start": 2.7,
+      "word": "accords"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.9,
+      "start": 3.24,
+      "word": "soient"
+    },
+    {
+      "conf": 1.0,
+      "end": 4.704955,
+      "start": 4.41,
+      "word": "bons"
+    },
+    {
+      "conf": 0.956918,
+      "end": 5.58,
+      "start": 5.01,
+      "word": "or"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.21,
+      "start": 5.88,
+      "word": "voilà"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.42,
+      "start": 6.21,
+      "word": "qui"
+    },
+    {
+      "conf": 1.0,
+      "end": 6.48,
+      "start": 6.42,
+      "word": "est"
+    },
+    {
+      "conf": 0.935749,
+      "end": 6.78,
+      "start": 6.48,
+      "word": "bien"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.62,
+      "start": 7.5,
+      "word": "je"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.8,
+      "start": 7.62,
+      "word": "suis"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.04,
+      "start": 7.8,
+      "word": "bien"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.22,
+      "start": 8.04,
+      "word": "aise"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.315596,
+      "start": 8.22,
+      "word": "que"
+    },
+    {
+      "conf": 0.65761,
+      "end": 8.43,
+      "start": 8.315596,
+      "word": "nos"
+    },
+    {
+      "conf": 0.752011,
+      "end": 8.88,
+      "start": 8.43,
+      "word": "forces"
+    },
+    {
+      "conf": 0.827782,
+      "end": 9.9,
+      "start": 9.24,
+      "word": "reviennent"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.204488,
+      "start": 9.9,
+      "word": "peu"
+    },
+    {
+      "conf": 0.514936,
+      "end": 10.26,
+      "start": 10.204488,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.62,
+      "start": 10.26,
+      "word": "que"
+    },
+    {
+      "conf": 0.491771,
+      "end": 11.090935,
+      "start": 10.98,
+      "word": "nos"
+    },
+    {
+      "conf": 0.804463,
+      "end": 11.489999,
+      "start": 11.090935,
+      "word": "visites"
+    },
+    {
+      "conf": 0.537768,
+      "end": 11.579999,
+      "start": 11.489999,
+      "word": "nous"
+    },
+    {
+      "conf": 0.648179,
+      "end": 11.874889,
+      "start": 11.58,
+      "word": "fasse"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.27,
+      "start": 11.874889,
+      "word": "subir"
+    },
+    {
+      "conf": 0.791873,
+      "end": 22.14,
+      "start": 21.93,
+      "word": "au"
+    },
+    {
+      "conf": 0.764402,
+      "end": 24.18,
+      "start": 23.64,
+      "word": "sein"
+    },
+    {
+      "conf": 0.776887,
+      "end": 26.88,
+      "start": 26.79,
+      "word": "d'un"
+    },
+    {
+      "conf": 0.78705,
+      "end": 27.240002,
+      "start": 26.880002,
+      "word": "seul"
+    },
+    {
+      "conf": 0.386439,
+      "end": 27.75,
+      "start": 27.51,
+      "word": "pont"
+    },
+    {
+      "conf": 1.0,
+      "end": 30.9,
+      "start": 30.72,
+      "word": "je"
+    },
+    {
+      "conf": 1.0,
+      "end": 31.02,
+      "start": 30.9,
+      "word": "vous"
+    },
+    {
+      "conf": 0.849473,
+      "end": 31.29,
+      "start": 31.02,
+      "word": "emmène"
+    },
+    {
+      "conf": 0.9522,
+      "end": 31.8,
+      "start": 31.29,
+      "word": "aussi"
+    },
+    {
+      "conf": 0.893216,
+      "end": 34.44,
+      "start": 33.54,
+      "word": "divertissement"
+    },
+    {
+      "conf": 0.993486,
+      "end": 34.65,
+      "start": 34.47,
+      "word": "que"
+    },
+    {
+      "conf": 0.832509,
+      "end": 34.906073,
+      "start": 34.65,
+      "word": "j'ai"
+    },
+    {
+      "conf": 1.0,
+      "end": 36.87,
+      "start": 36.75,
+      "word": "qui"
+    },
+    {
+      "conf": 1.0,
+      "end": 37.62,
+      "start": 36.87,
+      "word": "dissipera"
+    },
+    {
+      "conf": 0.997562,
+      "end": 38.43,
+      "start": 38.19,
+      "word": "votre"
+    },
+    {
+      "conf": 1.0,
+      "end": 38.97,
+      "start": 38.43,
+      "word": "chagrin"
+    },
+    {
+      "conf": 0.713673,
+      "end": 39.806514,
+      "start": 39.75,
+      "word": "et"
+    },
+    {
+      "conf": 0.910128,
+      "end": 39.96,
+      "start": 39.806514,
+      "word": "vous"
+    },
+    {
+      "conf": 0.354844,
+      "end": 40.17,
+      "start": 39.96,
+      "word": "rendre"
+    },
+    {
+      "conf": 0.817301,
+      "end": 40.59,
+      "start": 40.44,
+      "word": "mon"
+    },
+    {
+      "conf": 0.941887,
+      "end": 40.74,
+      "start": 40.59,
+      "word": "mieux"
+    },
+    {
+      "conf": 0.697353,
+      "end": 41.22,
+      "start": 40.74,
+      "word": "disposer"
+    },
+    {
+      "conf": 0.716223,
+      "end": 41.31,
+      "start": 41.22,
+      "word": "une"
+    },
+    {
+      "conf": 0.716223,
+      "end": 41.76,
+      "start": 41.31,
+      "word": "chose"
+    },
+    {
+      "conf": 1.0,
+      "end": 41.88,
+      "start": 41.76,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 42.03,
+      "start": 41.88,
+      "word": "nous"
+    },
+    {
+      "conf": 1.0,
+      "end": 42.3,
+      "start": 42.03,
+      "word": "avons"
+    },
+    {
+      "conf": 1.0,
+      "end": 42.39,
+      "start": 42.3,
+      "word": "à"
+    },
+    {
+      "conf": 1.0,
+      "end": 42.6,
+      "start": 42.39,
+      "word": "dire"
+    }
+  ]
+}

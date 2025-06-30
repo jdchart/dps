@@ -1,0 +1,198 @@
+{
+  "text": "il n'y avait plus d'eau que faire mais pas seulement le loisir de songer à ma maladie en réalité je n'ai entendu que des mots forts comme forme dans une faiblesse courant",
+  "media": "E:\\LMI\\20230512_7\\LMI_20230512_7_09.MP4",
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 6.349441,
+      "start": 6.18,
+      "word": "il"
+    },
+    {
+      "conf": 0.648042,
+      "end": 6.48,
+      "start": 6.36,
+      "word": "n'y"
+    },
+    {
+      "conf": 0.788758,
+      "end": 6.649331,
+      "start": 6.48,
+      "word": "avait"
+    },
+    {
+      "conf": 0.972606,
+      "end": 6.84,
+      "start": 6.649331,
+      "word": "plus"
+    },
+    {
+      "conf": 0.916984,
+      "end": 7.02,
+      "start": 6.84,
+      "word": "d'eau"
+    },
+    {
+      "conf": 0.828459,
+      "end": 18.301265,
+      "start": 18.15,
+      "word": "que"
+    },
+    {
+      "conf": 0.808454,
+      "end": 19.2,
+      "start": 18.6,
+      "word": "faire"
+    },
+    {
+      "conf": 0.90974,
+      "end": 20.58,
+      "start": 20.37,
+      "word": "mais"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.79,
+      "start": 20.58,
+      "word": "pas"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.42,
+      "start": 20.79,
+      "word": "seulement"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.6,
+      "start": 21.51,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.35,
+      "start": 21.6,
+      "word": "loisir"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.56,
+      "start": 22.41,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.37,
+      "start": 22.56,
+      "word": "songer"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.54,
+      "start": 24.36,
+      "word": "à"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.96,
+      "start": 24.54,
+      "word": "ma"
+    },
+    {
+      "conf": 1.0,
+      "end": 25.77,
+      "start": 25.02,
+      "word": "maladie"
+    },
+    {
+      "conf": 1.0,
+      "end": 27.93,
+      "start": 27.84,
+      "word": "en"
+    },
+    {
+      "conf": 0.788236,
+      "end": 28.77,
+      "start": 27.93,
+      "word": "réalité"
+    },
+    {
+      "conf": 1.0,
+      "end": 29.04,
+      "start": 28.89,
+      "word": "je"
+    },
+    {
+      "conf": 1.0,
+      "end": 29.13,
+      "start": 29.04,
+      "word": "n'ai"
+    },
+    {
+      "conf": 1.0,
+      "end": 29.64,
+      "start": 29.13,
+      "word": "entendu"
+    },
+    {
+      "conf": 1.0,
+      "end": 30.18,
+      "start": 29.64,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 57.66,
+      "start": 57.48,
+      "word": "des"
+    },
+    {
+      "conf": 1.0,
+      "end": 59.94,
+      "start": 59.58,
+      "word": "mots"
+    },
+    {
+      "conf": 1.0,
+      "end": 62.22,
+      "start": 61.92,
+      "word": "forts"
+    },
+    {
+      "conf": 1.0,
+      "end": 64.05,
+      "start": 63.6,
+      "word": "comme"
+    },
+    {
+      "conf": 1.0,
+      "end": 64.83,
+      "start": 64.32,
+      "word": "forme"
+    },
+    {
+      "conf": 1.0,
+      "end": 67.17,
+      "start": 67.02,
+      "word": "dans"
+    },
+    {
+      "conf": 1.0,
+      "end": 67.41,
+      "start": 67.17,
+      "word": "une"
+    },
+    {
+      "conf": 1.0,
+      "end": 68.19,
+      "start": 67.44,
+      "word": "faiblesse"
+    },
+    {
+      "conf": 0.594296,
+      "end": 69.12,
+      "start": 68.58,
+      "word": "courant"
+    }
+  ]
+}

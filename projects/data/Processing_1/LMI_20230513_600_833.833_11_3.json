@@ -1,0 +1,498 @@
+{
+  "result": [
+    {
+      "conf": 0.920255,
+      "end": 0.21,
+      "start": 0.0,
+      "word": "plus"
+    },
+    {
+      "conf": 0.920255,
+      "end": 0.36,
+      "start": 0.21,
+      "word": "de"
+    },
+    {
+      "conf": 0.610621,
+      "end": 3.27,
+      "start": 2.94,
+      "word": "cent"
+    },
+    {
+      "conf": 0.940781,
+      "end": 10.8,
+      "start": 10.35,
+      "word": "fois"
+    },
+    {
+      "conf": 0.431003,
+      "end": 11.628184,
+      "start": 11.49,
+      "word": "o\u00f9"
+    },
+    {
+      "conf": 0.723257,
+      "end": 11.823908,
+      "start": 11.628184,
+      "word": "on"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.39,
+      "start": 15.09,
+      "word": "prend"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.838099,
+      "start": 15.39,
+      "word": "parfois"
+    },
+    {
+      "conf": 0.662163,
+      "end": 15.99,
+      "start": 15.84,
+      "word": "des"
+    },
+    {
+      "conf": 0.662163,
+      "end": 17.28,
+      "start": 16.41,
+      "word": "instituts"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.49,
+      "start": 17.28,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.15,
+      "start": 17.91,
+      "word": "tous"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.27,
+      "start": 18.15,
+      "word": "les"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.08,
+      "start": 18.45,
+      "word": "membres"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.840134,
+      "start": 21.3,
+      "word": "quelquefois"
+    },
+    {
+      "conf": 0.775663,
+      "end": 21.9,
+      "start": 21.840134,
+      "word": "et"
+    },
+    {
+      "conf": 0.60769,
+      "end": 22.02,
+      "start": 21.9,
+      "word": "de"
+    },
+    {
+      "conf": 0.593194,
+      "end": 22.224836,
+      "start": 22.02,
+      "word": "prendre"
+    },
+    {
+      "conf": 0.949995,
+      "end": 22.322699,
+      "start": 22.224836,
+      "word": "des"
+    },
+    {
+      "conf": 0.964491,
+      "end": 23.16,
+      "start": 22.59,
+      "word": "douleurs"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.19,
+      "start": 23.16,
+      "word": "au"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.15,
+      "start": 23.7,
+      "word": "ventre"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.54,
+      "start": 24.27,
+      "word": "comme"
+    },
+    {
+      "conf": 0.951236,
+      "end": 26.920364,
+      "start": 26.676899,
+      "word": "des"
+    },
+    {
+      "conf": 0.625544,
+      "end": 27.78,
+      "start": 27.45,
+      "word": "coll\u00e8gues"
+    },
+    {
+      "conf": 0.997368,
+      "end": 38.94,
+      "start": 38.58,
+      "word": "ont"
+    },
+    {
+      "conf": 0.997368,
+      "end": 90.21,
+      "start": 89.82,
+      "word": "compris"
+    },
+    {
+      "conf": 0.997368,
+      "end": 92.94,
+      "start": 92.76,
+      "word": "qu'il"
+    },
+    {
+      "conf": 0.997368,
+      "end": 111.84,
+      "start": 111.45,
+      "word": "fallait"
+    },
+    {
+      "conf": 0.528053,
+      "end": 131.52,
+      "start": 131.37,
+      "word": "en"
+    },
+    {
+      "conf": 0.58927,
+      "end": 144.6,
+      "start": 144.39,
+      "word": "fait"
+    },
+    {
+      "conf": 0.995265,
+      "end": 149.64,
+      "start": 149.46,
+      "word": "qu'une"
+    },
+    {
+      "conf": 1.0,
+      "end": 149.97,
+      "start": 149.640073,
+      "word": "partie"
+    },
+    {
+      "conf": 1.0,
+      "end": 175.35,
+      "start": 175.29,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 175.44,
+      "start": 175.35,
+      "word": "la"
+    },
+    {
+      "conf": 1.0,
+      "end": 175.89,
+      "start": 175.44,
+      "word": "capitale"
+    },
+    {
+      "conf": 1.0,
+      "end": 187.59,
+      "start": 187.5,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 187.77,
+      "start": 187.59,
+      "word": "avez"
+    },
+    {
+      "conf": 0.50753,
+      "end": 188.099927,
+      "start": 187.77,
+      "word": "appr\u00e9ci\u00e9"
+    },
+    {
+      "conf": 0.977103,
+      "end": 188.22,
+      "start": 188.1,
+      "word": "ce"
+    },
+    {
+      "conf": 0.864774,
+      "end": 188.34,
+      "start": 188.22,
+      "word": "que"
+    },
+    {
+      "conf": 0.864774,
+      "end": 188.43,
+      "start": 188.34,
+      "word": "vous"
+    },
+    {
+      "conf": 0.864774,
+      "end": 188.76,
+      "start": 188.43,
+      "word": "mangez"
+    },
+    {
+      "conf": 0.950885,
+      "end": 194.28,
+      "start": 194.19,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 194.579985,
+      "start": 194.28,
+      "word": "pourquoi"
+    },
+    {
+      "conf": 0.725529,
+      "end": 194.609985,
+      "start": 194.579985,
+      "word": "un"
+    },
+    {
+      "conf": 0.882882,
+      "end": 194.88,
+      "start": 194.618701,
+      "word": "petit"
+    },
+    {
+      "conf": 0.919246,
+      "end": 195.27,
+      "start": 194.88,
+      "word": "sommeil"
+    },
+    {
+      "conf": 0.919246,
+      "end": 196.56,
+      "start": 196.11,
+      "word": "perturb\u00e9"
+    },
+    {
+      "conf": 1.0,
+      "end": 197.76,
+      "start": 196.86,
+      "word": "d\u00e9sormais"
+    },
+    {
+      "conf": 0.61176,
+      "end": 199.379985,
+      "start": 199.259985,
+      "word": "pour"
+    },
+    {
+      "conf": 0.733838,
+      "end": 199.741216,
+      "start": 199.38,
+      "word": "apporter"
+    },
+    {
+      "conf": 0.614053,
+      "end": 199.86,
+      "start": 199.741216,
+      "word": "leur"
+    },
+    {
+      "conf": 0.418629,
+      "end": 200.661021,
+      "start": 200.43,
+      "word": "permettre"
+    },
+    {
+      "conf": 0.684791,
+      "end": 200.73,
+      "start": 200.661021,
+      "word": "de"
+    },
+    {
+      "conf": 0.880215,
+      "end": 200.97,
+      "start": 200.73,
+      "word": "trouver"
+    },
+    {
+      "conf": 0.99809,
+      "end": 201.09,
+      "start": 200.97,
+      "word": "sa"
+    },
+    {
+      "conf": 0.99809,
+      "end": 201.45,
+      "start": 201.09,
+      "word": "propre"
+    },
+    {
+      "conf": 0.99809,
+      "end": 201.84,
+      "start": 201.45,
+      "word": "nourriture"
+    },
+    {
+      "conf": 0.633072,
+      "end": 205.35,
+      "start": 205.17,
+      "word": "qui"
+    },
+    {
+      "conf": 0.633072,
+      "end": 205.44,
+      "start": 205.35,
+      "word": "en"
+    },
+    {
+      "conf": 0.633072,
+      "end": 208.02,
+      "start": 207.45,
+      "word": "d\u00e9coulait"
+    },
+    {
+      "conf": 0.633072,
+      "end": 211.68,
+      "start": 211.29,
+      "word": "comprenant"
+    },
+    {
+      "conf": 1.0,
+      "end": 213.93,
+      "start": 212.79,
+      "word": "l'assurance"
+    },
+    {
+      "conf": 1.0,
+      "end": 220.14,
+      "start": 220.05,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 220.53,
+      "start": 220.14,
+      "word": "voir"
+    },
+    {
+      "conf": 0.845047,
+      "end": 220.95,
+      "start": 220.62,
+      "word": "votre"
+    },
+    {
+      "conf": 0.845047,
+      "end": 222.24,
+      "start": 221.7,
+      "word": "cr\u00e9ativit\u00e9"
+    },
+    {
+      "conf": 1.0,
+      "end": 222.48,
+      "start": 222.24,
+      "word": "votre"
+    },
+    {
+      "conf": 1.0,
+      "end": 222.93,
+      "start": 222.48,
+      "word": "sentiment"
+    },
+    {
+      "conf": 1.0,
+      "end": 223.8,
+      "start": 223.02,
+      "word": "d'\u00e9tranget\u00e9"
+    },
+    {
+      "conf": 1.0,
+      "end": 224.28,
+      "start": 224.07,
+      "word": "faut"
+    },
+    {
+      "conf": 1.0,
+      "end": 224.7,
+      "start": 224.28,
+      "word": "montrer"
+    },
+    {
+      "conf": 1.0,
+      "end": 225.21,
+      "start": 224.91,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 225.75,
+      "start": 225.45,
+      "word": "dans"
+    },
+    {
+      "conf": 1.0,
+      "end": 226.26,
+      "start": 226.02,
+      "word": "mon"
+    },
+    {
+      "conf": 1.0,
+      "end": 226.68,
+      "start": 226.26,
+      "word": "cas"
+    },
+    {
+      "conf": 0.406868,
+      "end": 228.54,
+      "start": 228.24,
+      "word": "depuis"
+    },
+    {
+      "conf": 0.5535,
+      "end": 229.435137,
+      "start": 228.97626,
+      "word": "pas"
+    },
+    {
+      "conf": 0.496482,
+      "end": 231.794121,
+      "start": 231.629795,
+      "word": "notre"
+    },
+    {
+      "conf": 0.439573,
+      "end": 232.32,
+      "start": 231.794121,
+      "word": "capacit\u00e9"
+    },
+    {
+      "conf": 0.473749,
+      "end": 232.92,
+      "start": 232.344419,
+      "word": "volont\u00e9"
+    }
+  ],
+  "text": "plus de cent fois o\u00f9 on prend parfois des instituts de tous les membres quelquefois et de prendre des douleurs au ventre comme des coll\u00e8gues ont compris qu'il fallait en fait qu'une partie de la capitale vous avez appr\u00e9ci\u00e9 ce que vous mangez et pourquoi un petit sommeil perturb\u00e9 d\u00e9sormais pour apporter leur permettre de trouver sa propre nourriture qui en d\u00e9coulait comprenant l'assurance de voir votre cr\u00e9ativit\u00e9 votre sentiment d'\u00e9tranget\u00e9 faut montrer que dans mon cas depuis pas notre capacit\u00e9 volont\u00e9",
+  "media": "E:\\LMI\\20230513_8\\LMI_20230513_8_11.MP4"
+}

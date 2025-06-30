@@ -1,0 +1,552 @@
+{
+  "result": [
+    {
+      "conf": 1.0,
+      "end": 12.75,
+      "start": 12.36,
+      "word": "chose"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.59,
+      "start": 12.75,
+      "word": "surprenante"
+    },
+    {
+      "conf": 0.93817,
+      "end": 13.92,
+      "start": 13.74,
+      "word": "c'est"
+    },
+    {
+      "conf": 0.598063,
+      "end": 14.22,
+      "start": 13.92,
+      "word": "\u00e7a"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.11,
+      "start": 18.9,
+      "word": "tout"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.2,
+      "start": 19.11,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.47,
+      "start": 19.2,
+      "word": "monde"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.68,
+      "start": 19.47,
+      "word": "c'est"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.91,
+      "start": 20.37,
+      "word": "pourquoi"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.24,
+      "start": 21.12,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.78,
+      "start": 21.24,
+      "word": "trouverez"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.9,
+      "start": 21.78,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 22.44,
+      "start": 21.9,
+      "word": "celle-l\u00e0"
+    },
+    {
+      "conf": 0.942033,
+      "end": 22.708581,
+      "start": 22.62,
+      "word": "et"
+    },
+    {
+      "conf": 0.835544,
+      "end": 23.01,
+      "start": 22.708581,
+      "word": "j'aurais"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.67,
+      "start": 23.01,
+      "word": "jur\u00e9"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.79,
+      "start": 23.67,
+      "word": "que"
+    },
+    {
+      "conf": 0.586937,
+      "end": 23.94,
+      "start": 23.79,
+      "word": "c'est"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.03,
+      "start": 23.94,
+      "word": "la"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.3,
+      "start": 24.03,
+      "word": "m\u00eame"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.87,
+      "start": 24.3,
+      "word": "personne"
+    },
+    {
+      "conf": 0.953789,
+      "end": 71.49,
+      "start": 70.98,
+      "word": "monsieur"
+    },
+    {
+      "conf": 0.71539,
+      "end": 97.049993,
+      "start": 96.599993,
+      "word": "aussi"
+    },
+    {
+      "conf": 0.470123,
+      "end": 118.8,
+      "start": 118.23,
+      "word": "moyen"
+    },
+    {
+      "conf": 0.643978,
+      "end": 163.17,
+      "start": 162.6,
+      "word": "d'arr\u00eater"
+    },
+    {
+      "conf": 0.849672,
+      "end": 172.02,
+      "start": 171.87,
+      "word": "de"
+    },
+    {
+      "conf": 0.849672,
+      "end": 172.216509,
+      "start": 172.02,
+      "word": "me"
+    },
+    {
+      "conf": 0.475835,
+      "end": 173.544126,
+      "start": 173.4,
+      "word": "qu'il"
+    },
+    {
+      "conf": 0.526803,
+      "end": 173.573291,
+      "start": 173.544126,
+      "word": "y"
+    },
+    {
+      "conf": 0.524874,
+      "end": 173.819985,
+      "start": 173.57748,
+      "word": "avait"
+    },
+    {
+      "conf": 1.0,
+      "end": 175.77,
+      "start": 175.62,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 176.04,
+      "start": 175.77,
+      "word": "bonnes"
+    },
+    {
+      "conf": 1.0,
+      "end": 176.43,
+      "start": 176.04,
+      "word": "id\u00e9es"
+    },
+    {
+      "conf": 1.0,
+      "end": 177.27,
+      "start": 176.73,
+      "word": "aupr\u00e8s"
+    },
+    {
+      "conf": 1.0,
+      "end": 177.69,
+      "start": 177.51,
+      "word": "de"
+    },
+    {
+      "conf": 0.616559,
+      "end": 177.958623,
+      "start": 177.69,
+      "word": "votre"
+    },
+    {
+      "conf": 0.821289,
+      "end": 178.2,
+      "start": 177.958623,
+      "word": "vie"
+    },
+    {
+      "conf": 0.821289,
+      "end": 178.47,
+      "start": 178.2,
+      "word": "trop"
+    },
+    {
+      "conf": 0.821289,
+      "end": 178.890454,
+      "start": 178.47,
+      "word": "paisible"
+    },
+    {
+      "conf": 0.536851,
+      "end": 179.31,
+      "start": 179.173462,
+      "word": "une"
+    },
+    {
+      "conf": 0.544669,
+      "end": 179.550015,
+      "start": 179.310439,
+      "word": "bonne"
+    },
+    {
+      "conf": 0.743597,
+      "end": 180.15,
+      "start": 179.558027,
+      "word": "veste"
+    },
+    {
+      "conf": 1.0,
+      "end": 181.77,
+      "start": 180.84,
+      "word": "pleur\u00e9sie"
+    },
+    {
+      "conf": 0.686288,
+      "end": 182.34,
+      "start": 181.98,
+      "word": "avec"
+    },
+    {
+      "conf": 1.0,
+      "end": 182.58,
+      "start": 182.4,
+      "word": "des"
+    },
+    {
+      "conf": 1.0,
+      "end": 183.57,
+      "start": 182.58,
+      "word": "inflammations"
+    },
+    {
+      "conf": 1.0,
+      "end": 183.69,
+      "start": 183.57,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 184.32,
+      "start": 183.69,
+      "word": "poitrine"
+    },
+    {
+      "conf": 1.0,
+      "end": 184.74,
+      "start": 184.56,
+      "word": "c'est"
+    },
+    {
+      "conf": 1.0,
+      "end": 185.04,
+      "start": 184.74,
+      "word": "l\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 185.19,
+      "start": 185.04,
+      "word": "que"
+    },
+    {
+      "conf": 0.92062,
+      "end": 185.34,
+      "start": 185.19,
+      "word": "je"
+    },
+    {
+      "conf": 1.0,
+      "end": 185.46,
+      "start": 185.34,
+      "word": "me"
+    },
+    {
+      "conf": 0.69868,
+      "end": 185.88,
+      "start": 185.46,
+      "word": "plais"
+    },
+    {
+      "conf": 1.0,
+      "end": 186.3,
+      "start": 186.09,
+      "word": "c'est"
+    },
+    {
+      "conf": 0.98844,
+      "end": 186.45041,
+      "start": 186.3,
+      "word": "la"
+    },
+    {
+      "conf": 0.817432,
+      "end": 186.78,
+      "start": 186.54,
+      "word": "plus"
+    },
+    {
+      "conf": 0.520766,
+      "end": 187.290015,
+      "start": 186.780674,
+      "word": "trio"
+    },
+    {
+      "conf": 0.966598,
+      "end": 188.129546,
+      "start": 188.04,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 188.31,
+      "start": 188.129546,
+      "word": "je"
+    },
+    {
+      "conf": 1.0,
+      "end": 188.7,
+      "start": 188.31,
+      "word": "voudrais"
+    },
+    {
+      "conf": 1.0,
+      "end": 189.72,
+      "start": 189.6,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 189.87,
+      "start": 189.72,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 190.26,
+      "start": 189.87,
+      "word": "eussiez"
+    },
+    {
+      "conf": 1.0,
+      "end": 190.62,
+      "start": 190.26,
+      "word": "toutes"
+    },
+    {
+      "conf": 1.0,
+      "end": 190.8,
+      "start": 190.62,
+      "word": "les"
+    },
+    {
+      "conf": 1.0,
+      "end": 191.22,
+      "start": 190.8,
+      "word": "maladies"
+    },
+    {
+      "conf": 1.0,
+      "end": 193.2,
+      "start": 193.08,
+      "word": "du"
+    },
+    {
+      "conf": 1.0,
+      "end": 193.638369,
+      "start": 193.2,
+      "word": "cerveau"
+    },
+    {
+      "conf": 0.893554,
+      "end": 194.55,
+      "start": 194.4,
+      "word": "tous"
+    },
+    {
+      "conf": 1.0,
+      "end": 194.7,
+      "start": 194.609561,
+      "word": "les"
+    },
+    {
+      "conf": 1.0,
+      "end": 195.21,
+      "start": 194.7,
+      "word": "m\u00e9decins"
+    },
+    {
+      "conf": 0.947315,
+      "end": 196.5,
+      "start": 195.6,
+      "word": "d\u00e9sesp\u00e9raient"
+    },
+    {
+      "conf": 0.742715,
+      "end": 196.92,
+      "start": 196.8,
+      "word": "un"
+    },
+    {
+      "conf": 0.742715,
+      "end": 197.34,
+      "start": 196.92,
+      "word": "inconnu"
+    },
+    {
+      "conf": 1.0,
+      "end": 197.49,
+      "start": 197.37,
+      "word": "pour"
+    },
+    {
+      "conf": 1.0,
+      "end": 197.64,
+      "start": 197.49,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 198.15,
+      "start": 197.64,
+      "word": "montrer"
+    },
+    {
+      "conf": 1.0,
+      "end": 199.29,
+      "start": 198.45,
+      "word": "l'excellence"
+    },
+    {
+      "conf": 1.0,
+      "end": 199.41,
+      "start": 199.29,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 199.53,
+      "start": 199.41,
+      "word": "mes"
+    },
+    {
+      "conf": 1.0,
+      "end": 199.98,
+      "start": 199.53,
+      "word": "rem\u00e8des"
+    },
+    {
+      "conf": 1.0,
+      "end": 200.28,
+      "start": 200.22,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 200.67,
+      "start": 200.28,
+      "word": "l'envie"
+    },
+    {
+      "conf": 1.0,
+      "end": 201.81,
+      "start": 201.66,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 201.96,
+      "start": 201.81,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 202.32,
+      "start": 201.96,
+      "word": "rendre"
+    },
+    {
+      "conf": 1.0,
+      "end": 203.07,
+      "start": 202.32,
+      "word": "service"
+    },
+    {
+      "conf": 0.998082,
+      "end": 207.87,
+      "start": 207.24,
+      "word": "donnez-moi"
+    },
+    {
+      "conf": 0.637806,
+      "end": 268.41,
+      "start": 268.26,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 0.637806,
+      "end": 270.45,
+      "start": 270.15,
+      "word": "boire"
+    }
+  ],
+  "text": "chose surprenante c'est \u00e7a tout le monde c'est pourquoi vous trouverez \u00e0 celle-l\u00e0 et j'aurais jur\u00e9 que c'est la m\u00eame personne monsieur aussi moyen d'arr\u00eater de me qu'il y avait de bonnes id\u00e9es aupr\u00e8s de votre vie trop paisible une bonne veste pleur\u00e9sie avec des inflammations de poitrine c'est l\u00e0 que je me plais c'est la plus trio et je voudrais que vous eussiez toutes les maladies du cerveau tous les m\u00e9decins d\u00e9sesp\u00e9raient un inconnu pour vous montrer l'excellence de mes rem\u00e8des et l'envie de vous rendre service donnez-moi \u00e0 boire",
+  "media": "E:\\LMI\\archives\\MALADE_2.mp4"
+}

@@ -1,0 +1,54 @@
+{
+  "result": [
+    {
+      "conf": 0.615157,
+      "end": 206.369985,
+      "start": 205.83627,
+      "word": "j'\u00e9tais"
+    },
+    {
+      "conf": 0.52941,
+      "end": 294.51,
+      "start": 294.0,
+      "word": "l\u00e0"
+    },
+    {
+      "conf": 0.839123,
+      "end": 295.29,
+      "start": 295.128398,
+      "word": "quand"
+    },
+    {
+      "conf": 0.839123,
+      "end": 295.38,
+      "start": 295.29,
+      "word": "on"
+    },
+    {
+      "conf": 0.839123,
+      "end": 295.601191,
+      "start": 295.38,
+      "word": "fait"
+    },
+    {
+      "conf": 0.839123,
+      "end": 295.89,
+      "start": 295.62,
+      "word": "\u00e7a"
+    },
+    {
+      "conf": 0.784355,
+      "end": 297.455098,
+      "start": 297.335098,
+      "word": "pour"
+    },
+    {
+      "conf": 0.767469,
+      "end": 297.75,
+      "start": 297.6,
+      "word": "moi"
+    }
+  ],
+  "text": "j'\u00e9tais l\u00e0 quand on fait \u00e7a pour moi",
+  "media": "E:\\LMI\\archives\\MALADE_2.mp4"
+}

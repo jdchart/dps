@@ -1,0 +1,774 @@
+{
+  "result": [
+    {
+      "conf": 0.713927,
+      "end": 4.35,
+      "start": 4.11,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 14.97,
+      "start": 14.67,
+      "word": "je"
+    },
+    {
+      "conf": 0.724971,
+      "end": 15.33,
+      "start": 14.97,
+      "word": "peux"
+    },
+    {
+      "conf": 0.724971,
+      "end": 16.14,
+      "start": 15.45,
+      "word": "comprendre"
+    },
+    {
+      "conf": 0.724971,
+      "end": 16.19313,
+      "start": 16.14,
+      "word": "qu'on"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.255031,
+      "start": 16.19313,
+      "word": "ne"
+    },
+    {
+      "conf": 0.74341,
+      "end": 16.38,
+      "start": 16.26,
+      "word": "doit"
+    },
+    {
+      "conf": 0.944792,
+      "end": 16.65,
+      "start": 16.38,
+      "word": "pas"
+    },
+    {
+      "conf": 0.944792,
+      "end": 16.95,
+      "start": 16.71,
+      "word": "\u00eatre"
+    },
+    {
+      "conf": 0.548665,
+      "end": 17.24534,
+      "start": 17.01,
+      "word": "donn\u00e9"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.34,
+      "start": 17.24534,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.58,
+      "start": 17.34,
+      "word": "mettre"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.3,
+      "start": 17.91,
+      "word": "quatre"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.63,
+      "start": 21.06,
+      "word": "\u00e9toiles"
+    },
+    {
+      "conf": 1.0,
+      "end": 23.52,
+      "start": 23.19,
+      "word": "pas"
+    },
+    {
+      "conf": 0.995236,
+      "end": 26.55,
+      "start": 26.07,
+      "word": "plus"
+    },
+    {
+      "conf": 0.940033,
+      "end": 28.11,
+      "start": 27.81,
+      "word": "vu"
+    },
+    {
+      "conf": 0.704028,
+      "end": 28.283472,
+      "start": 28.2,
+      "word": "les"
+    },
+    {
+      "conf": 0.540691,
+      "end": 28.8,
+      "start": 28.283472,
+      "word": "changements"
+    },
+    {
+      "conf": 0.508957,
+      "end": 29.096715,
+      "start": 29.039998,
+      "word": "de"
+    },
+    {
+      "conf": 0.766701,
+      "end": 29.61,
+      "start": 29.096715,
+      "word": "conditions"
+    },
+    {
+      "conf": 0.508949,
+      "end": 29.939998,
+      "start": 29.729998,
+      "word": "un"
+    },
+    {
+      "conf": 0.508949,
+      "end": 32.61,
+      "start": 32.13,
+      "word": "changement"
+    },
+    {
+      "conf": 0.890286,
+      "end": 33.75,
+      "start": 33.57,
+      "word": "pour"
+    },
+    {
+      "conf": 0.921856,
+      "end": 34.08,
+      "start": 33.75,
+      "word": "faire"
+    },
+    {
+      "conf": 0.76905,
+      "end": 36.18,
+      "start": 35.64,
+      "word": "je"
+    },
+    {
+      "conf": 0.676297,
+      "end": 37.95,
+      "start": 37.35,
+      "word": "pense"
+    },
+    {
+      "conf": 0.662822,
+      "end": 46.334788,
+      "start": 45.886761,
+      "word": "c'est"
+    },
+    {
+      "conf": 0.758082,
+      "end": 47.76,
+      "start": 47.37,
+      "word": "en"
+    },
+    {
+      "conf": 0.46669,
+      "end": 50.07,
+      "start": 49.32,
+      "word": "grandissant"
+    },
+    {
+      "conf": 0.931144,
+      "end": 52.35,
+      "start": 52.29,
+      "word": "que"
+    },
+    {
+      "conf": 0.931144,
+      "end": 52.59,
+      "start": 52.35,
+      "word": "ce"
+    },
+    {
+      "conf": 0.931144,
+      "end": 54.0,
+      "start": 52.59,
+      "word": "soit"
+    },
+    {
+      "conf": 1.0,
+      "end": 57.937625,
+      "start": 57.54,
+      "word": "sur"
+    },
+    {
+      "conf": 1.0,
+      "end": 59.25,
+      "start": 58.59,
+      "word": "tes"
+    },
+    {
+      "conf": 1.0,
+      "end": 59.91,
+      "start": 59.76,
+      "word": "deux"
+    },
+    {
+      "conf": 1.0,
+      "end": 61.47,
+      "start": 60.36,
+      "word": "choix"
+    },
+    {
+      "conf": 1.0,
+      "end": 66.06,
+      "start": 65.7,
+      "word": "possibles"
+    },
+    {
+      "conf": 1.0,
+      "end": 67.47,
+      "start": 66.06,
+      "word": "soit"
+    },
+    {
+      "conf": 0.937708,
+      "end": 70.32,
+      "start": 69.6,
+      "word": "aussi"
+    },
+    {
+      "conf": 0.37033,
+      "end": 71.73,
+      "start": 71.34,
+      "word": "mal"
+    },
+    {
+      "conf": 0.628137,
+      "end": 72.45,
+      "start": 71.73,
+      "word": "spirituel"
+    },
+    {
+      "conf": 0.352583,
+      "end": 73.38,
+      "start": 73.23,
+      "word": "mais"
+    },
+    {
+      "conf": 1.0,
+      "end": 73.628481,
+      "start": 73.390576,
+      "word": "pas"
+    },
+    {
+      "conf": 0.597717,
+      "end": 74.13,
+      "start": 73.628481,
+      "word": "question"
+    },
+    {
+      "conf": 0.597717,
+      "end": 74.28,
+      "start": 74.13,
+      "word": "qu'on"
+    },
+    {
+      "conf": 0.597717,
+      "end": 74.58,
+      "start": 74.28,
+      "word": "conseille"
+    },
+    {
+      "conf": 0.597717,
+      "end": 75.15,
+      "start": 74.91,
+      "word": "pas"
+    },
+    {
+      "conf": 0.597717,
+      "end": 76.08,
+      "start": 75.63,
+      "word": "d'enlever"
+    },
+    {
+      "conf": 0.630869,
+      "end": 76.44,
+      "start": 76.32,
+      "word": "les"
+    },
+    {
+      "conf": 1.0,
+      "end": 77.28,
+      "start": 76.44,
+      "word": "insectes"
+    },
+    {
+      "conf": 1.0,
+      "end": 78.39,
+      "start": 78.15,
+      "word": "morts"
+    },
+    {
+      "conf": 1.0,
+      "end": 78.96,
+      "start": 78.39,
+      "word": "acc\u00e9l\u00e8rent"
+    },
+    {
+      "conf": 1.0,
+      "end": 79.59,
+      "start": 79.26,
+      "word": "ainsi"
+    },
+    {
+      "conf": 1.0,
+      "end": 80.01,
+      "start": 79.62,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 81.18,
+      "start": 80.7,
+      "word": "trois"
+    },
+    {
+      "conf": 1.0,
+      "end": 82.74,
+      "start": 82.14,
+      "word": "cent"
+    },
+    {
+      "conf": 0.960214,
+      "end": 83.67,
+      "start": 83.04,
+      "word": "trente"
+    },
+    {
+      "conf": 0.370102,
+      "end": 105.18,
+      "start": 105.0,
+      "word": "du"
+    },
+    {
+      "conf": 0.370102,
+      "end": 105.72,
+      "start": 105.21,
+      "word": "fait"
+    },
+    {
+      "conf": 0.52502,
+      "end": 108.72,
+      "start": 108.246746,
+      "word": "que"
+    },
+    {
+      "conf": 0.775917,
+      "end": 109.498293,
+      "start": 109.258293,
+      "word": "les"
+    },
+    {
+      "conf": 0.95339,
+      "end": 111.33,
+      "start": 110.04,
+      "word": "clarifier"
+    },
+    {
+      "conf": 0.987928,
+      "end": 113.49,
+      "start": 113.31,
+      "word": "pour"
+    },
+    {
+      "conf": 0.988432,
+      "end": 114.66,
+      "start": 113.55,
+      "word": "adoucir"
+    },
+    {
+      "conf": 0.933648,
+      "end": 115.197883,
+      "start": 114.98751,
+      "word": "les"
+    },
+    {
+      "conf": 0.929458,
+      "end": 116.37,
+      "start": 116.04,
+      "word": "dents"
+    },
+    {
+      "conf": 0.996644,
+      "end": 117.3,
+      "start": 117.18,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 118.199927,
+      "start": 117.39,
+      "word": "rafra\u00eechir"
+    },
+    {
+      "conf": 0.954581,
+      "end": 119.04,
+      "start": 118.35,
+      "word": "sans"
+    },
+    {
+      "conf": 0.953244,
+      "end": 120.3,
+      "start": 119.37,
+      "word": "modifier"
+    },
+    {
+      "conf": 1.0,
+      "end": 125.673281,
+      "start": 125.46,
+      "word": "le"
+    },
+    {
+      "conf": 0.866929,
+      "end": 126.657642,
+      "start": 125.673281,
+      "word": "consentement"
+    },
+    {
+      "conf": 0.697792,
+      "end": 128.91,
+      "start": 128.07,
+      "word": "pr\u00e9servatif"
+    },
+    {
+      "conf": 1.0,
+      "end": 130.89,
+      "start": 130.5,
+      "word": "pour"
+    },
+    {
+      "conf": 1.0,
+      "end": 134.07,
+      "start": 133.62,
+      "word": "s'y"
+    },
+    {
+      "conf": 1.0,
+      "end": 134.43,
+      "start": 134.07,
+      "word": "rendre"
+    },
+    {
+      "conf": 1.0,
+      "end": 135.81,
+      "start": 135.6,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 136.44,
+      "start": 136.05,
+      "word": "revenir"
+    },
+    {
+      "conf": 1.0,
+      "end": 138.93,
+      "start": 138.45,
+      "word": "au"
+    },
+    {
+      "conf": 0.98436,
+      "end": 139.56,
+      "start": 139.41,
+      "word": "bon"
+    },
+    {
+      "conf": 0.98436,
+      "end": 140.7,
+      "start": 140.22,
+      "word": "moment"
+    },
+    {
+      "conf": 0.993375,
+      "end": 142.05,
+      "start": 140.97,
+      "word": "sacr\u00e9"
+    },
+    {
+      "conf": 0.916833,
+      "end": 153.03,
+      "start": 152.76,
+      "word": "en"
+    },
+    {
+      "conf": 0.938519,
+      "end": 165.0,
+      "start": 164.55,
+      "word": "cause"
+    },
+    {
+      "conf": 0.651901,
+      "end": 174.39,
+      "start": 173.61,
+      "word": "carence"
+    },
+    {
+      "conf": 0.230648,
+      "end": 176.58,
+      "start": 176.1,
+      "word": "troyes"
+    },
+    {
+      "conf": 0.563843,
+      "end": 177.660015,
+      "start": 176.850015,
+      "word": "chatte"
+    },
+    {
+      "conf": 0.549756,
+      "end": 178.394297,
+      "start": 178.064429,
+      "word": "chatte"
+    },
+    {
+      "conf": 0.943288,
+      "end": 178.62,
+      "start": 178.44,
+      "word": "font"
+    },
+    {
+      "conf": 0.943288,
+      "end": 179.07,
+      "start": 178.62,
+      "word": "douter"
+    },
+    {
+      "conf": 0.877789,
+      "end": 179.909985,
+      "start": 179.73,
+      "word": "qu'il"
+    },
+    {
+      "conf": 1.0,
+      "end": 180.39,
+      "start": 179.909985,
+      "word": "faut"
+    },
+    {
+      "conf": 1.0,
+      "end": 180.96,
+      "start": 180.42,
+      "word": "faire"
+    },
+    {
+      "conf": 1.0,
+      "end": 180.99,
+      "start": 180.96,
+      "word": "un"
+    },
+    {
+      "conf": 1.0,
+      "end": 182.31,
+      "start": 181.77,
+      "word": "choix"
+    },
+    {
+      "conf": 0.958864,
+      "end": 182.97,
+      "start": 182.31,
+      "word": "somme"
+    },
+    {
+      "conf": 0.724073,
+      "end": 183.237759,
+      "start": 183.06,
+      "word": "toute"
+    },
+    {
+      "conf": 0.977677,
+      "end": 183.63,
+      "start": 183.237759,
+      "word": "trois"
+    },
+    {
+      "conf": 0.489738,
+      "end": 184.14,
+      "start": 184.02,
+      "word": "ou"
+    },
+    {
+      "conf": 1.0,
+      "end": 184.619854,
+      "start": 184.23,
+      "word": "quatre"
+    },
+    {
+      "conf": 0.973129,
+      "end": 185.28,
+      "start": 184.62,
+      "word": "sols"
+    },
+    {
+      "conf": 0.881965,
+      "end": 185.46,
+      "start": 185.37,
+      "word": "et"
+    },
+    {
+      "conf": 0.630085,
+      "end": 186.629985,
+      "start": 186.359985,
+      "word": "d'eau"
+    },
+    {
+      "conf": 0.418381,
+      "end": 188.31,
+      "start": 187.56,
+      "word": "sur"
+    },
+    {
+      "conf": 0.710341,
+      "end": 190.68,
+      "start": 190.5,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 191.16,
+      "start": 190.71,
+      "word": "chez"
+    },
+    {
+      "conf": 1.0,
+      "end": 191.82,
+      "start": 191.22,
+      "word": "moi"
+    },
+    {
+      "conf": 0.802407,
+      "end": 245.76,
+      "start": 245.52,
+      "word": "ce"
+    },
+    {
+      "conf": 0.990414,
+      "end": 246.0,
+      "start": 245.85,
+      "word": "n'est"
+    },
+    {
+      "conf": 1.0,
+      "end": 248.35292,
+      "start": 248.19,
+      "word": "pas"
+    },
+    {
+      "conf": 0.629149,
+      "end": 248.61,
+      "start": 248.35292,
+      "word": "aussi"
+    },
+    {
+      "conf": 1.0,
+      "end": 250.08,
+      "start": 249.816768,
+      "word": "bien"
+    },
+    {
+      "conf": 1.0,
+      "end": 250.32,
+      "start": 250.08,
+      "word": "chez"
+    },
+    {
+      "conf": 1.0,
+      "end": 250.95,
+      "start": 250.62,
+      "word": "moi"
+    },
+    {
+      "conf": 1.0,
+      "end": 254.82,
+      "start": 254.49,
+      "word": "site"
+    },
+    {
+      "conf": 1.0,
+      "end": 255.15,
+      "start": 255.03,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 255.63,
+      "start": 255.15,
+      "word": "rencontre"
+    },
+    {
+      "conf": 1.0,
+      "end": 255.87,
+      "start": 255.78,
+      "word": "vingt"
+    },
+    {
+      "conf": 1.0,
+      "end": 256.23,
+      "start": 255.87,
+      "word": "cinq"
+    },
+    {
+      "conf": 1.0,
+      "end": 257.28,
+      "start": 256.92,
+      "word": "ans"
+    },
+    {
+      "conf": 0.614549,
+      "end": 262.89,
+      "start": 262.56,
+      "word": "ou"
+    },
+    {
+      "conf": 0.385451,
+      "end": 289.74,
+      "start": 289.35,
+      "word": "vous"
+    },
+    {
+      "conf": 0.614549,
+      "end": 291.520049,
+      "start": 291.245391,
+      "word": "ou"
+    },
+    {
+      "conf": 1.0,
+      "end": 297.3,
+      "start": 296.97,
+      "word": "pas"
+    },
+    {
+      "conf": 0.90119,
+      "end": 298.082695,
+      "start": 297.96,
+      "word": "de"
+    },
+    {
+      "conf": 0.752581,
+      "end": 298.23,
+      "start": 298.082695,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 298.71,
+      "start": 298.23,
+      "word": "arr\u00eater"
+    }
+  ],
+  "text": "et je peux comprendre qu'on ne doit pas \u00eatre donn\u00e9 de mettre quatre \u00e9toiles pas plus vu les changements de conditions un changement pour faire je pense c'est en grandissant que ce soit sur tes deux choix possibles soit aussi mal spirituel mais pas question qu'on conseille pas d'enlever les insectes morts acc\u00e9l\u00e8rent ainsi que trois cent trente du fait que les clarifier pour adoucir les dents et rafra\u00eechir sans modifier le consentement pr\u00e9servatif pour s'y rendre et revenir au bon moment sacr\u00e9 en cause carence troyes chatte chatte font douter qu'il faut faire un choix somme toute trois ou quatre sols et d'eau sur de chez moi ce n'est pas aussi bien chez moi site de rencontre vingt cinq ans ou vous ou pas de vous arr\u00eater",
+  "media": "E:\\LMI\\20230504_2\\LMI_20230504_2_01.MP4"
+}

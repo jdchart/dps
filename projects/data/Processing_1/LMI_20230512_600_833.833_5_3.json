@@ -1,0 +1,180 @@
+{
+  "result": [
+    {
+      "conf": 0.999595,
+      "end": 0.952852,
+      "start": 0.892852,
+      "word": "la"
+    },
+    {
+      "conf": 1.0,
+      "end": 51.63,
+      "start": 50.97,
+      "word": "v\u00e9rit\u00e9"
+    },
+    {
+      "conf": 0.998906,
+      "end": 52.35,
+      "start": 52.05,
+      "word": "c'est"
+    },
+    {
+      "conf": 0.998906,
+      "end": 61.11,
+      "start": 60.84,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 63.250364,
+      "start": 62.846873,
+      "word": "\u00e7a"
+    },
+    {
+      "conf": 0.987143,
+      "end": 69.57,
+      "start": 69.06,
+      "word": "va"
+    },
+    {
+      "conf": 0.810061,
+      "end": 75.33,
+      "start": 74.97,
+      "word": "se"
+    },
+    {
+      "conf": 0.810061,
+      "end": 80.07,
+      "start": 79.56,
+      "word": "terminer"
+    },
+    {
+      "conf": 1.0,
+      "end": 82.32,
+      "start": 82.02,
+      "word": "j'ai"
+    },
+    {
+      "conf": 1.0,
+      "end": 83.19,
+      "start": 82.71,
+      "word": "regard\u00e9"
+    },
+    {
+      "conf": 1.0,
+      "end": 86.19,
+      "start": 85.8,
+      "word": "votre"
+    },
+    {
+      "conf": 1.0,
+      "end": 86.61,
+      "start": 86.19,
+      "word": "vid\u00e9o"
+    },
+    {
+      "conf": 0.550308,
+      "end": 128.38251,
+      "start": 128.292041,
+      "word": "et"
+    },
+    {
+      "conf": 0.376801,
+      "end": 129.27,
+      "start": 129.03,
+      "word": "ici"
+    },
+    {
+      "conf": 0.709102,
+      "end": 129.51,
+      "start": 129.276108,
+      "word": "ca"
+    },
+    {
+      "conf": 0.961035,
+      "end": 135.69,
+      "start": 135.36,
+      "word": "va"
+    },
+    {
+      "conf": 0.995225,
+      "end": 143.37,
+      "start": 143.07,
+      "word": "pas"
+    },
+    {
+      "conf": 1.0,
+      "end": 148.792837,
+      "start": 148.271455,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 166.44,
+      "start": 165.87,
+      "word": "moi"
+    },
+    {
+      "conf": 1.0,
+      "end": 174.48,
+      "start": 172.92,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 0.786229,
+      "end": 178.95,
+      "start": 178.47,
+      "word": "center"
+    },
+    {
+      "conf": 0.786229,
+      "end": 209.13,
+      "start": 208.44,
+      "word": "city"
+    },
+    {
+      "conf": 1.0,
+      "end": 210.39,
+      "start": 209.91,
+      "word": "sans"
+    },
+    {
+      "conf": 1.0,
+      "end": 225.78,
+      "start": 225.63,
+      "word": "qu'on"
+    },
+    {
+      "conf": 1.0,
+      "end": 228.21,
+      "start": 227.91,
+      "word": "sache"
+    },
+    {
+      "conf": 0.948698,
+      "end": 228.45,
+      "start": 228.21,
+      "word": "quoi"
+    },
+    {
+      "conf": 0.491207,
+      "end": 230.01,
+      "start": 229.92,
+      "word": "que"
+    },
+    {
+      "conf": 0.491207,
+      "end": 230.1,
+      "start": 230.01,
+      "word": "ce"
+    },
+    {
+      "conf": 0.491207,
+      "end": 230.4,
+      "start": 230.1,
+      "word": "soit"
+    }
+  ],
+  "text": "la v\u00e9rit\u00e9 c'est que \u00e7a va se terminer j'ai regard\u00e9 votre vid\u00e9o et ici ca va pas \u00e0 moi \u00e0 center city sans qu'on sache quoi que ce soit",
+  "media": "E:\\LMI\\20230512_7\\LMI_20230512_7_05.MP4"
+}

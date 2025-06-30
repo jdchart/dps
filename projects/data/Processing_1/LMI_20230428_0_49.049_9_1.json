@@ -1,0 +1,54 @@
+{
+  "result": [
+    {
+      "conf": 0.545422,
+      "end": 1.26,
+      "start": 0.57,
+      "word": "et"
+    },
+    {
+      "conf": 0.876292,
+      "end": 2.64,
+      "start": 2.34,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.25,
+      "start": 3.42,
+      "word": "grands"
+    },
+    {
+      "conf": 0.836645,
+      "end": 28.589998,
+      "start": 28.05,
+      "word": "jeux"
+    },
+    {
+      "conf": 0.791978,
+      "end": 34.89,
+      "start": 33.75,
+      "word": "qui"
+    },
+    {
+      "conf": 0.485722,
+      "end": 35.97,
+      "start": 35.82,
+      "word": "m'ont"
+    },
+    {
+      "conf": 0.485722,
+      "end": 36.12,
+      "start": 35.97,
+      "word": "le"
+    },
+    {
+      "conf": 0.485722,
+      "end": 47.97,
+      "start": 47.43,
+      "word": "plus"
+    }
+  ],
+  "text": "et de grands jeux qui m'ont le plus",
+  "media": "E:\\LMI\\20230428_f2\\LMI_20230428_f2_09.MP4"
+}

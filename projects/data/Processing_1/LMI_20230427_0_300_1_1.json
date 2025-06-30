@@ -1,0 +1,360 @@
+{
+  "result": [
+    {
+      "conf": 0.378588,
+      "end": 69.39,
+      "start": 68.79,
+      "word": "laisseront"
+    },
+    {
+      "conf": 0.694494,
+      "end": 71.07,
+      "start": 70.38,
+      "word": "mourir"
+    },
+    {
+      "conf": 1.0,
+      "end": 133.11,
+      "start": 132.75,
+      "word": "trois"
+    },
+    {
+      "conf": 0.746178,
+      "end": 134.19,
+      "start": 133.59,
+      "word": "cinq"
+    },
+    {
+      "conf": 1.0,
+      "end": 136.08,
+      "start": 135.63,
+      "word": "cinq"
+    },
+    {
+      "conf": 1.0,
+      "end": 137.19,
+      "start": 136.53,
+      "word": "dix"
+    },
+    {
+      "conf": 0.449533,
+      "end": 139.2,
+      "start": 138.51,
+      "word": "trois"
+    },
+    {
+      "conf": 0.300679,
+      "end": 139.47,
+      "start": 139.29,
+      "word": "et"
+    },
+    {
+      "conf": 0.478145,
+      "end": 140.01,
+      "start": 139.481133,
+      "word": "donjons"
+    },
+    {
+      "conf": 0.63226,
+      "end": 140.97,
+      "start": 140.01,
+      "word": "simple"
+    },
+    {
+      "conf": 0.867555,
+      "end": 214.8,
+      "start": 214.5,
+      "word": "dans"
+    },
+    {
+      "conf": 0.921549,
+      "end": 221.077515,
+      "start": 220.782671,
+      "word": "le"
+    },
+    {
+      "conf": 0.991312,
+      "end": 226.86,
+      "start": 226.44,
+      "word": "monde"
+    },
+    {
+      "conf": 1.0,
+      "end": 227.73,
+      "start": 227.34,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 229.53,
+      "start": 229.02,
+      "word": "c'est"
+    },
+    {
+      "conf": 1.0,
+      "end": 229.95,
+      "start": 229.53,
+      "word": "pas"
+    },
+    {
+      "conf": 0.460003,
+      "end": 232.02,
+      "start": 231.78,
+      "word": "bon"
+    },
+    {
+      "conf": 0.670846,
+      "end": 235.32,
+      "start": 234.69,
+      "word": "laissant"
+    },
+    {
+      "conf": 0.500122,
+      "end": 235.889985,
+      "start": 235.469985,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 0.878648,
+      "end": 237.09,
+      "start": 236.94,
+      "word": "deux"
+    },
+    {
+      "conf": 0.971577,
+      "end": 239.4,
+      "start": 239.19,
+      "word": "ans"
+    },
+    {
+      "conf": 1.0,
+      "end": 244.44,
+      "start": 243.99,
+      "word": "mais"
+    },
+    {
+      "conf": 1.0,
+      "end": 245.52,
+      "start": 245.16,
+      "word": "monsieur"
+    },
+    {
+      "conf": 0.459185,
+      "end": 248.22,
+      "start": 247.77,
+      "word": "d\u00e9pannage"
+    },
+    {
+      "conf": 0.898682,
+      "end": 248.76,
+      "start": 248.31,
+      "word": "peut-\u00eatre"
+    },
+    {
+      "conf": 0.550783,
+      "end": 249.33,
+      "start": 248.76,
+      "word": "civile"
+    },
+    {
+      "conf": 0.999615,
+      "end": 250.05,
+      "start": 249.84,
+      "word": "d'\u00eatre"
+    },
+    {
+      "conf": 0.982375,
+      "end": 250.44,
+      "start": 250.05,
+      "word": "aussi"
+    },
+    {
+      "conf": 0.999615,
+      "end": 251.25,
+      "start": 250.62,
+      "word": "raisonnable"
+    },
+    {
+      "conf": 0.999615,
+      "end": 252.72,
+      "start": 252.6,
+      "word": "et"
+    },
+    {
+      "conf": 0.447366,
+      "end": 253.08,
+      "start": 252.72,
+      "word": "qu'on"
+    },
+    {
+      "conf": 1.0,
+      "end": 253.74,
+      "start": 253.32,
+      "word": "fait"
+    },
+    {
+      "conf": 0.957286,
+      "end": 254.22,
+      "start": 254.07,
+      "word": "les"
+    },
+    {
+      "conf": 0.957286,
+      "end": 254.82,
+      "start": 254.4,
+      "word": "malins"
+    },
+    {
+      "conf": 0.957286,
+      "end": 257.61,
+      "start": 256.89,
+      "word": "sont"
+    },
+    {
+      "conf": 1.0,
+      "end": 261.42,
+      "start": 261.06,
+      "word": "sur"
+    },
+    {
+      "conf": 1.0,
+      "end": 261.93,
+      "start": 261.48,
+      "word": "votre"
+    },
+    {
+      "conf": 0.715326,
+      "end": 263.82,
+      "start": 263.22,
+      "word": "chemin"
+    },
+    {
+      "conf": 1.0,
+      "end": 264.45,
+      "start": 264.141211,
+      "word": "je"
+    },
+    {
+      "conf": 1.0,
+      "end": 266.61,
+      "start": 266.52,
+      "word": "me"
+    },
+    {
+      "conf": 1.0,
+      "end": 266.76,
+      "start": 266.61,
+      "word": "l\u00e8ve"
+    },
+    {
+      "conf": 1.0,
+      "end": 267.0,
+      "start": 266.76,
+      "word": "avec"
+    },
+    {
+      "conf": 1.0,
+      "end": 267.09,
+      "start": 267.0,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 267.96,
+      "start": 267.57,
+      "word": "sceau"
+    },
+    {
+      "conf": 1.0,
+      "end": 268.23,
+      "start": 268.11,
+      "word": "au"
+    },
+    {
+      "conf": 1.0,
+      "end": 268.74,
+      "start": 268.23,
+      "word": "paradis"
+    },
+    {
+      "conf": 1.0,
+      "end": 269.04,
+      "start": 268.74,
+      "word": "car"
+    },
+    {
+      "conf": 1.0,
+      "end": 270.87,
+      "start": 270.66,
+      "word": "m\u00eame"
+    },
+    {
+      "conf": 1.0,
+      "end": 272.91,
+      "start": 272.64,
+      "word": "si"
+    },
+    {
+      "conf": 0.855971,
+      "end": 273.24,
+      "start": 272.91,
+      "word": "\u00e7a"
+    },
+    {
+      "conf": 0.997947,
+      "end": 277.11,
+      "start": 276.87,
+      "word": "veut"
+    },
+    {
+      "conf": 0.997947,
+      "end": 279.36,
+      "start": 279.03,
+      "word": "dire"
+    },
+    {
+      "conf": 0.998372,
+      "end": 287.365723,
+      "start": 286.77,
+      "word": "qu'on"
+    },
+    {
+      "conf": 0.949206,
+      "end": 287.88,
+      "start": 287.37,
+      "word": "est"
+    },
+    {
+      "conf": 0.808835,
+      "end": 290.34,
+      "start": 289.83,
+      "word": "capable"
+    },
+    {
+      "conf": 0.649733,
+      "end": 291.57,
+      "start": 291.3,
+      "word": "ou"
+    },
+    {
+      "conf": 0.987616,
+      "end": 293.28,
+      "start": 292.619707,
+      "word": "pas"
+    },
+    {
+      "conf": 0.507288,
+      "end": 294.93,
+      "start": 294.72,
+      "word": "d'en"
+    },
+    {
+      "conf": 0.68544,
+      "end": 298.71,
+      "start": 298.14,
+      "word": "haut"
+    }
+  ],
+  "text": "laisseront mourir trois cinq cinq dix trois et donjons simple dans le monde que c'est pas bon laissant \u00e0 deux ans mais monsieur d\u00e9pannage peut-\u00eatre civile d'\u00eatre aussi raisonnable et qu'on fait les malins sont sur votre chemin je me l\u00e8ve avec le sceau au paradis car m\u00eame si \u00e7a veut dire qu'on est capable ou pas d'en haut",
+  "media": "E:\\LMI\\20230427_f1\\LMI_20230427_f1_01.MP4"
+}

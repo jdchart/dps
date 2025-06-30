@@ -1,0 +1,702 @@
+{
+  "result": [
+    {
+      "conf": 0.60035,
+      "end": 3.3,
+      "start": 2.889497,
+      "word": "pens\u00e9"
+    },
+    {
+      "conf": 0.698272,
+      "end": 3.507601,
+      "start": 3.3,
+      "word": "comme"
+    },
+    {
+      "conf": 0.751363,
+      "end": 3.56788,
+      "start": 3.507601,
+      "word": "une"
+    },
+    {
+      "conf": 0.870233,
+      "end": 3.81,
+      "start": 3.56817,
+      "word": "bonne"
+    },
+    {
+      "conf": 1.0,
+      "end": 5.46,
+      "start": 5.01,
+      "word": "politique"
+    },
+    {
+      "conf": 1.0,
+      "end": 7.511198,
+      "start": 6.99,
+      "word": "culturelle"
+    },
+    {
+      "conf": 0.994995,
+      "end": 8.16,
+      "start": 7.95,
+      "word": "cette"
+    },
+    {
+      "conf": 0.994995,
+      "end": 8.76,
+      "start": 8.16,
+      "word": "accusation"
+    },
+    {
+      "conf": 0.652518,
+      "end": 9.03,
+      "start": 8.82,
+      "word": "allez"
+    },
+    {
+      "conf": 0.942083,
+      "end": 9.69,
+      "start": 9.12,
+      "word": "retomber"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.26,
+      "start": 10.02,
+      "word": "sur"
+    },
+    {
+      "conf": 0.582465,
+      "end": 11.01,
+      "start": 10.26,
+      "word": "perp\u00e9tuer"
+    },
+    {
+      "conf": 0.937817,
+      "end": 11.28,
+      "start": 11.19,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.4,
+      "start": 11.28,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 11.82,
+      "start": 11.4,
+      "word": "cette"
+    },
+    {
+      "conf": 0.893658,
+      "end": 12.39,
+      "start": 11.88,
+      "word": "fille"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.96,
+      "start": 12.81,
+      "word": "ne"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.29,
+      "start": 12.96,
+      "word": "savez"
+    },
+    {
+      "conf": 1.0,
+      "end": 13.68,
+      "start": 13.29,
+      "word": "rien"
+    },
+    {
+      "conf": 1.0,
+      "end": 15.81,
+      "start": 14.97,
+      "word": "personne"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.83,
+      "start": 16.65,
+      "word": "ni"
+    },
+    {
+      "conf": 1.0,
+      "end": 16.98,
+      "start": 16.83,
+      "word": "les"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.15,
+      "start": 17.28,
+      "word": "habitants"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.75,
+      "start": 18.57,
+      "word": "ni"
+    },
+    {
+      "conf": 1.0,
+      "end": 18.9,
+      "start": 18.75,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.38,
+      "start": 18.9,
+      "word": "roi"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.62,
+      "start": 19.41,
+      "word": "ni"
+    },
+    {
+      "conf": 1.0,
+      "end": 19.89,
+      "start": 19.62,
+      "word": "m\u00eame"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.4,
+      "start": 20.19,
+      "word": "comme"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.73,
+      "start": 20.4,
+      "word": "cadeau"
+    },
+    {
+      "conf": 1.0,
+      "end": 20.91,
+      "start": 20.73,
+      "word": "d'un"
+    },
+    {
+      "conf": 1.0,
+      "end": 21.51,
+      "start": 20.91,
+      "word": "sentiment"
+    },
+    {
+      "conf": 0.997952,
+      "end": 22.8,
+      "start": 22.71,
+      "word": "de"
+    },
+    {
+      "conf": 0.578997,
+      "end": 23.13,
+      "start": 22.8,
+      "word": "chat"
+    },
+    {
+      "conf": 0.894582,
+      "end": 24.69,
+      "start": 24.54,
+      "word": "elle"
+    },
+    {
+      "conf": 0.915108,
+      "end": 25.23,
+      "start": 24.69,
+      "word": "pense"
+    },
+    {
+      "conf": 0.840966,
+      "end": 26.61,
+      "start": 26.46,
+      "word": "qu'on"
+    },
+    {
+      "conf": 0.921164,
+      "end": 26.76,
+      "start": 26.61,
+      "word": "la"
+    },
+    {
+      "conf": 0.838005,
+      "end": 27.003831,
+      "start": 26.76,
+      "word": "voit"
+    },
+    {
+      "conf": 0.55231,
+      "end": 27.06,
+      "start": 27.003831,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 0.55231,
+      "end": 27.48,
+      "start": 27.06,
+      "word": "peine"
+    },
+    {
+      "conf": 1.0,
+      "end": 28.74,
+      "start": 28.17,
+      "word": "porteuse"
+    },
+    {
+      "conf": 1.0,
+      "end": 28.83,
+      "start": 28.74,
+      "word": "de"
+    },
+    {
+      "conf": 0.767124,
+      "end": 29.279998,
+      "start": 28.83,
+      "word": "malheur"
+    },
+    {
+      "conf": 1.0,
+      "end": 29.49,
+      "start": 29.4,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 29.61,
+      "start": 29.49,
+      "word": "de"
+    },
+    {
+      "conf": 0.581388,
+      "end": 30.33,
+      "start": 29.61,
+      "word": "gloire"
+    },
+    {
+      "conf": 0.700234,
+      "end": 31.26,
+      "start": 30.66,
+      "word": "volontaire"
+    },
+    {
+      "conf": 1.0,
+      "end": 31.38,
+      "start": 31.29,
+      "word": "dans"
+    },
+    {
+      "conf": 1.0,
+      "end": 31.5,
+      "start": 31.38,
+      "word": "le"
+    },
+    {
+      "conf": 0.693295,
+      "end": 31.828634,
+      "start": 31.65,
+      "word": "cadre"
+    },
+    {
+      "conf": 0.384273,
+      "end": 31.897987,
+      "start": 31.828634,
+      "word": "des"
+    },
+    {
+      "conf": 0.637428,
+      "end": 32.49,
+      "start": 31.897987,
+      "word": "b\u00e9n\u00e9fices"
+    },
+    {
+      "conf": 1.0,
+      "end": 32.88,
+      "start": 32.76,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 33.09,
+      "start": 32.88,
+      "word": "mon"
+    },
+    {
+      "conf": 1.0,
+      "end": 33.51,
+      "start": 33.09,
+      "word": "immense"
+    },
+    {
+      "conf": 1.0,
+      "end": 34.11,
+      "start": 33.51,
+      "word": "catafalque"
+    },
+    {
+      "conf": 0.450219,
+      "end": 34.74,
+      "start": 34.11,
+      "word": "patricia"
+    },
+    {
+      "conf": 1.0,
+      "end": 35.79,
+      "start": 34.89,
+      "word": "pourquoi"
+    },
+    {
+      "conf": 0.978969,
+      "end": 36.45,
+      "start": 36.09,
+      "word": "n'a-t-il"
+    },
+    {
+      "conf": 1.0,
+      "end": 36.69,
+      "start": 36.45,
+      "word": "pas"
+    },
+    {
+      "conf": 1.0,
+      "end": 37.11,
+      "start": 36.75,
+      "word": "aussi"
+    },
+    {
+      "conf": 0.575135,
+      "end": 37.56,
+      "start": 37.11,
+      "word": "pens\u00e9"
+    },
+    {
+      "conf": 1.0,
+      "end": 37.74,
+      "start": 37.65,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 38.4,
+      "start": 37.74,
+      "word": "rombas"
+    },
+    {
+      "conf": 1.0,
+      "end": 39.33,
+      "start": 39.12,
+      "word": "fille"
+    },
+    {
+      "conf": 1.0,
+      "end": 40.53,
+      "start": 39.33,
+      "word": "innocente"
+    },
+    {
+      "conf": 0.755572,
+      "end": 41.1,
+      "start": 40.98,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 41.61,
+      "start": 41.13,
+      "word": "encore"
+    },
+    {
+      "conf": 1.0,
+      "end": 42.27,
+      "start": 41.61,
+      "word": "vivante"
+    },
+    {
+      "conf": 1.0,
+      "end": 42.96,
+      "start": 42.81,
+      "word": "d'un"
+    },
+    {
+      "conf": 0.520782,
+      "end": 43.379777,
+      "start": 42.96,
+      "word": "p\u00e9cheur"
+    },
+    {
+      "conf": 0.846042,
+      "end": 43.588561,
+      "start": 43.38,
+      "word": "plein"
+    },
+    {
+      "conf": 0.982409,
+      "end": 43.68,
+      "start": 43.588561,
+      "word": "de"
+    },
+    {
+      "conf": 0.879011,
+      "end": 43.83,
+      "start": 43.68,
+      "word": "tous"
+    },
+    {
+      "conf": 0.879011,
+      "end": 43.92,
+      "start": 43.83,
+      "word": "les"
+    },
+    {
+      "conf": 0.879011,
+      "end": 44.16,
+      "start": 43.92,
+      "word": "vices"
+    },
+    {
+      "conf": 1.0,
+      "end": 44.28,
+      "start": 44.19,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 44.43,
+      "start": 44.28,
+      "word": "la"
+    },
+    {
+      "conf": 1.0,
+      "end": 44.85,
+      "start": 44.43,
+      "word": "terre"
+    },
+    {
+      "conf": 1.0,
+      "end": 45.36,
+      "start": 45.15,
+      "word": "quand"
+    },
+    {
+      "conf": 1.0,
+      "end": 45.54,
+      "start": 45.36,
+      "word": "il"
+    },
+    {
+      "conf": 1.0,
+      "end": 45.63,
+      "start": 45.54,
+      "word": "a"
+    },
+    {
+      "conf": 0.846159,
+      "end": 45.99,
+      "start": 45.63,
+      "word": "vu"
+    },
+    {
+      "conf": 1.0,
+      "end": 46.83,
+      "start": 46.62,
+      "word": "dans"
+    },
+    {
+      "conf": 1.0,
+      "end": 46.95,
+      "start": 46.83,
+      "word": "la"
+    },
+    {
+      "conf": 1.0,
+      "end": 47.19,
+      "start": 46.95,
+      "word": "mort"
+    },
+    {
+      "conf": 1.0,
+      "end": 47.31,
+      "start": 47.19,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 47.55,
+      "start": 47.31,
+      "word": "mon"
+    },
+    {
+      "conf": 1.0,
+      "end": 48.03,
+      "start": 47.55,
+      "word": "p\u00e8re"
+    },
+    {
+      "conf": 0.858554,
+      "end": 48.714276,
+      "start": 48.54,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 49.11,
+      "start": 48.714276,
+      "word": "juste"
+    },
+    {
+      "conf": 1.0,
+      "end": 49.65,
+      "start": 49.11,
+      "word": "ch\u00e2timent"
+    },
+    {
+      "conf": 1.0,
+      "end": 49.77,
+      "start": 49.65,
+      "word": "du"
+    },
+    {
+      "conf": 1.0,
+      "end": 50.52,
+      "start": 49.77,
+      "word": "ciel"
+    },
+    {
+      "conf": 1.0,
+      "end": 98.19,
+      "start": 97.83,
+      "word": "comme"
+    },
+    {
+      "conf": 0.97483,
+      "end": 235.16918,
+      "start": 234.48,
+      "word": "annonc\u00e9"
+    },
+    {
+      "conf": 0.609229,
+      "end": 239.293228,
+      "start": 239.04,
+      "word": "tout"
+    },
+    {
+      "conf": 0.882977,
+      "end": 247.86,
+      "start": 247.47,
+      "word": "de"
+    },
+    {
+      "conf": 0.931327,
+      "end": 254.37,
+      "start": 253.98,
+      "word": "la"
+    },
+    {
+      "conf": 0.568941,
+      "end": 263.91,
+      "start": 263.49,
+      "word": "r\u00e9ussite"
+    },
+    {
+      "conf": 0.817439,
+      "end": 264.99,
+      "start": 264.75,
+      "word": "des"
+    },
+    {
+      "conf": 0.817439,
+      "end": 265.26,
+      "start": 264.99,
+      "word": "gens"
+    },
+    {
+      "conf": 0.53576,
+      "end": 269.038271,
+      "start": 268.704287,
+      "word": "bien"
+    },
+    {
+      "conf": 1.0,
+      "end": 269.19,
+      "start": 269.038271,
+      "word": "la"
+    },
+    {
+      "conf": 1.0,
+      "end": 269.61,
+      "start": 269.31,
+      "word": "fable"
+    },
+    {
+      "conf": 1.0,
+      "end": 269.73,
+      "start": 269.64,
+      "word": "du"
+    },
+    {
+      "conf": 1.0,
+      "end": 270.12,
+      "start": 269.73,
+      "word": "corbeau"
+    },
+    {
+      "conf": 1.0,
+      "end": 270.21,
+      "start": 270.12,
+      "word": "et"
+    },
+    {
+      "conf": 1.0,
+      "end": 270.33,
+      "start": 270.21,
+      "word": "du"
+    },
+    {
+      "conf": 1.0,
+      "end": 270.6,
+      "start": 270.33,
+      "word": "moment"
+    },
+    {
+      "conf": 1.0,
+      "end": 272.79,
+      "start": 272.61,
+      "word": "ce"
+    },
+    {
+      "conf": 1.0,
+      "end": 273.0,
+      "start": 272.79,
+      "word": "n'est"
+    },
+    {
+      "conf": 1.0,
+      "end": 273.33,
+      "start": 273.0,
+      "word": "pas"
+    },
+    {
+      "conf": 0.894598,
+      "end": 274.92,
+      "start": 274.59,
+      "word": "mon"
+    },
+    {
+      "conf": 0.894598,
+      "end": 298.17,
+      "start": 297.69,
+      "word": "fort"
+    }
+  ],
+  "text": "pens\u00e9 comme une bonne politique culturelle cette accusation allez retomber sur perp\u00e9tuer et que cette fille ne savez rien personne ni les habitants ni le roi ni m\u00eame comme cadeau d'un sentiment de chat elle pense qu'on la voit \u00e0 peine porteuse de malheur et de gloire volontaire dans le cadre des b\u00e9n\u00e9fices que mon immense catafalque patricia pourquoi n'a-t-il pas aussi pens\u00e9 \u00e0 rombas fille innocente et encore vivante d'un p\u00e9cheur plein de tous les vices de la terre quand il a vu dans la mort de mon p\u00e8re le juste ch\u00e2timent du ciel comme annonc\u00e9 tout de la r\u00e9ussite des gens bien la fable du corbeau et du moment ce n'est pas mon fort",
+  "media": "E:\\LMI\\archives\\MALADE_1.mp4"
+}

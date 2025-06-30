@@ -1,0 +1,174 @@
+{
+  "result": [
+    {
+      "conf": 0.882987,
+      "end": 2.79,
+      "start": 2.46,
+      "word": "cinq"
+    },
+    {
+      "conf": 1.0,
+      "end": 8.731455,
+      "start": 8.338596,
+      "word": "trois"
+    },
+    {
+      "conf": 1.0,
+      "end": 10.98,
+      "start": 10.44,
+      "word": "quatre"
+    },
+    {
+      "conf": 1.0,
+      "end": 12.12,
+      "start": 11.55,
+      "word": "six"
+    },
+    {
+      "conf": 1.0,
+      "end": 17.25,
+      "start": 16.71,
+      "word": "douze"
+    },
+    {
+      "conf": 1.0,
+      "end": 92.52,
+      "start": 92.13,
+      "word": "ans"
+    },
+    {
+      "conf": 0.945511,
+      "end": 156.6,
+      "start": 156.27,
+      "word": "sont"
+    },
+    {
+      "conf": 1.0,
+      "end": 177.18,
+      "start": 176.88,
+      "word": "tout"
+    },
+    {
+      "conf": 1.0,
+      "end": 177.33,
+      "start": 177.18,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 177.69,
+      "start": 177.51,
+      "word": "fait"
+    },
+    {
+      "conf": 1.0,
+      "end": 178.2,
+      "start": 177.72,
+      "word": "honn\u00eate"
+    },
+    {
+      "conf": 1.0,
+      "end": 178.56,
+      "start": 178.2,
+      "word": "point"
+    },
+    {
+      "conf": 0.52812,
+      "end": 180.03,
+      "start": 179.31,
+      "word": "d'attaquer"
+    },
+    {
+      "conf": 0.52812,
+      "end": 187.83,
+      "start": 187.53,
+      "word": "la"
+    },
+    {
+      "conf": 0.52812,
+      "end": 189.595884,
+      "start": 189.24,
+      "word": "journ\u00e9e"
+    },
+    {
+      "conf": 0.455725,
+      "end": 190.136191,
+      "start": 189.69,
+      "word": "d'hier"
+    },
+    {
+      "conf": 0.388313,
+      "end": 192.6,
+      "start": 192.27,
+      "word": "est-il"
+    },
+    {
+      "conf": 0.666999,
+      "end": 193.35,
+      "start": 192.72,
+      "word": "possible"
+    },
+    {
+      "conf": 0.696766,
+      "end": 193.62,
+      "start": 193.56,
+      "word": "on"
+    },
+    {
+      "conf": 0.922768,
+      "end": 193.86,
+      "start": 193.62,
+      "word": "laisse"
+    },
+    {
+      "conf": 1.0,
+      "end": 194.1,
+      "start": 193.862314,
+      "word": "comme"
+    },
+    {
+      "conf": 1.0,
+      "end": 194.61,
+      "start": 194.1,
+      "word": "cela"
+    },
+    {
+      "conf": 1.0,
+      "end": 195.42,
+      "start": 194.85,
+      "word": "qu'on"
+    },
+    {
+      "conf": 0.731888,
+      "end": 196.40915,
+      "start": 196.35,
+      "word": "ne"
+    },
+    {
+      "conf": 0.985629,
+      "end": 196.89,
+      "start": 196.40915,
+      "word": "sait"
+    },
+    {
+      "conf": 1.0,
+      "end": 202.8,
+      "start": 202.26,
+      "word": "plus"
+    },
+    {
+      "conf": 0.985629,
+      "end": 203.7,
+      "start": 203.61,
+      "word": "o\u00f9"
+    },
+    {
+      "conf": 0.985629,
+      "end": 203.88,
+      "start": 203.7,
+      "word": "aller"
+    }
+  ],
+  "text": "cinq trois quatre six douze ans sont tout \u00e0 fait honn\u00eate point d'attaquer la journ\u00e9e d'hier est-il possible on laisse comme cela qu'on ne sait plus o\u00f9 aller",
+  "media": "E:\\LMI\\20230427_f1\\LMI_20230427_f1_01.MP4"
+}

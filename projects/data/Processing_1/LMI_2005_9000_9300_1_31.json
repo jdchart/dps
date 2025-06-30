@@ -1,0 +1,546 @@
+{
+  "result": [
+    {
+      "conf": 0.451072,
+      "end": 24.9,
+      "start": 24.54,
+      "word": "notre"
+    },
+    {
+      "conf": 0.654703,
+      "end": 25.02,
+      "start": 24.9,
+      "word": "but"
+    },
+    {
+      "conf": 0.654703,
+      "end": 25.08,
+      "start": 25.02,
+      "word": "est"
+    },
+    {
+      "conf": 0.993696,
+      "end": 26.07,
+      "start": 25.95,
+      "word": "de"
+    },
+    {
+      "conf": 0.993179,
+      "end": 26.19,
+      "start": 26.07,
+      "word": "nous"
+    },
+    {
+      "conf": 0.993745,
+      "end": 26.908233,
+      "start": 26.190002,
+      "word": "divertir"
+    },
+    {
+      "conf": 0.988274,
+      "end": 27.15,
+      "start": 26.910568,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 27.33,
+      "start": 27.15,
+      "word": "ce"
+    },
+    {
+      "conf": 0.974645,
+      "end": 27.81,
+      "start": 27.33,
+      "word": "soit"
+    },
+    {
+      "conf": 0.541545,
+      "end": 28.860002,
+      "start": 28.740002,
+      "word": "pour"
+    },
+    {
+      "conf": 0.541545,
+      "end": 29.130002,
+      "start": 28.860002,
+      "word": "m'aider"
+    },
+    {
+      "conf": 0.908796,
+      "end": 29.219218,
+      "start": 29.159608,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 0.740961,
+      "end": 29.67,
+      "start": 29.22,
+      "word": "pr\u00e9server"
+    },
+    {
+      "conf": 0.414265,
+      "end": 30.63,
+      "start": 30.54,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 30.72,
+      "start": 30.63,
+      "word": "la"
+    },
+    {
+      "conf": 1.0,
+      "end": 31.44,
+      "start": 30.72,
+      "word": "r\u00e9ception"
+    },
+    {
+      "conf": 1.0,
+      "end": 31.65,
+      "start": 31.5,
+      "word": "d'un"
+    },
+    {
+      "conf": 1.0,
+      "end": 32.13,
+      "start": 31.65,
+      "word": "m\u00e9decin"
+    },
+    {
+      "conf": 1.0,
+      "end": 32.43,
+      "start": 32.22,
+      "word": "avec"
+    },
+    {
+      "conf": 0.4876,
+      "end": 33.06,
+      "start": 33.0,
+      "word": "et"
+    },
+    {
+      "conf": 0.4876,
+      "end": 33.15,
+      "start": 33.06,
+      "word": "de"
+    },
+    {
+      "conf": 0.4876,
+      "end": 33.27,
+      "start": 33.15,
+      "word": "la"
+    },
+    {
+      "conf": 1.0,
+      "end": 34.59,
+      "start": 34.38,
+      "word": "je"
+    },
+    {
+      "conf": 1.0,
+      "end": 34.77,
+      "start": 34.59,
+      "word": "veux"
+    },
+    {
+      "conf": 1.0,
+      "end": 34.92,
+      "start": 34.77,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 35.07,
+      "start": 34.95,
+      "word": "nous"
+    },
+    {
+      "conf": 0.824116,
+      "end": 35.73,
+      "start": 35.07,
+      "word": "entretenons"
+    },
+    {
+      "conf": 0.984839,
+      "end": 36.51,
+      "start": 35.82,
+      "word": "ensemble"
+    },
+    {
+      "conf": 0.570533,
+      "end": 37.89,
+      "start": 36.894174,
+      "word": "divertissement"
+    },
+    {
+      "conf": 0.986541,
+      "end": 44.28,
+      "start": 44.16,
+      "word": "de"
+    },
+    {
+      "conf": 0.999143,
+      "end": 44.85,
+      "start": 44.28,
+      "word": "premier"
+    },
+    {
+      "conf": 0.847035,
+      "end": 47.55,
+      "start": 47.31,
+      "word": "rang"
+    },
+    {
+      "conf": 1.0,
+      "end": 48.06,
+      "start": 47.55,
+      "word": "sa"
+    },
+    {
+      "conf": 1.0,
+      "end": 49.2,
+      "start": 48.75,
+      "word": "seule"
+    },
+    {
+      "conf": 1.0,
+      "end": 49.86,
+      "start": 49.2,
+      "word": "volont\u00e9"
+    },
+    {
+      "conf": 0.642985,
+      "end": 50.459996,
+      "start": 50.399996,
+      "word": "a"
+    },
+    {
+      "conf": 0.642985,
+      "end": 50.785089,
+      "start": 50.459996,
+      "word": "\u00e9t\u00e9"
+    },
+    {
+      "conf": 0.570307,
+      "end": 50.97,
+      "start": 50.79,
+      "word": "si"
+    },
+    {
+      "conf": 1.0,
+      "end": 51.3,
+      "start": 50.97,
+      "word": "bon"
+    },
+    {
+      "conf": 1.0,
+      "end": 51.84,
+      "start": 51.3,
+      "word": "pas"
+    },
+    {
+      "conf": 1.0,
+      "end": 53.13,
+      "start": 52.83,
+      "word": "bon"
+    },
+    {
+      "conf": 0.969035,
+      "end": 53.431534,
+      "start": 53.13,
+      "word": "\u00e7a"
+    },
+    {
+      "conf": 0.74463,
+      "end": 54.9,
+      "start": 54.27,
+      "word": "\u00e9tait"
+    },
+    {
+      "conf": 0.95773,
+      "end": 55.68,
+      "start": 54.906676,
+      "word": "possible"
+    },
+    {
+      "conf": 0.349537,
+      "end": 56.250004,
+      "start": 55.950004,
+      "word": "aise"
+    },
+    {
+      "conf": 0.998133,
+      "end": 56.55,
+      "start": 56.265223,
+      "word": "comme"
+    },
+    {
+      "conf": 0.998133,
+      "end": 57.21,
+      "start": 56.55,
+      "word": "cela"
+    },
+    {
+      "conf": 0.889476,
+      "end": 58.205123,
+      "start": 57.78,
+      "word": "qu'on"
+    },
+    {
+      "conf": 0.191411,
+      "end": 58.44,
+      "start": 58.205123,
+      "word": "fera"
+    },
+    {
+      "conf": 0.953906,
+      "end": 58.95,
+      "start": 58.46283,
+      "word": "pas"
+    },
+    {
+      "conf": 1.0,
+      "end": 59.34,
+      "start": 59.16,
+      "word": "tout"
+    },
+    {
+      "conf": 1.0,
+      "end": 59.85,
+      "start": 59.34,
+      "word": "seul"
+    },
+    {
+      "conf": 1.0,
+      "end": 60.63,
+      "start": 60.42,
+      "word": "dans"
+    },
+    {
+      "conf": 1.0,
+      "end": 62.4,
+      "start": 62.01,
+      "word": "la"
+    },
+    {
+      "conf": 1.0,
+      "end": 64.98,
+      "start": 63.99,
+      "word": "voiture"
+    },
+    {
+      "conf": 0.931153,
+      "end": 65.43,
+      "start": 65.28,
+      "word": "mais"
+    },
+    {
+      "conf": 1.0,
+      "end": 65.64,
+      "start": 65.43,
+      "word": "toi"
+    },
+    {
+      "conf": 1.0,
+      "end": 77.25,
+      "start": 77.01,
+      "word": "tu"
+    },
+    {
+      "conf": 1.0,
+      "end": 77.52,
+      "start": 77.25,
+      "word": "as"
+    },
+    {
+      "conf": 0.793649,
+      "end": 80.37,
+      "start": 79.59,
+      "word": "souvent"
+    },
+    {
+      "conf": 1.0,
+      "end": 80.7,
+      "start": 80.55,
+      "word": "eu"
+    },
+    {
+      "conf": 1.0,
+      "end": 81.42,
+      "start": 80.7,
+      "word": "ces"
+    },
+    {
+      "conf": 1.0,
+      "end": 83.34,
+      "start": 82.47,
+      "word": "fourr\u00e9s"
+    },
+    {
+      "conf": 1.0,
+      "end": 257.91,
+      "start": 257.61,
+      "word": "mesdames"
+    },
+    {
+      "conf": 1.0,
+      "end": 258.42,
+      "start": 257.91,
+      "word": "messieurs"
+    },
+    {
+      "conf": 1.0,
+      "end": 260.34,
+      "start": 260.07,
+      "word": "cent"
+    },
+    {
+      "conf": 1.0,
+      "end": 261.72,
+      "start": 261.33,
+      "word": "soixante"
+    },
+    {
+      "conf": 1.0,
+      "end": 261.84,
+      "start": 261.72,
+      "word": "dix"
+    },
+    {
+      "conf": 1.0,
+      "end": 263.55,
+      "start": 263.13,
+      "word": "parmi"
+    },
+    {
+      "conf": 1.0,
+      "end": 264.36,
+      "start": 264.24,
+      "word": "les"
+    },
+    {
+      "conf": 1.0,
+      "end": 264.87,
+      "start": 264.36,
+      "word": "anormaux"
+    },
+    {
+      "conf": 1.0,
+      "end": 266.01,
+      "start": 265.59,
+      "word": "d'aider"
+    },
+    {
+      "conf": 1.0,
+      "end": 267.75,
+      "start": 267.6,
+      "word": "ces"
+    },
+    {
+      "conf": 1.0,
+      "end": 268.8,
+      "start": 268.41,
+      "word": "derniers"
+    },
+    {
+      "conf": 1.0,
+      "end": 268.86,
+      "start": 268.8,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 0.992928,
+      "end": 269.22,
+      "start": 268.86,
+      "word": "partir"
+    },
+    {
+      "conf": 0.992928,
+      "end": 269.34,
+      "start": 269.22,
+      "word": "du"
+    },
+    {
+      "conf": 0.728735,
+      "end": 269.73,
+      "start": 269.34,
+      "word": "soldat"
+    },
+    {
+      "conf": 0.493297,
+      "end": 269.937275,
+      "start": 269.88,
+      "word": "et"
+    },
+    {
+      "conf": 0.952713,
+      "end": 270.10623,
+      "start": 269.937275,
+      "word": "je"
+    },
+    {
+      "conf": 0.952713,
+      "end": 270.329443,
+      "start": 270.12,
+      "word": "demande"
+    },
+    {
+      "conf": 0.738412,
+      "end": 270.388125,
+      "start": 270.329443,
+      "word": "de"
+    },
+    {
+      "conf": 0.79037,
+      "end": 270.479502,
+      "start": 270.388125,
+      "word": "nous"
+    },
+    {
+      "conf": 1.0,
+      "end": 271.078711,
+      "start": 270.479502,
+      "word": "sortir"
+    },
+    {
+      "conf": 0.728188,
+      "end": 271.2,
+      "start": 271.08,
+      "word": "une"
+    },
+    {
+      "conf": 0.728188,
+      "end": 271.385127,
+      "start": 271.2,
+      "word": "id\u00e9e"
+    },
+    {
+      "conf": 0.528275,
+      "end": 271.442549,
+      "start": 271.385127,
+      "word": "de"
+    },
+    {
+      "conf": 0.728188,
+      "end": 271.92,
+      "start": 271.480928,
+      "word": "cadeau"
+    },
+    {
+      "conf": 0.671369,
+      "end": 272.22,
+      "start": 272.04,
+      "word": "pour"
+    },
+    {
+      "conf": 0.567026,
+      "end": 272.43,
+      "start": 272.22,
+      "word": "vous"
+    }
+  ],
+  "text": "notre but est de nous divertir que ce soit pour m'aider \u00e0 pr\u00e9server de la r\u00e9ception d'un m\u00e9decin avec et de la je veux que nous entretenons ensemble divertissement de premier rang sa seule volont\u00e9 a \u00e9t\u00e9 si bon pas bon \u00e7a \u00e9tait possible aise comme cela qu'on fera pas tout seul dans la voiture mais toi tu as souvent eu ces fourr\u00e9s mesdames messieurs cent soixante dix parmi les anormaux d'aider ces derniers \u00e0 partir du soldat et je demande de nous sortir une id\u00e9e de cadeau pour vous",
+  "media": "E:\\LMI\\archives\\MALADE_1.mp4"
+}

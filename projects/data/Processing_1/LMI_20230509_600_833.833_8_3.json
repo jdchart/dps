@@ -1,0 +1,480 @@
+{
+  "result": [
+    {
+      "conf": 0.757652,
+      "end": 2.16,
+      "start": 2.01,
+      "word": "il"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.34,
+      "start": 2.16,
+      "word": "se"
+    },
+    {
+      "conf": 0.757652,
+      "end": 2.73,
+      "start": 2.34,
+      "word": "mettait"
+    },
+    {
+      "conf": 1.0,
+      "end": 2.88,
+      "start": 2.79,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.27,
+      "start": 2.88,
+      "word": "genoux"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.57,
+      "start": 3.27,
+      "word": "devant"
+    },
+    {
+      "conf": 1.0,
+      "end": 3.87,
+      "start": 3.66,
+      "word": "elle"
+    },
+    {
+      "conf": 1.0,
+      "end": 24.57,
+      "start": 24.27,
+      "word": "puis"
+    },
+    {
+      "conf": 1.0,
+      "end": 34.92,
+      "start": 34.74,
+      "word": "lui"
+    },
+    {
+      "conf": 1.0,
+      "end": 35.28,
+      "start": 34.92,
+      "word": "baiser"
+    },
+    {
+      "conf": 1.0,
+      "end": 35.4,
+      "start": 35.28,
+      "word": "les"
+    },
+    {
+      "conf": 1.0,
+      "end": 35.67,
+      "start": 35.4,
+      "word": "mains"
+    },
+    {
+      "conf": 1.0,
+      "end": 50.46,
+      "start": 50.16,
+      "word": "puis"
+    },
+    {
+      "conf": 1.0,
+      "end": 50.91,
+      "start": 50.46,
+      "word": "apr\u00e8s"
+    },
+    {
+      "conf": 1.0,
+      "end": 61.8,
+      "start": 61.65,
+      "word": "avoir"
+    },
+    {
+      "conf": 0.987757,
+      "end": 64.59,
+      "start": 64.02,
+      "word": "commenc\u00e9"
+    },
+    {
+      "conf": 0.987757,
+      "end": 65.4,
+      "start": 65.34,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 0.987757,
+      "end": 66.09,
+      "start": 65.4,
+      "word": "prendre"
+    },
+    {
+      "conf": 0.987757,
+      "end": 66.66,
+      "start": 66.09,
+      "word": "forme"
+    },
+    {
+      "conf": 0.970828,
+      "end": 68.1,
+      "start": 67.98,
+      "word": "en"
+    },
+    {
+      "conf": 0.967018,
+      "end": 68.52,
+      "start": 68.1,
+      "word": "pointant"
+    },
+    {
+      "conf": 0.951222,
+      "end": 76.02,
+      "start": 75.93,
+      "word": "du"
+    },
+    {
+      "conf": 0.951222,
+      "end": 76.26,
+      "start": 76.02,
+      "word": "doigt"
+    },
+    {
+      "conf": 1.0,
+      "end": 91.02,
+      "start": 90.21,
+      "word": "en"
+    },
+    {
+      "conf": 0.719671,
+      "end": 91.611445,
+      "start": 91.32,
+      "word": "voil\u00e0"
+    },
+    {
+      "conf": 0.794879,
+      "end": 92.94,
+      "start": 92.64,
+      "word": "quelque"
+    },
+    {
+      "conf": 0.794879,
+      "end": 93.068826,
+      "start": 92.94,
+      "word": "chose"
+    },
+    {
+      "conf": 0.603151,
+      "end": 93.135022,
+      "start": 93.068826,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 93.33,
+      "start": 93.221938,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 93.540366,
+      "start": 93.33,
+      "word": "avez"
+    },
+    {
+      "conf": 0.949601,
+      "end": 93.73002,
+      "start": 93.540366,
+      "word": "vu"
+    },
+    {
+      "conf": 1.0,
+      "end": 101.52,
+      "start": 101.16,
+      "word": "votre"
+    },
+    {
+      "conf": 0.972361,
+      "end": 101.88011,
+      "start": 101.52,
+      "word": "petit"
+    },
+    {
+      "conf": 0.946265,
+      "end": 102.27,
+      "start": 101.88011,
+      "word": "doigt"
+    },
+    {
+      "conf": 0.857029,
+      "end": 102.84,
+      "start": 102.36,
+      "word": "\u00e9videmment"
+    },
+    {
+      "conf": 0.855333,
+      "end": 111.48,
+      "start": 111.33,
+      "word": "mon"
+    },
+    {
+      "conf": 1.0,
+      "end": 111.96,
+      "start": 111.483955,
+      "word": "papa"
+    },
+    {
+      "conf": 1.0,
+      "end": 112.23,
+      "start": 112.08,
+      "word": "ne"
+    },
+    {
+      "conf": 0.503831,
+      "end": 112.350007,
+      "start": 112.230007,
+      "word": "me"
+    },
+    {
+      "conf": 0.983991,
+      "end": 112.71,
+      "start": 112.350007,
+      "word": "croyez"
+    },
+    {
+      "conf": 1.0,
+      "end": 113.01,
+      "start": 112.711443,
+      "word": "pas"
+    },
+    {
+      "conf": 0.996082,
+      "end": 120.15,
+      "start": 119.85,
+      "word": "je"
+    },
+    {
+      "conf": 0.996082,
+      "end": 120.81,
+      "start": 120.48,
+      "word": "suis"
+    },
+    {
+      "conf": 0.741153,
+      "end": 164.668506,
+      "start": 164.25,
+      "word": "une"
+    },
+    {
+      "conf": 0.562335,
+      "end": 176.25,
+      "start": 175.92,
+      "word": "honte"
+    },
+    {
+      "conf": 0.871004,
+      "end": 180.811538,
+      "start": 180.72,
+      "word": "je"
+    },
+    {
+      "conf": 0.845,
+      "end": 180.87,
+      "start": 180.811538,
+      "word": "ne"
+    },
+    {
+      "conf": 0.547374,
+      "end": 180.96,
+      "start": 180.87,
+      "word": "veux"
+    },
+    {
+      "conf": 1.0,
+      "end": 181.23,
+      "start": 180.99,
+      "word": "pas"
+    },
+    {
+      "conf": 1.0,
+      "end": 181.89,
+      "start": 181.23,
+      "word": "seulement"
+    },
+    {
+      "conf": 1.0,
+      "end": 182.1,
+      "start": 181.92,
+      "word": "le"
+    },
+    {
+      "conf": 1.0,
+      "end": 182.91,
+      "start": 182.1,
+      "word": "loisir"
+    },
+    {
+      "conf": 1.0,
+      "end": 183.03,
+      "start": 182.91,
+      "word": "de"
+    },
+    {
+      "conf": 1.0,
+      "end": 184.08,
+      "start": 183.03,
+      "word": "songer"
+    },
+    {
+      "conf": 1.0,
+      "end": 184.89,
+      "start": 184.74,
+      "word": "\u00e0"
+    },
+    {
+      "conf": 0.999025,
+      "end": 185.430513,
+      "start": 185.04,
+      "word": "ma"
+    },
+    {
+      "conf": 0.992824,
+      "end": 186.18,
+      "start": 185.49,
+      "word": "maladie"
+    },
+    {
+      "conf": 0.988358,
+      "end": 187.92,
+      "start": 187.83,
+      "word": "en"
+    },
+    {
+      "conf": 0.988358,
+      "end": 188.82,
+      "start": 187.92,
+      "word": "v\u00e9rit\u00e9"
+    },
+    {
+      "conf": 0.621862,
+      "end": 189.3,
+      "start": 188.97,
+      "word": "j'aimerais"
+    },
+    {
+      "conf": 0.640989,
+      "end": 190.229985,
+      "start": 189.655869,
+      "word": "plus"
+    },
+    {
+      "conf": 1.0,
+      "end": 215.85,
+      "start": 215.61,
+      "word": "que"
+    },
+    {
+      "conf": 0.760197,
+      "end": 217.419331,
+      "start": 217.287803,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 217.62,
+      "start": 217.419331,
+      "word": "vous"
+    },
+    {
+      "conf": 1.0,
+      "end": 218.07,
+      "start": 217.62,
+      "word": "portez"
+    },
+    {
+      "conf": 0.830893,
+      "end": 223.44,
+      "start": 222.96,
+      "word": "forme"
+    },
+    {
+      "conf": 1.0,
+      "end": 224.987666,
+      "start": 224.61,
+      "word": "comme"
+    },
+    {
+      "conf": 0.932935,
+      "end": 225.78,
+      "start": 225.42,
+      "word": "fond"
+    },
+    {
+      "conf": 0.931898,
+      "end": 228.27,
+      "start": 228.18,
+      "word": "je"
+    },
+    {
+      "conf": 0.931898,
+      "end": 228.42,
+      "start": 228.27,
+      "word": "suis"
+    },
+    {
+      "conf": 0.992051,
+      "end": 228.6,
+      "start": 228.42,
+      "word": "dans"
+    },
+    {
+      "conf": 0.992051,
+      "end": 228.78,
+      "start": 228.6,
+      "word": "une"
+    },
+    {
+      "conf": 1.0,
+      "end": 229.68,
+      "start": 228.81,
+      "word": "faiblesse"
+    },
+    {
+      "conf": 0.72024,
+      "end": 230.31,
+      "start": 229.77,
+      "word": "grande"
+    },
+    {
+      "conf": 1.0,
+      "end": 230.49,
+      "start": 230.34,
+      "word": "que"
+    },
+    {
+      "conf": 1.0,
+      "end": 230.73,
+      "start": 230.49,
+      "word": "cela"
+    },
+    {
+      "conf": 1.0,
+      "end": 230.88,
+      "start": 230.73,
+      "word": "n'est"
+    },
+    {
+      "conf": 1.0,
+      "end": 231.18,
+      "start": 230.88,
+      "word": "pas"
+    },
+    {
+      "conf": 1.0,
+      "end": 231.87,
+      "start": 231.27,
+      "word": "croyable"
+    }
+  ],
+  "text": "il se mettait \u00e0 genoux devant elle puis lui baiser les mains puis apr\u00e8s avoir commenc\u00e9 \u00e0 prendre forme en pointant du doigt en voil\u00e0 quelque chose que vous avez vu votre petit doigt \u00e9videmment mon papa ne me croyez pas je suis une honte je ne veux pas seulement le loisir de songer \u00e0 ma maladie en v\u00e9rit\u00e9 j'aimerais plus que vous vous portez forme comme fond je suis dans une faiblesse grande que cela n'est pas croyable",
+  "media": "E:\\LMI\\20230509_4\\LMI_20230509_4_08.MP4"
+}
