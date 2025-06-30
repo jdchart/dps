@@ -4,3 +4,5 @@ dps.egg-info
 build
 dps/__pycache__
 test.py
+examples/__pycache__
+projects/scripts/clean/__pycache__

@@ -10,7 +10,7 @@ class SpeechAnalysis:
         Class to perform operations on a speech analysis file.
 
         kwargs
-        - fps : framesper second in the raw curve.
+        - fps : frames per second in the raw curve.
         - window_size : length in ms of a frame in the raw curve.
         """
 
@@ -34,7 +34,7 @@ class SpeechAnalysis:
         self._load_analysis()
         self._get_media_length()
 
-        self.media_length_frames =  int(self.media_length_ms * (30 / 1000))
+        self.media_length_frames =  int(self.media_length_ms * (self.fps / 1000))
         
         self.raw_curve = self._get_raw_curve()
 
