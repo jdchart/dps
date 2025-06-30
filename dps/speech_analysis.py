@@ -37,6 +37,7 @@ class SpeechAnalysis:
         self.media_length_frames =  int(self.media_length_ms * (self.fps / 1000))
         
         self.raw_curve = self._get_raw_curve()
+        self.confidence_curve = self._get_confidence_curve()
 
     def get_dps(self, **kwargs):
         """Return the dps: "dits par seconde", number of words spoken / second."""
@@ -155,3 +156,31 @@ class SpeechAnalysis:
         else:
             plt.title('Silence or word index')
         plt.show()
+
+    def _get_confidence_curve(self, silence_mode = "ffill"):
+        """
+        silence_mode: how to fill confidence in silent frames:
+            - "nan": silence is NaN
+            - "zero": silence is 0.0
+            - "ffill": forward-fill last known confidence
+        """
+        num_frames = math.floor(self.media_length_frames)
+        if silence_mode == "zero":
+            conf_curve = np.zeros((num_frames,), dtype=float)
+        else:
+            conf_curve = np.full((num_frames,), np.nan, dtype=float)
+
+        for word in self.raw_analysis:
+            start_frame = math.floor(word["start"] * 1000 / self.window_size)
+            end_frame = math.floor(word["end"] * 1000 / self.window_size)
+            conf_curve[start_frame:end_frame] = word["conf"]
+
+        if silence_mode == "ffill":
+            valid = ~np.isnan(conf_curve)
+            if np.any(valid):
+                last_valid = np.maximum.accumulate(np.where(valid, np.arange(num_frames), -1))
+                conf_curve = conf_curve[last_valid]
+            else:
+                conf_curve[:] = 0.0
+
+        return conf_curve

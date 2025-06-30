@@ -128,3 +128,34 @@ def display_scatter(data, cluster_labels):
     plt.title("Clustering des fenêtres rythmiques (t-SNE)")
     plt.tight_layout()
     plt.show()
+
+def display_two_curves(curve1, curve2, label1="Curve 1", label2="Curve 2", x_format="frames", fps=32, interval=5, rotation=90):
+    def format_time(x, pos):
+        total_seconds = x / fps
+        minutes = int(total_seconds) // 60
+        seconds = int(total_seconds) % 60
+        return f"{minutes:02}:{seconds:02}"
+    
+    plt.figure(figsize=(10, 6))
+    frame_numbers = np.arange(len(curve1))  # Assumes same length for both
+
+    plt.plot(frame_numbers, curve1, label=label1, drawstyle='steps-post')
+    plt.plot(frame_numbers, curve2, label=label2, drawstyle='steps-post', alpha=0.7)
+
+    if x_format == "frames":
+        plt.xlabel("Frame")
+    elif x_format == "time":
+        plt.xlabel("Time (MM:SS)")
+        interval_frames = int(interval * 60 * fps)
+        tick_positions = np.arange(0, len(curve1), interval_frames)
+        plt.xticks(tick_positions)
+        plt.gca().xaxis.set_major_formatter(FuncFormatter(format_time))
+        plt.xticks(rotation=rotation)
+
+    plt.ylabel("Value")
+    plt.title("Comparison of Two Curves")
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+    plt.show()
+    plt.close()
