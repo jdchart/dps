@@ -159,3 +159,85 @@ def display_two_curves(curve1, curve2, label1="Curve 1", label2="Curve 2", x_for
     plt.tight_layout()
     plt.show()
     plt.close()
+
+def indices_to_timeranges(valid_segments, fps):
+    time_ranges = []
+    start = None
+
+    for i, is_valid in enumerate(valid_segments):
+        if is_valid and start is None:
+            start = i
+        elif not is_valid and start is not None:
+            end = i
+            time_ranges.append((start / fps, end / fps))  # Convertir les indices en secondes
+            start = None
+
+    if start is not None:
+        time_ranges.append((start / fps, len(valid_segments) / fps))
+
+    segment_minutes = [(t[0] // 60, t[1] // 60) for t in time_ranges]
+    segment_seconds = [(t[0] % 60, t[1] % 60) for t in time_ranges]
+
+    return time_ranges, segment_minutes, segment_seconds
+
+def find_constant_segments_over_threshold(data, threshold, window_size):
+    """
+    Trouve les segments de `data` où les valeurs dépassent `threshold` 
+    sur une période continue d'au moins `window_size`.
+    """
+    # Identifie les points au-dessus du seuil
+    above_threshold = data > threshold
+    
+    # Crée un masque booléen avec des fenêtres glissantes
+    valid_segments = np.convolve(above_threshold, np.ones(window_size, dtype=int), mode='same') >= window_size
+    
+    return valid_segments
+
+def plot_differentials_with_segments(differentials_of_differentials, fps, threshold, time_window, window_size, out_dest, key = None):
+    curves_to_plot = [key] if key else differentials_of_differentials.keys()
+    
+    for curve_key in curves_to_plot:
+        label_for_significant_segments = f"Variations > {threshold} over {time_window} min"
+
+        differ_of_differ = differentials_of_differentials[curve_key]
+        valid_segments = find_constant_segments_over_threshold(differ_of_differ, threshold, window_size)
+        time_ranges, segment_minutes, segment_seconds = indices_to_timeranges(valid_segments, fps)
+
+        
+        # Graphique
+        plt.figure(figsize=(15, 5))
+        time_axis = np.linspace(0, len(differ_of_differ) / fps, len(differ_of_differ))
+
+        print(time_axis[4999])
+        
+        plt.plot(time_axis, differ_of_differ, label=f"Differential between the transitions of {curve_key}")
+        plt.fill_between(time_axis, 0, differ_of_differ, where=valid_segments, 
+                 color='orange', alpha=0.3, label=label_for_significant_segments)
+
+        #plt.axhline(y=threshold, color='red', linestyle='--', label=f"Threshold = {threshold}")
+        plt.title(f"Mutation between the transitions from clusters centroids : {curve_key}")
+        plt.xlabel("Time (mm:ss)")
+        plt.ylabel("Differential of WPS")
+        plt.legend()
+        plt.tight_layout()
+        plt.savefig(out_dest, dpi=300, bbox_inches='tight')
+        plt.show()
+        plt.close()
+        
+        # Inspection des segments
+        print(f"Segments significatifs pour {curve_key} (seuil {threshold} sur {time_window} minutes) :")     
+        # Affichage des horaires au format mm:ss
+
+        time_ranges_mmss = []
+        for start, end in segment_seconds:
+            start_mmss = f"{int(start):02}.{int((start % 1) * 60):02}"
+            end_mmss = f"{int(end):02}.{int((end % 1) * 60):02}"
+            
+            time_ranges_mmss.append((start_mmss, end_mmss))
+        
+        #time_ranges_mmss = [
+        #    (f"{int(start):02}.{int((start % 1) * 60):02}", f"{int(end):02}.{int((end % 1) * 60):02}")
+        #    for start, end in segment_seconds
+        #]
+        
+        print("- Horaires au format mm.ss : ", time_ranges)  # Horaires en mm:ss pour la lisibilité
